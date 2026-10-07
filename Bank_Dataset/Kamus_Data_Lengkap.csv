@@ -1,0 +1,221 @@
+folder,berkas,kolom,tipe,satuan,rentang / nilai,contoh,kosong,keterangan
+P02_Dasar_I_Variabel_dan_Operator,p02_rendemen_dan_biaya_mini,kode_batch,teks,-,10 nilai unik,BTC-2604-01,0,Kode batch produksi. Kunci utama pada tabel batch_produksi.
+P02_Dasar_I_Variabel_dan_Operator,p02_rendemen_dan_biaya_mini,kode_produk,teks,-,PRD-02; PRD-01; PRD-03,PRD-02,0,Kode unik produk. Kunci utama pada tabel produk; kunci tamu pada tabel lain.
+P02_Dasar_I_Variabel_dan_Operator,p02_rendemen_dan_biaya_mini,bahan_baku_kg,bilangan desimal,kg,92.10 - 132.10,115.9,0,Bobot bahan baku yang diproses dalam batch.
+P02_Dasar_I_Variabel_dan_Operator,p02_rendemen_dan_biaya_mini,produk_jadi_kg,bilangan desimal,kg,8.89 - 13.78,11.43,0,Bobot produk jadi yang dihasilkan.
+P02_Dasar_I_Variabel_dan_Operator,p02_rendemen_dan_biaya_mini,biaya_bahan_baku_rp,bilangan bulat,Rp,673.158.00 - 1.021.957.00,930445,0,Biaya pembelian bahan baku untuk satu batch.
+P02_Dasar_I_Variabel_dan_Operator,p02_rendemen_dan_biaya_mini,biaya_tenaga_kerja_rp,bilangan bulat,Rp,201.776.00 - 319.828.00,315309,0,Biaya tenaga kerja langsung satu batch.
+P02_Dasar_I_Variabel_dan_Operator,p02_rendemen_dan_biaya_mini,biaya_energi_rp,bilangan bulat,Rp,100.831.00 - 167.163.00,110523,0,Biaya listrik dan gas satu batch.
+P02_Dasar_I_Variabel_dan_Operator,p02_rendemen_dan_biaya_mini,jumlah_kemasan_pcs,bilangan bulat,pcs,88.00 - 137.00,114,0,Jumlah kemasan 100 g yang dihasilkan.
+P02_Dasar_I_Variabel_dan_Operator,master_produk,kode_produk,teks,-,PRD-01; PRD-02; PRD-03; PRD-04; PRD-05; PRD-06; PRD-07; PRD-08,PRD-01,0,Kode unik produk. Kunci utama pada tabel produk; kunci tamu pada tabel lain.
+P02_Dasar_I_Variabel_dan_Operator,master_produk,nama_produk,teks,-,Keripik Nangka Vakum; Keripik Salak Vakum; Keripik Nanas Vakum; Tepung Mocaf Premium; Tepung Sukun; Sari Buah Markisa; Sirup Rosella; Bubuk Cabai Kering,Keripik Nangka Vakum,0,Nama dagang produk.
+P02_Dasar_I_Variabel_dan_Operator,master_produk,kategori,teks,-,Keripik buah; Tepung; Minuman; Bumbu,Keripik buah,0,"Kelompok produk: Keripik buah, Tepung, Minuman, atau Bumbu."
+P02_Dasar_I_Variabel_dan_Operator,master_produk,bahan_baku_utama,teks,-,Nangka; Salak Pondoh; Nanas; Singkong; Sukun; Markisa; Rosella; Cabai Merah,Nangka,0,Komoditas utama penyusun produk.
+P02_Dasar_I_Variabel_dan_Operator,master_produk,jenis_kemasan,teks,-,pouch; kemasan; botol,pouch,0,"Bentuk kemasan primer: pouch, kemasan, atau botol."
+P02_Dasar_I_Variabel_dan_Operator,master_produk,berat_bersih_g,bilangan bulat,g,50.00 - 500.00,100,0,Berat bersih isi kemasan. Pada berkas master merupakan klaim label; pada berkas QC merupakan hasil penimbangan sampel.
+P02_Dasar_I_Variabel_dan_Operator,master_produk,harga_jual_rp,bilangan bulat,Rp,12.000.00 - 32.000.00,28000,0,Harga jual satu kemasan di tingkat konsumen.
+P02_Dasar_I_Variabel_dan_Operator,master_produk,tanggal_luncur,teks,-,2021-03-01; 2022-08-15; 2020-01-10; 2023-02-01; 2022-05-20; 2023-09-01; 2021-11-11,2021-03-01,0,Tanggal produk pertama kali dipasarkan (format YYYY-MM-DD).
+P03_Dasar_II_Percabangan,p03_penerimaan_bahan_baku_mini,kode_penerimaan,teks,-,20 nilai unik,TRM-001,0,Nomor dokumen penerimaan bahan baku.
+P03_Dasar_II_Percabangan,p03_penerimaan_bahan_baku_mini,tanggal,teks,-,2026-04-06; 2026-04-07; 2026-04-08; 2026-04-09; 2026-04-10; 2026-04-11; 2026-04-12,2026-04-06,0,Tanggal pencatatan.
+P03_Dasar_II_Percabangan,p03_penerimaan_bahan_baku_mini,komoditas,teks,-,Salak Pondoh; Nangka; Nanas,Salak Pondoh,0,Komoditas yang dipasok.
+P03_Dasar_II_Percabangan,p03_penerimaan_bahan_baku_mini,kode_pemasok,teks,-,SUP-02; SUP-01; SUP-03,SUP-02,0,Kode unik pemasok. Kunci utama pada tabel pemasok.
+P03_Dasar_II_Percabangan,p03_penerimaan_bahan_baku_mini,bobot_kg,bilangan desimal,kg,113.20 - 196.10,196.1,0,Bobot bahan baku yang diterima.
+P03_Dasar_II_Percabangan,p03_penerimaan_bahan_baku_mini,kadar_air_persen,bilangan desimal,% bb,71.60 - 87.20,77.2,0,Kadar air basis basah.
+P03_Dasar_II_Percabangan,p03_penerimaan_bahan_baku_mini,total_padatan_terlarut_brix,bilangan desimal,degBrix,9.20 - 18.10,15.0,0,Total padatan terlarut buah segar.
+P03_Dasar_II_Percabangan,p03_penerimaan_bahan_baku_mini,cacat_fisik_persen,bilangan desimal,%,0.00 - 13.70,13.4,0,"Proporsi bahan cacat: memar, busuk, atau ukuran tidak seragam."
+P03_Dasar_II_Percabangan,p03_penerimaan_bahan_baku_mini,suhu_terima_c,bilangan desimal,degC,22.60 - 33.40,27.1,0,Suhu bahan baku saat diterima di gudang.
+P03_Dasar_II_Percabangan,master_pemasok,kode_pemasok,teks,-,SUP-01; SUP-02; SUP-03; SUP-04; SUP-05; SUP-06; SUP-07; SUP-08,SUP-01,0,Kode unik pemasok. Kunci utama pada tabel pemasok.
+P03_Dasar_II_Percabangan,master_pemasok,nama_pemasok,teks,-,Kelompok Tani Ngudi Rahayu; Koperasi Salak Sejahtera; KUB Tani Makmur; CV Singkong Mandiri; Gapoktan Sukun Lestari; Kelompok Tani Markisa Ijo; KWT Rosella Asri; UD Cabai Jaya,Kelompok Tani Ngudi Rahayu,0,"Nama kelompok tani, koperasi, atau badan usaha pemasok."
+P03_Dasar_II_Percabangan,master_pemasok,komoditas,teks,-,Nangka; Salak Pondoh; Nanas; Singkong; Sukun; Markisa; Rosella; Cabai Merah,Nangka,0,Komoditas yang dipasok.
+P03_Dasar_II_Percabangan,master_pemasok,kabupaten,teks,-,Sleman; Kediri; Gunungkidul; Cilacap; Magelang; Bantul; Temanggung,Sleman,0,Kabupaten domisili pemasok.
+P03_Dasar_II_Percabangan,master_pemasok,provinsi,teks,-,DI Yogyakarta; Jawa Timur; Jawa Tengah,DI Yogyakarta,0,Provinsi domisili pemasok.
+P03_Dasar_II_Percabangan,master_pemasok,tahun_mulai_mitra,bilangan bulat,tahun,2.017.00 - 2.023.00,2019,0,Tahun pemasok mulai bermitra dengan perusahaan.
+P03_Dasar_II_Percabangan,master_pemasok,sertifikasi_prima,teks,-,Prima 3; Prima 2; Belum,Prima 3,0,Status sertifikasi Prima 2 / Prima 3 / Belum.
+P04_Dasar_III_Perulangan,p04_kadar_air_50_sampel,no_sampel,bilangan bulat,-,1.00 - 50.00,1,0,Nomor urut sampel yang diambil dari satu batch.
+P04_Dasar_III_Perulangan,p04_kadar_air_50_sampel,kode_batch,teks,-,BTC-260415-001; BTC-260415-002,BTC-260415-001,0,Kode batch produksi. Kunci utama pada tabel batch_produksi.
+P04_Dasar_III_Perulangan,p04_kadar_air_50_sampel,kadar_air_persen,bilangan desimal,% bb,1.61 - 3.09,2.9,0,Kadar air basis basah.
+P05_Dasar_IV_Struktur_Data_dan_Fungsi,p05_formula_bahan_flakes,nama_bahan,teks,-,Tepung mocaf; Tepung sukun; Gula halus; Minyak nabati; Garam; Susu bubuk; Perisa vanila,Tepung mocaf,0,Nama bahan penyusun formula.
+P05_Dasar_IV_Struktur_Data_dan_Fungsi,p05_formula_bahan_flakes,kode_formula,teks,-,F1; F2; F3; F4; F5; F6,F1,0,Kode formula flakes mocaf-sukun (F1 s.d. F6).
+P05_Dasar_IV_Struktur_Data_dan_Fungsi,p05_formula_bahan_flakes,jumlah_per_100kg_adonan,bilangan desimal,kg,0.00 - 100.00,100.0,0,Jumlah bahan untuk setiap 100 kg adonan.
+P05_Dasar_IV_Struktur_Data_dan_Fungsi,p05_formula_bahan_flakes,harga_bahan_rp_per_kg,bilangan bulat,Rp/kg,8.000.00 - 240.000.00,12500,0,Harga beli bahan per kilogram.
+P05_Dasar_IV_Struktur_Data_dan_Fungsi,p05_formula_bahan_flakes,satuan,teks,-,kg,kg,0,Satuan pengukuran nilai pada baris tersebut.
+P05_Dasar_IV_Struktur_Data_dan_Fungsi,master_formula_flakes,kode_formula,teks,-,F1; F2; F3; F4; F5; F6,F1,0,Kode formula flakes mocaf-sukun (F1 s.d. F6).
+P05_Dasar_IV_Struktur_Data_dan_Fungsi,master_formula_flakes,mocaf_persen,bilangan bulat,%,0.00 - 100.00,100,0,Proporsi tepung mocaf dalam campuran tepung.
+P05_Dasar_IV_Struktur_Data_dan_Fungsi,master_formula_flakes,sukun_persen,bilangan bulat,%,0.00 - 100.00,0,0,Proporsi tepung sukun dalam campuran tepung.
+P05_Dasar_IV_Struktur_Data_dan_Fungsi,master_formula_flakes,gula_persen,bilangan desimal,%,12.00 - 12.00,12.0,0,Proporsi gula halus terhadap berat adonan.
+P05_Dasar_IV_Struktur_Data_dan_Fungsi,master_formula_flakes,lemak_persen,bilangan desimal,%,8.00 - 8.00,8.0,0,Proporsi minyak nabati terhadap berat adonan.
+P05_Dasar_IV_Struktur_Data_dan_Fungsi,master_formula_flakes,keterangan,teks,-,Kontrol mocaf penuh; Substitusi sukun 20%; Substitusi sukun 40%; Substitusi sukun 60%; Substitusi sukun 80%; Kontrol sukun penuh,Kontrol mocaf penuh,0,Catatan bebas.
+P06_Pandas_I_Membaca_Data,proksimat_formula_kecil,kode_batch_uji,teks,-,UJI-01,UJI-01,0,Kode kelompok pengujian laboratorium.
+P06_Pandas_I_Membaca_Data,proksimat_formula_kecil,tanggal_analisis,teks,-,2026-02-02,2026-02-02,0,Tanggal analisis dilakukan (YYYY-MM-DD).
+P06_Pandas_I_Membaca_Data,proksimat_formula_kecil,kode_formula,teks,-,F1; F2; F3; F4; F5,F1,0,Kode formula flakes mocaf-sukun (F1 s.d. F6).
+P06_Pandas_I_Membaca_Data,proksimat_formula_kecil,ulangan,bilangan bulat,-,1.00 - 3.00,1,0,Nomor ulangan pengukuran (duplo/triplo).
+P06_Pandas_I_Membaca_Data,proksimat_formula_kecil,kadar_air_persen,bilangan desimal,% bb,6.17 - 7.44,6.17,0,Kadar air basis basah.
+P06_Pandas_I_Membaca_Data,proksimat_formula_kecil,kadar_abu_persen,bilangan desimal,% bb,1.84 - 2.78,1.92,0,Kadar abu basis basah.
+P06_Pandas_I_Membaca_Data,proksimat_formula_kecil,kadar_protein_persen,bilangan desimal,% bb,1.88 - 3.98,1.88,0,Kadar protein kasar basis basah.
+P06_Pandas_I_Membaca_Data,proksimat_formula_kecil,kadar_lemak_persen,bilangan desimal,% bb,8.28 - 9.23,8.55,0,Kadar lemak basis basah.
+P06_Pandas_I_Membaca_Data,proksimat_formula_kecil,serat_kasar_persen,bilangan desimal,% bb,2.22 - 4.63,2.36,0,Kadar serat kasar basis basah.
+P06_Pandas_I_Membaca_Data,proksimat_formula_kecil,karbohidrat_by_difference_persen,bilangan desimal,% bb,76.73 - 81.49,81.49,0,"Karbohidrat dihitung sebagai 100 dikurangi air, abu, protein, dan lemak."
+P06_Pandas_I_Membaca_Data,proksimat_formula_kecil,analis,teks,-,Rani; Sekar; Yoga; Bagas,Rani,0,Nama analis laboratorium.
+P06_Pandas_I_Membaca_Data,proksimat_formula_besar,kode_batch_uji,teks,-,UJI-01; UJI-02; UJI-03; UJI-04; UJI-05; UJI-06; UJI-07; UJI-08,UJI-01,0,Kode kelompok pengujian laboratorium.
+P06_Pandas_I_Membaca_Data,proksimat_formula_besar,tanggal_analisis,teks,-,2026-02-02; 2026-02-09; 2026-02-16; 2026-02-23; 2026-03-02; 2026-03-09; 2026-03-16; 2026-03-23,2026-02-02,0,Tanggal analisis dilakukan (YYYY-MM-DD).
+P06_Pandas_I_Membaca_Data,proksimat_formula_besar,kode_formula,teks,-,F1; F2; F3; F4; F5; F6,F1,0,Kode formula flakes mocaf-sukun (F1 s.d. F6).
+P06_Pandas_I_Membaca_Data,proksimat_formula_besar,ulangan,bilangan bulat,-,1.00 - 3.00,1,0,Nomor ulangan pengukuran (duplo/triplo).
+P06_Pandas_I_Membaca_Data,proksimat_formula_besar,kadar_air_persen,bilangan desimal,% bb,5.97 - 7.73,6.13,0,Kadar air basis basah.
+P06_Pandas_I_Membaca_Data,proksimat_formula_besar,kadar_abu_persen,bilangan desimal,% bb,1.77 - 3.08,1.91,0,Kadar abu basis basah.
+P06_Pandas_I_Membaca_Data,proksimat_formula_besar,kadar_protein_persen,bilangan desimal,% bb,1.87 - 4.51,2.02,0,Kadar protein kasar basis basah.
+P06_Pandas_I_Membaca_Data,proksimat_formula_besar,kadar_lemak_persen,bilangan desimal,% bb,8.00 - 9.39,8.42,0,Kadar lemak basis basah.
+P06_Pandas_I_Membaca_Data,proksimat_formula_besar,serat_kasar_persen,bilangan desimal,% bb,1.92 - 5.25,1.92,0,Kadar serat kasar basis basah.
+P06_Pandas_I_Membaca_Data,proksimat_formula_besar,karbohidrat_by_difference_persen,bilangan desimal,% bb,75.77 - 81.88,81.53,0,"Karbohidrat dihitung sebagai 100 dikurangi air, abu, protein, dan lemak."
+P06_Pandas_I_Membaca_Data,proksimat_formula_besar,analis,teks,-,Rani; Sekar; Bagas; Yoga,Rani,0,Nama analis laboratorium.
+P06_Pandas_I_Membaca_Data,sensori_hedonik_kecil,sesi,bilangan bulat,-,1.00 - 1.00,1,0,Nomor sesi pengujian (uji diulang pada dua hari berbeda).
+P06_Pandas_I_Membaca_Data,sensori_hedonik_kecil,kode_panelis,teks,-,30 nilai unik,PNL-001,0,"Kode anonim panelis. Awalan PNL = panelis tidak terlatih, PTL = panelis terlatih."
+P06_Pandas_I_Membaca_Data,sensori_hedonik_kecil,jenis_kelamin,teks,-,Laki-laki; Perempuan,Laki-laki,0,Jenis kelamin panelis.
+P06_Pandas_I_Membaca_Data,sensori_hedonik_kecil,usia_tahun,bilangan bulat,tahun,18.00 - 23.00,19,0,Usia panelis.
+P06_Pandas_I_Membaca_Data,sensori_hedonik_kecil,kode_formula,teks,-,F1; F2; F3; F4,F1,0,Kode formula flakes mocaf-sukun (F1 s.d. F6).
+P06_Pandas_I_Membaca_Data,sensori_hedonik_kecil,skor_warna,bilangan bulat,skala 1-7,3.00 - 7.00,6,0,"Skor kesukaan terhadap warna (1 = sangat tidak suka, 7 = sangat suka)."
+P06_Pandas_I_Membaca_Data,sensori_hedonik_kecil,skor_aroma,bilangan bulat,skala 1-7,3.00 - 7.00,7,0,"Skor kesukaan terhadap aroma (1 = sangat tidak suka, 7 = sangat suka)."
+P06_Pandas_I_Membaca_Data,sensori_hedonik_kecil,skor_rasa,bilangan bulat,skala 1-7,3.00 - 7.00,6,0,"Skor kesukaan terhadap rasa (1 = sangat tidak suka, 7 = sangat suka)."
+P06_Pandas_I_Membaca_Data,sensori_hedonik_kecil,skor_tekstur,bilangan bulat,skala 1-7,3.00 - 7.00,6,0,"Skor kesukaan terhadap tekstur (1 = sangat tidak suka, 7 = sangat suka)."
+P06_Pandas_I_Membaca_Data,sensori_hedonik_kecil,skor_keseluruhan,bilangan bulat,skala 1-7,3.00 - 7.00,6,0,"Skor kesukaan keseluruhan (1 = sangat tidak suka, 7 = sangat suka)."
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,Tanggal ,teks,-,86 nilai unik,01/04/2026,0,Tanggal pencatatan. SENGAJA bermasalah: format campur dan ada spasi pada nama kolom.
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,SHIFT,teks,-,15 nilai unik,malam,0,Shift kerja. SENGAJA bermasalah: penulisan tidak konsisten (Pagi/pagi/PAGI/P/Shift Pagi).
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,Kode Batch,teks,-,65 nilai unik,BTC-260401-003,0,Kode batch produksi. Nama kolom memakai spasi dan huruf kapital.
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,kode produk,teks,-,PRD-03; PRD-01; PRD-02,PRD-03,0,Kode produk. Nama kolom memakai spasi.
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,kode_pemasok,teks,-,SUP-03; SUP-01; SUP-02,SUP-03,0,Kode unik pemasok. Kunci utama pada tabel pemasok.
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,mesin,teks,-,VF-02; VF-03; VF-01,VF-02,0,Kode mesin penggoreng vakum (VF-01 s.d. VF-03).
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,operator,teks,-,35 nilai unik,Fitri,3,Nama operator mesin.
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,no_sampel,bilangan bulat,-,1.00 - 9.00,3,0,Nomor urut sampel yang diambil dari satu batch.
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,Berat Bersih (g),teks,g atau kg,89 nilai unik,n/a,4,Berat bersih. SENGAJA bermasalah: sebagian dicatat dalam kg (lihat kolom satuan_berat) dan ada pencilan tidak masuk akal.
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,satuan_berat,teks,-,g; kg,g,0,Satuan yang dipakai pada kolom Berat Bersih: g atau kg.
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,Kadar Air (%),teks,%,188 nilai unik,2.07,3,"Kadar air. SENGAJA bermasalah: sebagian ditulis dengan koma desimal, sebagian diberi simbol %, sebagian kosong."
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,suhu_penggorengan,teks,degC,55 nilai unik,85.6,2,Suhu penggorengan. SENGAJA bermasalah: terdapat nilai hilang dan pencilan.
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,Rendemen (%),teks,%,220 nilai unik,  9.99  ,8,"Rendemen. SENGAJA bermasalah: berspasi, kosong, dan bernilai mustahil."
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,Status QC,teks,-,12 nilai unik,OK,0,"Keputusan QC. SENGAJA bermasalah: banyak variasi penulisan (Lolos/lolos/OK/Ya, Tolak/reject/Tidak)."
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,keterangan,teks,-,  ; alat kalibrasi ulang; listrik padam 10 menit; cek lagi!!; sampel ulang; bahan baku basah; operator baru,  ,161,Catatan bebas.
+P07_Pandas_II_Data_Cleaning,p07_qc_gabungan_KOTOR,catatan_tambahan,teks,-,,(kosong),343,Kolom kosong seluruhnya. SENGAJA disertakan agar mahasiswa berlatih membuang kolom tak berisi.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,tanggal,teks,-,313 nilai unik,2025-07-01,0,Tanggal pencatatan.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,shift,teks,-,Pagi; Siang; Malam,Pagi,0,"Shift kerja: Pagi, Siang, atau Malam."
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,kode_batch,teks,-,939 nilai unik,BTC-250701-001,0,Kode batch produksi. Kunci utama pada tabel batch_produksi.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,kode_produk,teks,-,PRD-02; PRD-01; PRD-03,PRD-02,0,Kode unik produk. Kunci utama pada tabel produk; kunci tamu pada tabel lain.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,mesin,teks,-,VF-01; VF-02; VF-03,VF-01,0,Kode mesin penggoreng vakum (VF-01 s.d. VF-03).
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,operator,teks,-,Bayu; Citra; Dewi; Fitri; Galih; Eko; Hana; Andi,Bayu,0,Nama operator mesin.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,no_sampel,bilangan bulat,-,1.00 - 22.00,1,0,Nomor urut sampel yang diambil dari satu batch.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,berat_bersih_g,bilangan desimal,g,93.10 - 105.30,100.1,0,Berat bersih isi kemasan. Pada berkas master merupakan klaim label; pada berkas QC merupakan hasil penimbangan sampel.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,kadar_air_persen,bilangan desimal,% bb,1.20 - 3.86,2.36,0,Kadar air basis basah.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,suhu_penggorengan_c,bilangan desimal,degC,77.90 - 91.90,84.0,0,Suhu minyak selama penggorengan vakum.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,tekanan_vakum_cmhg,bilangan desimal,cmHg,61.10 - 78.60,72.9,0,Tekanan vakum selama penggorengan.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,waktu_penggorengan_menit,bilangan desimal,menit,43.20 - 65.40,55.1,0,Lama penggorengan.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,bahan_baku_kg,bilangan desimal,kg,83.40 - 165.70,128.1,0,Bobot bahan baku yang diproses dalam batch.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,rendemen_persen,bilangan desimal,%,6.15 - 13.27,8.59,0,Nisbah produk jadi terhadap bahan baku dikali 100.
+P08_Pandas_III_Groupby_dan_Merge,qc_proses_besar,status_qc,teks,-,Lolos; Tolak,Lolos,0,"Keputusan QC: Lolos bila kadar air <= 3,0% dan berat bersih 97-103 g."
+P08_Pandas_III_Groupby_dan_Merge,penjualan_harian_besar,tanggal,teks,-,365 nilai unik,2025-07-01,0,Tanggal pencatatan.
+P08_Pandas_III_Groupby_dan_Merge,penjualan_harian_besar,kode_produk,teks,-,PRD-01; PRD-02; PRD-03; PRD-04; PRD-05; PRD-06; PRD-07; PRD-08,PRD-01,0,Kode unik produk. Kunci utama pada tabel produk; kunci tamu pada tabel lain.
+P08_Pandas_III_Groupby_dan_Merge,penjualan_harian_besar,wilayah,teks,-,DI Yogyakarta; Jawa Tengah; Jawa Timur; Jabodetabek,DI Yogyakarta,0,Wilayah pemasaran.
+P08_Pandas_III_Groupby_dan_Merge,penjualan_harian_besar,jumlah_terjual_pcs,bilangan bulat,pcs,0.00 - 55.00,14,0,Jumlah kemasan terjual.
+P08_Pandas_III_Groupby_dan_Merge,penjualan_harian_besar,harga_satuan_rp,bilangan bulat,Rp,12.000.00 - 32.000.00,28000,0,Harga jual satu kemasan sebelum diskon.
+P08_Pandas_III_Groupby_dan_Merge,penjualan_harian_besar,diskon_persen,bilangan desimal,%,0.00 - 15.00,0.0,0,Potongan harga yang diberikan.
+P08_Pandas_III_Groupby_dan_Merge,penjualan_harian_besar,total_penjualan_rp,bilangan bulat,Rp,0.00 - 1.037.400.00,392000,0,Nilai penjualan setelah diskon.
+P08_Pandas_III_Groupby_dan_Merge,penjualan_per_kanal_bulanan,bulan,teks,-,12 nilai unik,2025-07,0,Periode bulanan (format YYYY-MM).
+P08_Pandas_III_Groupby_dan_Merge,penjualan_per_kanal_bulanan,kode_produk,teks,-,PRD-01; PRD-02; PRD-03; PRD-04; PRD-05; PRD-06; PRD-07; PRD-08,PRD-01,0,Kode unik produk. Kunci utama pada tabel produk; kunci tamu pada tabel lain.
+P08_Pandas_III_Groupby_dan_Merge,penjualan_per_kanal_bulanan,kanal,teks,-,Distributor; Ritel Modern; Toko Oleh-oleh; Marketplace,Distributor,0,"Kanal distribusi: Distributor, Ritel Modern, Toko Oleh-oleh, Marketplace."
+P08_Pandas_III_Groupby_dan_Merge,penjualan_per_kanal_bulanan,jumlah_terjual_pcs,bilangan bulat,pcs,92.00 - 1.125.00,747,0,Jumlah kemasan terjual.
+P08_Pandas_III_Groupby_dan_Merge,penjualan_per_kanal_bulanan,total_penjualan_rp,bilangan bulat,Rp,1.854.000.00 - 21.868.000.00,20916000,0,Nilai penjualan setelah diskon.
+P08_Pandas_III_Groupby_dan_Merge,harga_komoditas_bulanan_kecil,bulan,teks,-,12 nilai unik,2025-07,0,Periode bulanan (format YYYY-MM).
+P08_Pandas_III_Groupby_dan_Merge,harga_komoditas_bulanan_kecil,komoditas,teks,-,Cabai Merah; Markisa; Nanas; Nangka; Rosella; Salak Pondoh; Singkong; Sukun,Cabai Merah,0,Komoditas yang dipasok.
+P08_Pandas_III_Groupby_dan_Merge,harga_komoditas_bulanan_kecil,harga_rata_rp_per_kg,bilangan bulat,Rp/kg,2.139.00 - 44.655.00,34842,0,Rata-rata harga harian dalam satu bulan.
+P08_Pandas_III_Groupby_dan_Merge,harga_komoditas_bulanan_kecil,harga_min_rp_per_kg,bilangan bulat,Rp/kg,2.000.00 - 39.200.00,28500,0,Harga terendah dalam satu bulan.
+P08_Pandas_III_Groupby_dan_Merge,harga_komoditas_bulanan_kecil,harga_maks_rp_per_kg,bilangan bulat,Rp/kg,2.250.00 - 49.800.00,40950,0,Harga tertinggi dalam satu bulan.
+P08_Pandas_III_Groupby_dan_Merge,referensi_metode_analisis,parameter,teks,-,kadar_air_persen; kadar_abu_persen; kadar_protein_persen; kadar_lemak_persen; serat_kasar_persen,kadar_air_persen,0,Nama parameter mutu yang diukur.
+P08_Pandas_III_Groupby_dan_Merge,referensi_metode_analisis,metode,teks,-,Oven 105 C (AOAC 925.10); Tanur 550 C (AOAC 923.03); Kjeldahl (AOAC 960.52); Soxhlet (AOAC 920.39); Gravimetri serat kasar,Oven 105 C (AOAC 925.10),0,Metode analisis yang dipakai.
+P08_Pandas_III_Groupby_dan_Merge,referensi_metode_analisis,satuan,teks,-,% bb,% bb,0,Satuan pengukuran nilai pada baris tersebut.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,tanggal,teks,-,22 nilai unik,2026-04-01,0,Tanggal pencatatan.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,shift,teks,-,Pagi; Siang; Malam,Pagi,0,"Shift kerja: Pagi, Siang, atau Malam."
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,kode_batch,teks,-,66 nilai unik,BTC-260401-001,0,Kode batch produksi. Kunci utama pada tabel batch_produksi.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,kode_produk,teks,-,PRD-01; PRD-03; PRD-02,PRD-01,0,Kode unik produk. Kunci utama pada tabel produk; kunci tamu pada tabel lain.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,mesin,teks,-,VF-03; VF-02; VF-01,VF-03,0,Kode mesin penggoreng vakum (VF-01 s.d. VF-03).
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,operator,teks,-,Dewi; Hana; Fitri; Andi; Citra; Galih; Eko; Bayu,Dewi,0,Nama operator mesin.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,no_sampel,bilangan bulat,-,1.00 - 9.00,1,0,Nomor urut sampel yang diambil dari satu batch.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,berat_bersih_g,bilangan desimal,g,96.30 - 103.40,97.3,0,Berat bersih isi kemasan. Pada berkas master merupakan klaim label; pada berkas QC merupakan hasil penimbangan sampel.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,kadar_air_persen,bilangan desimal,% bb,1.46 - 3.71,2.59,0,Kadar air basis basah.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,suhu_penggorengan_c,bilangan desimal,degC,78.90 - 91.00,83.1,0,Suhu minyak selama penggorengan vakum.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,tekanan_vakum_cmhg,bilangan desimal,cmHg,64.00 - 76.70,73.8,0,Tekanan vakum selama penggorengan.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,waktu_penggorengan_menit,bilangan desimal,menit,49.00 - 63.60,57.0,0,Lama penggorengan.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,bahan_baku_kg,bilangan desimal,kg,93.80 - 151.40,118.1,0,Bobot bahan baku yang diproses dalam batch.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,rendemen_persen,bilangan desimal,%,6.87 - 12.39,11.04,0,Nisbah produk jadi terhadap bahan baku dikali 100.
+P09_Konsolidasi_dan_Ujian_Tengah,qc_proses_kecil,status_qc,teks,-,Lolos; Tolak,Lolos,0,"Keputusan QC: Lolos bila kadar air <= 3,0% dan berat bersih 97-103 g."
+P10_Ringkasan_Numerik,umur_simpan_kecil,kode_produk,teks,-,PRD-01,PRD-01,0,Kode unik produk. Kunci utama pada tabel produk; kunci tamu pada tabel lain.
+P10_Ringkasan_Numerik,umur_simpan_kecil,suhu_simpan_c,bilangan bulat,degC,27.00 - 45.00,27,0,Suhu ruang penyimpanan selama pengamatan.
+P10_Ringkasan_Numerik,umur_simpan_kecil,hari_ke,bilangan bulat,hari,0.00 - 42.00,0,0,Lama penyimpanan saat pengamatan dilakukan.
+P10_Ringkasan_Numerik,umur_simpan_kecil,ulangan,bilangan bulat,-,1.00 - 3.00,1,0,Nomor ulangan pengukuran (duplo/triplo).
+P10_Ringkasan_Numerik,umur_simpan_kecil,tanggal_uji,teks,-,2026-03-02; 2026-03-09; 2026-03-16; 2026-03-23; 2026-03-30; 2026-04-06; 2026-04-13,2026-03-02,0,Tanggal pengamatan (YYYY-MM-DD).
+P10_Ringkasan_Numerik,umur_simpan_kecil,kadar_air_persen,bilangan desimal,% bb,1.97 - 7.65,2.27,0,Kadar air basis basah.
+P10_Ringkasan_Numerik,umur_simpan_kecil,kekerasan_n,bilangan desimal,N,1.72 - 12.86,12.52,0,Gaya maksimum penetrasi sebagai indikator kerenyahan; nilai turun berarti produk melempem.
+P10_Ringkasan_Numerik,umur_simpan_kecil,bilangan_peroksida_meq_kg,bilangan desimal,meq O2/kg,0.78 - 7.90,0.83,0,Indikator awal ketengikan oksidatif lemak.
+P10_Ringkasan_Numerik,umur_simpan_kecil,warna_l,bilangan desimal,-,46.02 - 62.58,62.58,0,Nilai L* sistem CIELAB; makin besar makin terang.
+P10_Ringkasan_Numerik,umur_simpan_kecil,skor_hedonik_keseluruhan,bilangan desimal,skala 1-7,2.23 - 6.51,6.36,0,Skor kesukaan keseluruhan oleh panel terbatas.
+P11_Visualisasi,umur_simpan_besar,kode_produk,teks,-,PRD-01; PRD-02; PRD-03,PRD-01,0,Kode unik produk. Kunci utama pada tabel produk; kunci tamu pada tabel lain.
+P11_Visualisasi,umur_simpan_besar,suhu_simpan_c,bilangan bulat,degC,27.00 - 45.00,27,0,Suhu ruang penyimpanan selama pengamatan.
+P11_Visualisasi,umur_simpan_besar,hari_ke,bilangan bulat,hari,0.00 - 42.00,0,0,Lama penyimpanan saat pengamatan dilakukan.
+P11_Visualisasi,umur_simpan_besar,ulangan,bilangan bulat,-,1.00 - 3.00,1,0,Nomor ulangan pengukuran (duplo/triplo).
+P11_Visualisasi,umur_simpan_besar,tanggal_uji,teks,-,2026-03-02; 2026-03-09; 2026-03-16; 2026-03-23; 2026-03-30; 2026-04-06; 2026-04-13,2026-03-02,0,Tanggal pengamatan (YYYY-MM-DD).
+P11_Visualisasi,umur_simpan_besar,kadar_air_persen,bilangan desimal,% bb,1.97 - 9.58,2.27,0,Kadar air basis basah.
+P11_Visualisasi,umur_simpan_besar,kekerasan_n,bilangan desimal,N,1.72 - 14.64,12.52,0,Gaya maksimum penetrasi sebagai indikator kerenyahan; nilai turun berarti produk melempem.
+P11_Visualisasi,umur_simpan_besar,bilangan_peroksida_meq_kg,bilangan desimal,meq O2/kg,0.78 - 10.40,0.83,0,Indikator awal ketengikan oksidatif lemak.
+P11_Visualisasi,umur_simpan_besar,warna_l,bilangan desimal,-,41.10 - 66.07,62.58,0,Nilai L* sistem CIELAB; makin besar makin terang.
+P11_Visualisasi,umur_simpan_besar,skor_hedonik_keseluruhan,bilangan desimal,skala 1-7,1.39 - 6.51,6.36,0,Skor kesukaan keseluruhan oleh panel terbatas.
+P11_Visualisasi,sensori_hedonik_besar,sesi,bilangan bulat,-,1.00 - 2.00,1,0,Nomor sesi pengujian (uji diulang pada dua hari berbeda).
+P11_Visualisasi,sensori_hedonik_besar,kode_panelis,teks,-,120 nilai unik,PNL-001,0,"Kode anonim panelis. Awalan PNL = panelis tidak terlatih, PTL = panelis terlatih."
+P11_Visualisasi,sensori_hedonik_besar,jenis_kelamin,teks,-,Laki-laki; Perempuan,Laki-laki,0,Jenis kelamin panelis.
+P11_Visualisasi,sensori_hedonik_besar,usia_tahun,bilangan bulat,tahun,18.00 - 23.00,18,0,Usia panelis.
+P11_Visualisasi,sensori_hedonik_besar,kode_formula,teks,-,F1; F2; F3; F4; F5; F6,F1,0,Kode formula flakes mocaf-sukun (F1 s.d. F6).
+P11_Visualisasi,sensori_hedonik_besar,skor_warna,bilangan bulat,skala 1-7,1.00 - 7.00,6,0,"Skor kesukaan terhadap warna (1 = sangat tidak suka, 7 = sangat suka)."
+P11_Visualisasi,sensori_hedonik_besar,skor_aroma,bilangan bulat,skala 1-7,2.00 - 7.00,5,0,"Skor kesukaan terhadap aroma (1 = sangat tidak suka, 7 = sangat suka)."
+P11_Visualisasi,sensori_hedonik_besar,skor_rasa,bilangan bulat,skala 1-7,2.00 - 7.00,5,0,"Skor kesukaan terhadap rasa (1 = sangat tidak suka, 7 = sangat suka)."
+P11_Visualisasi,sensori_hedonik_besar,skor_tekstur,bilangan bulat,skala 1-7,1.00 - 7.00,5,0,"Skor kesukaan terhadap tekstur (1 = sangat tidak suka, 7 = sangat suka)."
+P11_Visualisasi,sensori_hedonik_besar,skor_keseluruhan,bilangan bulat,skala 1-7,1.00 - 7.00,5,0,"Skor kesukaan keseluruhan (1 = sangat tidak suka, 7 = sangat suka)."
+P11_Visualisasi,harga_komoditas_harian_besar,tanggal,teks,-,365 nilai unik,2025-07-01,0,Tanggal pencatatan.
+P11_Visualisasi,harga_komoditas_harian_besar,komoditas,teks,-,Nangka; Salak Pondoh; Nanas; Singkong; Sukun; Markisa; Rosella; Cabai Merah,Nangka,0,Komoditas yang dipasok.
+P11_Visualisasi,harga_komoditas_harian_besar,kabupaten_pasar,teks,-,Sleman; Kediri; Gunungkidul; Cilacap; Magelang; Bantul; Temanggung,Sleman,0,Kabupaten lokasi pasar acuan pencatatan harga.
+P11_Visualisasi,harga_komoditas_harian_besar,harga_rp_per_kg,bilangan bulat,Rp/kg,2.000.00 - 49.800.00,9300,0,Harga bahan baku di pasar acuan.
+P11_Visualisasi,penjualan_bulanan_kecil,bulan,teks,-,12 nilai unik,2025-07,0,Periode bulanan (format YYYY-MM).
+P11_Visualisasi,penjualan_bulanan_kecil,kode_produk,teks,-,PRD-01; PRD-02; PRD-03; PRD-04; PRD-05; PRD-06; PRD-07; PRD-08,PRD-01,0,Kode unik produk. Kunci utama pada tabel produk; kunci tamu pada tabel lain.
+P11_Visualisasi,penjualan_bulanan_kecil,jumlah_terjual_pcs,bilangan bulat,pcs,481.00 - 3.027.00,2167,0,Jumlah kemasan terjual.
+P11_Visualisasi,penjualan_bulanan_kecil,total_penjualan_rp,bilangan bulat,Rp,9.848.700.00 - 59.362.800.00,59362800,0,Nilai penjualan setelah diskon.
+P11_Visualisasi,sensori_profil_atribut,kode_panelis,teks,-,12 nilai unik,PTL-001,0,"Kode anonim panelis. Awalan PNL = panelis tidak terlatih, PTL = panelis terlatih."
+P11_Visualisasi,sensori_profil_atribut,kode_formula,teks,-,F1; F2; F3; F4; F5; F6,F1,0,Kode formula flakes mocaf-sukun (F1 s.d. F6).
+P11_Visualisasi,sensori_profil_atribut,ulangan,bilangan bulat,-,1.00 - 3.00,1,0,Nomor ulangan pengukuran (duplo/triplo).
+P11_Visualisasi,sensori_profil_atribut,atribut,teks,-,aroma_sukun; aroma_langu; rasa_manis; rasa_sepat; kerenyahan; kekerasan; intensitas_warna; kelarutan_mulut,aroma_sukun,0,Nama atribut sensori yang dinilai panel terlatih.
+P11_Visualisasi,sensori_profil_atribut,nilai,bilangan desimal,beragam,0.00 - 9.70,0.78,0,Nilai hasil pengukuran; satuan mengikuti kolom satuan atau parameter.
+P12_SQL,db_produk,kode_produk,teks,-,PRD-01; PRD-02; PRD-03; PRD-04; PRD-05; PRD-06; PRD-07; PRD-08,PRD-01,0,Kode unik produk. Kunci utama pada tabel produk; kunci tamu pada tabel lain.
+P12_SQL,db_produk,nama_produk,teks,-,Keripik Nangka Vakum; Keripik Salak Vakum; Keripik Nanas Vakum; Tepung Mocaf Premium; Tepung Sukun; Sari Buah Markisa; Sirup Rosella; Bubuk Cabai Kering,Keripik Nangka Vakum,0,Nama dagang produk.
+P12_SQL,db_produk,kategori,teks,-,Keripik buah; Tepung; Minuman; Bumbu,Keripik buah,0,"Kelompok produk: Keripik buah, Tepung, Minuman, atau Bumbu."
+P12_SQL,db_produk,bahan_baku_utama,teks,-,Nangka; Salak Pondoh; Nanas; Singkong; Sukun; Markisa; Rosella; Cabai Merah,Nangka,0,Komoditas utama penyusun produk.
+P12_SQL,db_produk,jenis_kemasan,teks,-,pouch; kemasan; botol,pouch,0,"Bentuk kemasan primer: pouch, kemasan, atau botol."
+P12_SQL,db_produk,berat_bersih_g,bilangan bulat,g,50.00 - 500.00,100,0,Berat bersih isi kemasan. Pada berkas master merupakan klaim label; pada berkas QC merupakan hasil penimbangan sampel.
+P12_SQL,db_produk,harga_jual_rp,bilangan bulat,Rp,12.000.00 - 32.000.00,28000,0,Harga jual satu kemasan di tingkat konsumen.
+P12_SQL,db_produk,tanggal_luncur,teks,-,2021-03-01; 2022-08-15; 2020-01-10; 2023-02-01; 2022-05-20; 2023-09-01; 2021-11-11,2021-03-01,0,Tanggal produk pertama kali dipasarkan (format YYYY-MM-DD).
+P12_SQL,db_pemasok,kode_pemasok,teks,-,SUP-01; SUP-02; SUP-03; SUP-04; SUP-05; SUP-06; SUP-07; SUP-08,SUP-01,0,Kode unik pemasok. Kunci utama pada tabel pemasok.
+P12_SQL,db_pemasok,nama_pemasok,teks,-,Kelompok Tani Ngudi Rahayu; Koperasi Salak Sejahtera; KUB Tani Makmur; CV Singkong Mandiri; Gapoktan Sukun Lestari; Kelompok Tani Markisa Ijo; KWT Rosella Asri; UD Cabai Jaya,Kelompok Tani Ngudi Rahayu,0,"Nama kelompok tani, koperasi, atau badan usaha pemasok."
+P12_SQL,db_pemasok,komoditas,teks,-,Nangka; Salak Pondoh; Nanas; Singkong; Sukun; Markisa; Rosella; Cabai Merah,Nangka,0,Komoditas yang dipasok.
+P12_SQL,db_pemasok,kabupaten,teks,-,Sleman; Kediri; Gunungkidul; Cilacap; Magelang; Bantul; Temanggung,Sleman,0,Kabupaten domisili pemasok.
+P12_SQL,db_pemasok,provinsi,teks,-,DI Yogyakarta; Jawa Timur; Jawa Tengah,DI Yogyakarta,0,Provinsi domisili pemasok.
+P12_SQL,db_pemasok,tahun_mulai_mitra,bilangan bulat,tahun,2.017.00 - 2.023.00,2019,0,Tahun pemasok mulai bermitra dengan perusahaan.
+P12_SQL,db_pemasok,sertifikasi_prima,teks,-,Prima 3; Prima 2; Belum,Prima 3,0,Status sertifikasi Prima 2 / Prima 3 / Belum.
+P12_SQL,db_batch_produksi,kode_batch,teks,-,390 nilai unik,BTC-20260105-0001,0,Kode batch produksi. Kunci utama pada tabel batch_produksi.
+P12_SQL,db_batch_produksi,kode_produk,teks,-,PRD-08; PRD-02; PRD-01; PRD-04; PRD-03; PRD-06; PRD-07; PRD-05,PRD-08,0,Kode unik produk. Kunci utama pada tabel produk; kunci tamu pada tabel lain.
+P12_SQL,db_batch_produksi,kode_pemasok,teks,-,SUP-08; SUP-02; SUP-01; SUP-04; SUP-03; SUP-06; SUP-07; SUP-05,SUP-08,0,Kode unik pemasok. Kunci utama pada tabel pemasok.
+P12_SQL,db_batch_produksi,tanggal_produksi,teks,-,129 nilai unik,2026-01-05,0,Tanggal batch diproduksi (YYYY-MM-DD).
+P12_SQL,db_batch_produksi,shift,teks,-,Malam; Siang; Pagi,Malam,0,"Shift kerja: Pagi, Siang, atau Malam."
+P12_SQL,db_batch_produksi,bahan_baku_kg,bilangan desimal,kg,78.40 - 227.90,171.7,0,Bobot bahan baku yang diproses dalam batch.
+P12_SQL,db_batch_produksi,produk_jadi_kg,bilangan desimal,kg,7.74 - 137.95,29.5,0,Bobot produk jadi yang dihasilkan.
+P12_SQL,db_batch_produksi,rendemen_persen,bilangan desimal,%,7.23 - 74.53,17.18,0,Nisbah produk jadi terhadap bahan baku dikali 100.
+P12_SQL,db_batch_produksi,supervisor,teks,-,Drs. Hartono; Rizal S.TP.; Widya S.TP.; Ir. Nuraini,Drs. Hartono,0,Penanggung jawab produksi batch.
+P12_SQL,db_hasil_uji_mutu,id_uji,bilangan bulat,-,1.00 - 2.154.00,1,0,Nomor unik hasil uji. Kunci utama tabel hasil_uji_mutu.
+P12_SQL,db_hasil_uji_mutu,kode_batch,teks,-,390 nilai unik,BTC-20260105-0001,0,Kode batch produksi. Kunci utama pada tabel batch_produksi.
+P12_SQL,db_hasil_uji_mutu,parameter,teks,-,Kadar air; Kadar abu; Bilangan peroksida; Angka lempeng total; Kapang khamir; Berat bersih; Skor hedonik,Kadar air,0,Nama parameter mutu yang diukur.
+P12_SQL,db_hasil_uji_mutu,nilai,bilangan desimal,beragam,-0.17 - 102.93,2.19,0,Nilai hasil pengukuran; satuan mengikuti kolom satuan atau parameter.
+P12_SQL,db_hasil_uji_mutu,satuan,teks,-,%; meq O2/kg; log CFU/g; g; skala 1-7,%,0,Satuan pengukuran nilai pada baris tersebut.
+P12_SQL,db_hasil_uji_mutu,metode,teks,-,Oven 105 C; Tanur 550 C; Titrasi iodometri; Cawan tuang; Cawan sebar; Timbang digital; Uji hedonik 15 panelis,Oven 105 C,0,Metode analisis yang dipakai.
+P12_SQL,db_hasil_uji_mutu,tanggal_uji,teks,-,152 nilai unik,2026-01-05,0,Tanggal pengamatan (YYYY-MM-DD).
+P12_SQL,db_hasil_uji_mutu,analis,teks,-,Sekar; Rani; Yoga; Bagas; Intan,Sekar,0,Nama analis laboratorium.
+P12_SQL,db_hasil_uji_mutu,status_mutu,teks,-,Memenuhi; Tidak memenuhi,Memenuhi,0,Memenuhi / Tidak memenuhi terhadap batas spesifikasi internal.
