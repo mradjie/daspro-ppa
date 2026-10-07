@@ -1,0 +1,2155 @@
+id_uji,kode_batch,parameter,nilai,satuan,metode,tanggal_uji,analis,status_mutu
+1,BTC-20260105-0001,Kadar air,2.19,%,Oven 105 C,2026-01-05,Sekar,Memenuhi
+2,BTC-20260105-0001,Kadar abu,2.06,%,Tanur 550 C,2026-01-05,Rani,Memenuhi
+3,BTC-20260105-0001,Bilangan peroksida,1.84,meq O2/kg,Titrasi iodometri,2026-01-06,Yoga,Memenuhi
+4,BTC-20260105-0001,Angka lempeng total,2.08,log CFU/g,Cawan tuang,2026-01-07,Rani,Memenuhi
+5,BTC-20260105-0001,Kapang khamir,1.43,log CFU/g,Cawan sebar,2026-01-06,Bagas,Memenuhi
+6,BTC-20260105-0002,Kadar air,2.61,%,Oven 105 C,2026-01-07,Sekar,Memenuhi
+7,BTC-20260105-0002,Kadar abu,1.66,%,Tanur 550 C,2026-01-06,Sekar,Memenuhi
+8,BTC-20260105-0002,Bilangan peroksida,1.37,meq O2/kg,Titrasi iodometri,2026-01-06,Rani,Memenuhi
+9,BTC-20260105-0002,Angka lempeng total,3.6,log CFU/g,Cawan tuang,2026-01-07,Sekar,Memenuhi
+10,BTC-20260105-0002,Kapang khamir,2.27,log CFU/g,Cawan sebar,2026-01-06,Sekar,Memenuhi
+11,BTC-20260105-0002,Berat bersih,100.32,g,Timbang digital,2026-01-07,Rani,Memenuhi
+12,BTC-20260105-0002,Skor hedonik,6.44,skala 1-7,Uji hedonik 15 panelis,2026-01-05,Bagas,Memenuhi
+13,BTC-20260105-0003,Kadar air,2.4,%,Oven 105 C,2026-01-05,Rani,Memenuhi
+14,BTC-20260105-0003,Kadar abu,1.75,%,Tanur 550 C,2026-01-07,Sekar,Memenuhi
+15,BTC-20260105-0003,Bilangan peroksida,2.62,meq O2/kg,Titrasi iodometri,2026-01-07,Rani,Memenuhi
+16,BTC-20260105-0003,Angka lempeng total,3.54,log CFU/g,Cawan tuang,2026-01-05,Rani,Memenuhi
+17,BTC-20260105-0003,Kapang khamir,1.05,log CFU/g,Cawan sebar,2026-01-05,Rani,Memenuhi
+18,BTC-20260105-0004,Kadar air,10.91,%,Oven 105 C,2026-01-07,Bagas,Memenuhi
+19,BTC-20260105-0004,Kadar abu,2.23,%,Tanur 550 C,2026-01-05,Intan,Memenuhi
+20,BTC-20260105-0004,Bilangan peroksida,2.08,meq O2/kg,Titrasi iodometri,2026-01-05,Rani,Memenuhi
+21,BTC-20260105-0004,Angka lempeng total,3.39,log CFU/g,Cawan tuang,2026-01-05,Intan,Memenuhi
+22,BTC-20260105-0004,Kapang khamir,2.18,log CFU/g,Cawan sebar,2026-01-06,Bagas,Memenuhi
+23,BTC-20260106-0005,Kadar air,2.49,%,Oven 105 C,2026-01-07,Intan,Memenuhi
+24,BTC-20260106-0005,Kadar abu,2.26,%,Tanur 550 C,2026-01-06,Yoga,Memenuhi
+25,BTC-20260106-0005,Bilangan peroksida,2.55,meq O2/kg,Titrasi iodometri,2026-01-08,Rani,Memenuhi
+26,BTC-20260106-0005,Angka lempeng total,3.84,log CFU/g,Cawan tuang,2026-01-07,Yoga,Memenuhi
+27,BTC-20260106-0005,Kapang khamir,2.12,log CFU/g,Cawan sebar,2026-01-07,Intan,Memenuhi
+28,BTC-20260106-0005,Berat bersih,100.92,g,Timbang digital,2026-01-08,Yoga,Memenuhi
+29,BTC-20260106-0005,Skor hedonik,5.28,skala 1-7,Uji hedonik 15 panelis,2026-01-08,Sekar,Memenuhi
+30,BTC-20260106-0006,Kadar air,2.5,%,Oven 105 C,2026-01-06,Intan,Memenuhi
+31,BTC-20260106-0006,Kadar abu,1.84,%,Tanur 550 C,2026-01-07,Sekar,Memenuhi
+32,BTC-20260106-0006,Bilangan peroksida,1.09,meq O2/kg,Titrasi iodometri,2026-01-06,Intan,Memenuhi
+33,BTC-20260106-0006,Angka lempeng total,2.46,log CFU/g,Cawan tuang,2026-01-06,Bagas,Memenuhi
+34,BTC-20260106-0006,Kapang khamir,3.05,log CFU/g,Cawan sebar,2026-01-07,Sekar,Tidak memenuhi
+35,BTC-20260106-0007,Kadar air,85.49,%,Oven 105 C,2026-01-08,Bagas,Memenuhi
+36,BTC-20260106-0007,Kadar abu,2.08,%,Tanur 550 C,2026-01-08,Sekar,Memenuhi
+37,BTC-20260106-0007,Bilangan peroksida,1.63,meq O2/kg,Titrasi iodometri,2026-01-06,Rani,Memenuhi
+38,BTC-20260106-0007,Angka lempeng total,2.85,log CFU/g,Cawan tuang,2026-01-07,Rani,Memenuhi
+39,BTC-20260106-0007,Kapang khamir,1.45,log CFU/g,Cawan sebar,2026-01-06,Rani,Memenuhi
+40,BTC-20260106-0008,Kadar air,84.55,%,Oven 105 C,2026-01-08,Sekar,Memenuhi
+41,BTC-20260106-0008,Kadar abu,1.87,%,Tanur 550 C,2026-01-08,Bagas,Memenuhi
+42,BTC-20260106-0008,Bilangan peroksida,1.48,meq O2/kg,Titrasi iodometri,2026-01-06,Bagas,Memenuhi
+43,BTC-20260106-0008,Angka lempeng total,2.75,log CFU/g,Cawan tuang,2026-01-06,Rani,Memenuhi
+44,BTC-20260106-0008,Kapang khamir,1.77,log CFU/g,Cawan sebar,2026-01-07,Intan,Memenuhi
+45,BTC-20260107-0009,Kadar air,8.31,%,Oven 105 C,2026-01-09,Bagas,Memenuhi
+46,BTC-20260107-0009,Kadar abu,1.65,%,Tanur 550 C,2026-01-09,Rani,Memenuhi
+47,BTC-20260107-0009,Bilangan peroksida,1.51,meq O2/kg,Titrasi iodometri,2026-01-08,Yoga,Memenuhi
+48,BTC-20260107-0009,Angka lempeng total,3.91,log CFU/g,Cawan tuang,2026-01-08,Yoga,Memenuhi
+49,BTC-20260107-0009,Kapang khamir,2.04,log CFU/g,Cawan sebar,2026-01-08,Bagas,Memenuhi
+50,BTC-20260107-0009,Berat bersih,100.27,g,Timbang digital,2026-01-09,Yoga,Memenuhi
+51,BTC-20260107-0009,Skor hedonik,6.0,skala 1-7,Uji hedonik 15 panelis,2026-01-08,Yoga,Memenuhi
+52,BTC-20260107-0010,Kadar air,2.32,%,Oven 105 C,2026-01-09,Bagas,Memenuhi
+53,BTC-20260107-0010,Kadar abu,1.67,%,Tanur 550 C,2026-01-09,Intan,Memenuhi
+54,BTC-20260107-0010,Bilangan peroksida,1.42,meq O2/kg,Titrasi iodometri,2026-01-07,Intan,Memenuhi
+55,BTC-20260107-0010,Angka lempeng total,2.31,log CFU/g,Cawan tuang,2026-01-09,Rani,Memenuhi
+56,BTC-20260107-0010,Kapang khamir,1.53,log CFU/g,Cawan sebar,2026-01-08,Bagas,Memenuhi
+57,BTC-20260108-0011,Kadar air,86.41,%,Oven 105 C,2026-01-08,Rani,Memenuhi
+58,BTC-20260108-0011,Kadar abu,2.0,%,Tanur 550 C,2026-01-08,Sekar,Memenuhi
+59,BTC-20260108-0011,Bilangan peroksida,1.29,meq O2/kg,Titrasi iodometri,2026-01-10,Sekar,Memenuhi
+60,BTC-20260108-0011,Angka lempeng total,2.56,log CFU/g,Cawan tuang,2026-01-10,Intan,Memenuhi
+61,BTC-20260108-0011,Kapang khamir,1.62,log CFU/g,Cawan sebar,2026-01-08,Rani,Memenuhi
+62,BTC-20260108-0012,Kadar air,11.17,%,Oven 105 C,2026-01-08,Rani,Memenuhi
+63,BTC-20260108-0012,Kadar abu,1.92,%,Tanur 550 C,2026-01-10,Rani,Memenuhi
+64,BTC-20260108-0012,Bilangan peroksida,0.85,meq O2/kg,Titrasi iodometri,2026-01-08,Bagas,Memenuhi
+65,BTC-20260108-0012,Angka lempeng total,2.46,log CFU/g,Cawan tuang,2026-01-09,Intan,Memenuhi
+66,BTC-20260108-0012,Kapang khamir,2.34,log CFU/g,Cawan sebar,2026-01-08,Bagas,Memenuhi
+67,BTC-20260108-0013,Kadar air,1.62,%,Oven 105 C,2026-01-09,Intan,Memenuhi
+68,BTC-20260108-0013,Kadar abu,2.05,%,Tanur 550 C,2026-01-10,Sekar,Memenuhi
+69,BTC-20260108-0013,Bilangan peroksida,2.06,meq O2/kg,Titrasi iodometri,2026-01-10,Sekar,Memenuhi
+70,BTC-20260108-0013,Angka lempeng total,2.57,log CFU/g,Cawan tuang,2026-01-08,Rani,Memenuhi
+71,BTC-20260108-0013,Kapang khamir,2.52,log CFU/g,Cawan sebar,2026-01-08,Rani,Memenuhi
+72,BTC-20260108-0014,Kadar air,85.28,%,Oven 105 C,2026-01-08,Rani,Memenuhi
+73,BTC-20260108-0014,Kadar abu,1.86,%,Tanur 550 C,2026-01-10,Bagas,Memenuhi
+74,BTC-20260108-0014,Bilangan peroksida,1.5,meq O2/kg,Titrasi iodometri,2026-01-09,Rani,Memenuhi
+75,BTC-20260108-0014,Angka lempeng total,3.78,log CFU/g,Cawan tuang,2026-01-09,Sekar,Memenuhi
+76,BTC-20260108-0014,Kapang khamir,2.23,log CFU/g,Cawan sebar,2026-01-08,Intan,Memenuhi
+77,BTC-20260109-0015,Kadar air,10.14,%,Oven 105 C,2026-01-11,Rani,Memenuhi
+78,BTC-20260109-0015,Kadar abu,1.85,%,Tanur 550 C,2026-01-10,Bagas,Memenuhi
+79,BTC-20260109-0015,Bilangan peroksida,1.62,meq O2/kg,Titrasi iodometri,2026-01-09,Yoga,Memenuhi
+80,BTC-20260109-0015,Angka lempeng total,2.7,log CFU/g,Cawan tuang,2026-01-11,Bagas,Memenuhi
+81,BTC-20260109-0015,Kapang khamir,2.96,log CFU/g,Cawan sebar,2026-01-11,Sekar,Memenuhi
+82,BTC-20260109-0016,Kadar air,87.52,%,Oven 105 C,2026-01-09,Sekar,Memenuhi
+83,BTC-20260109-0016,Kadar abu,1.81,%,Tanur 550 C,2026-01-09,Sekar,Memenuhi
+84,BTC-20260109-0016,Bilangan peroksida,1.47,meq O2/kg,Titrasi iodometri,2026-01-09,Rani,Memenuhi
+85,BTC-20260109-0016,Angka lempeng total,3.41,log CFU/g,Cawan tuang,2026-01-11,Bagas,Memenuhi
+86,BTC-20260109-0016,Kapang khamir,2.61,log CFU/g,Cawan sebar,2026-01-09,Bagas,Memenuhi
+87,BTC-20260109-0017,Kadar air,83.66,%,Oven 105 C,2026-01-10,Bagas,Memenuhi
+88,BTC-20260109-0017,Kadar abu,1.6,%,Tanur 550 C,2026-01-11,Bagas,Memenuhi
+89,BTC-20260109-0017,Bilangan peroksida,1.38,meq O2/kg,Titrasi iodometri,2026-01-11,Rani,Memenuhi
+90,BTC-20260109-0017,Angka lempeng total,4.31,log CFU/g,Cawan tuang,2026-01-11,Rani,Memenuhi
+91,BTC-20260109-0017,Kapang khamir,1.9,log CFU/g,Cawan sebar,2026-01-09,Sekar,Memenuhi
+92,BTC-20260109-0018,Kadar air,2.65,%,Oven 105 C,2026-01-10,Bagas,Memenuhi
+93,BTC-20260109-0018,Kadar abu,2.12,%,Tanur 550 C,2026-01-11,Yoga,Memenuhi
+94,BTC-20260109-0018,Bilangan peroksida,1.2,meq O2/kg,Titrasi iodometri,2026-01-09,Rani,Memenuhi
+95,BTC-20260109-0018,Angka lempeng total,3.25,log CFU/g,Cawan tuang,2026-01-10,Rani,Memenuhi
+96,BTC-20260109-0018,Kapang khamir,2.3,log CFU/g,Cawan sebar,2026-01-10,Bagas,Memenuhi
+97,BTC-20260110-0019,Kadar air,2.68,%,Oven 105 C,2026-01-10,Yoga,Memenuhi
+98,BTC-20260110-0019,Kadar abu,1.94,%,Tanur 550 C,2026-01-11,Bagas,Memenuhi
+99,BTC-20260110-0019,Bilangan peroksida,2.34,meq O2/kg,Titrasi iodometri,2026-01-12,Rani,Memenuhi
+100,BTC-20260110-0019,Angka lempeng total,3.87,log CFU/g,Cawan tuang,2026-01-10,Intan,Memenuhi
+101,BTC-20260110-0019,Kapang khamir,1.56,log CFU/g,Cawan sebar,2026-01-10,Sekar,Memenuhi
+102,BTC-20260110-0020,Kadar air,2.71,%,Oven 105 C,2026-01-11,Rani,Memenuhi
+103,BTC-20260110-0020,Kadar abu,1.86,%,Tanur 550 C,2026-01-10,Intan,Memenuhi
+104,BTC-20260110-0020,Bilangan peroksida,2.11,meq O2/kg,Titrasi iodometri,2026-01-12,Rani,Memenuhi
+105,BTC-20260110-0020,Angka lempeng total,2.85,log CFU/g,Cawan tuang,2026-01-12,Intan,Memenuhi
+106,BTC-20260110-0020,Kapang khamir,2.01,log CFU/g,Cawan sebar,2026-01-12,Rani,Memenuhi
+107,BTC-20260112-0021,Kadar air,1.99,%,Oven 105 C,2026-01-12,Sekar,Memenuhi
+108,BTC-20260112-0021,Kadar abu,2.21,%,Tanur 550 C,2026-01-13,Intan,Memenuhi
+109,BTC-20260112-0021,Bilangan peroksida,1.16,meq O2/kg,Titrasi iodometri,2026-01-14,Sekar,Memenuhi
+110,BTC-20260112-0021,Angka lempeng total,3.6,log CFU/g,Cawan tuang,2026-01-12,Rani,Memenuhi
+111,BTC-20260112-0021,Kapang khamir,1.25,log CFU/g,Cawan sebar,2026-01-12,Sekar,Memenuhi
+112,BTC-20260112-0021,Berat bersih,100.13,g,Timbang digital,2026-01-13,Sekar,Memenuhi
+113,BTC-20260112-0021,Skor hedonik,5.61,skala 1-7,Uji hedonik 15 panelis,2026-01-14,Bagas,Memenuhi
+114,BTC-20260112-0022,Kadar air,84.8,%,Oven 105 C,2026-01-14,Rani,Memenuhi
+115,BTC-20260112-0022,Kadar abu,2.52,%,Tanur 550 C,2026-01-14,Yoga,Tidak memenuhi
+116,BTC-20260112-0022,Bilangan peroksida,1.83,meq O2/kg,Titrasi iodometri,2026-01-13,Intan,Memenuhi
+117,BTC-20260112-0022,Angka lempeng total,3.88,log CFU/g,Cawan tuang,2026-01-14,Rani,Memenuhi
+118,BTC-20260112-0022,Kapang khamir,2.19,log CFU/g,Cawan sebar,2026-01-12,Sekar,Memenuhi
+119,BTC-20260112-0023,Kadar air,86.87,%,Oven 105 C,2026-01-13,Intan,Memenuhi
+120,BTC-20260112-0023,Kadar abu,1.97,%,Tanur 550 C,2026-01-14,Yoga,Memenuhi
+121,BTC-20260112-0023,Bilangan peroksida,1.8,meq O2/kg,Titrasi iodometri,2026-01-12,Bagas,Memenuhi
+122,BTC-20260112-0023,Angka lempeng total,3.2,log CFU/g,Cawan tuang,2026-01-13,Intan,Memenuhi
+123,BTC-20260112-0023,Kapang khamir,0.81,log CFU/g,Cawan sebar,2026-01-14,Intan,Memenuhi
+124,BTC-20260112-0023,Berat bersih,101.18,g,Timbang digital,2026-01-14,Sekar,Memenuhi
+125,BTC-20260112-0023,Skor hedonik,5.11,skala 1-7,Uji hedonik 15 panelis,2026-01-12,Rani,Memenuhi
+126,BTC-20260112-0024,Kadar air,86.73,%,Oven 105 C,2026-01-14,Intan,Memenuhi
+127,BTC-20260112-0024,Kadar abu,1.85,%,Tanur 550 C,2026-01-12,Bagas,Memenuhi
+128,BTC-20260112-0024,Bilangan peroksida,2.06,meq O2/kg,Titrasi iodometri,2026-01-13,Bagas,Memenuhi
+129,BTC-20260112-0024,Angka lempeng total,2.73,log CFU/g,Cawan tuang,2026-01-13,Yoga,Memenuhi
+130,BTC-20260112-0024,Kapang khamir,1.66,log CFU/g,Cawan sebar,2026-01-12,Yoga,Memenuhi
+131,BTC-20260113-0025,Kadar air,2.57,%,Oven 105 C,2026-01-14,Sekar,Memenuhi
+132,BTC-20260113-0025,Kadar abu,1.96,%,Tanur 550 C,2026-01-15,Yoga,Memenuhi
+133,BTC-20260113-0025,Bilangan peroksida,0.99,meq O2/kg,Titrasi iodometri,2026-01-13,Yoga,Memenuhi
+134,BTC-20260113-0025,Angka lempeng total,3.81,log CFU/g,Cawan tuang,2026-01-15,Bagas,Memenuhi
+135,BTC-20260113-0025,Kapang khamir,1.46,log CFU/g,Cawan sebar,2026-01-14,Rani,Memenuhi
+136,BTC-20260113-0026,Kadar air,85.11,%,Oven 105 C,2026-01-13,Sekar,Memenuhi
+137,BTC-20260113-0026,Kadar abu,1.82,%,Tanur 550 C,2026-01-13,Intan,Memenuhi
+138,BTC-20260113-0026,Bilangan peroksida,1.27,meq O2/kg,Titrasi iodometri,2026-01-13,Sekar,Memenuhi
+139,BTC-20260113-0026,Angka lempeng total,2.09,log CFU/g,Cawan tuang,2026-01-15,Bagas,Memenuhi
+140,BTC-20260113-0026,Kapang khamir,2.19,log CFU/g,Cawan sebar,2026-01-13,Yoga,Memenuhi
+141,BTC-20260114-0027,Kadar air,2.25,%,Oven 105 C,2026-01-14,Intan,Memenuhi
+142,BTC-20260114-0027,Kadar abu,2.29,%,Tanur 550 C,2026-01-14,Yoga,Memenuhi
+143,BTC-20260114-0027,Bilangan peroksida,1.78,meq O2/kg,Titrasi iodometri,2026-01-15,Intan,Memenuhi
+144,BTC-20260114-0027,Angka lempeng total,3.19,log CFU/g,Cawan tuang,2026-01-16,Bagas,Memenuhi
+145,BTC-20260114-0027,Kapang khamir,1.78,log CFU/g,Cawan sebar,2026-01-15,Intan,Memenuhi
+146,BTC-20260114-0028,Kadar air,9.39,%,Oven 105 C,2026-01-16,Bagas,Memenuhi
+147,BTC-20260114-0028,Kadar abu,1.48,%,Tanur 550 C,2026-01-16,Intan,Memenuhi
+148,BTC-20260114-0028,Bilangan peroksida,2.14,meq O2/kg,Titrasi iodometri,2026-01-14,Rani,Memenuhi
+149,BTC-20260114-0028,Angka lempeng total,3.6,log CFU/g,Cawan tuang,2026-01-15,Rani,Memenuhi
+150,BTC-20260114-0028,Kapang khamir,2.1,log CFU/g,Cawan sebar,2026-01-15,Rani,Memenuhi
+151,BTC-20260114-0028,Berat bersih,99.08,g,Timbang digital,2026-01-16,Intan,Memenuhi
+152,BTC-20260114-0028,Skor hedonik,5.13,skala 1-7,Uji hedonik 15 panelis,2026-01-14,Rani,Memenuhi
+153,BTC-20260114-0029,Kadar air,85.68,%,Oven 105 C,2026-01-15,Bagas,Memenuhi
+154,BTC-20260114-0029,Kadar abu,1.61,%,Tanur 550 C,2026-01-14,Rani,Memenuhi
+155,BTC-20260114-0029,Bilangan peroksida,0.95,meq O2/kg,Titrasi iodometri,2026-01-15,Rani,Memenuhi
+156,BTC-20260114-0029,Angka lempeng total,3.08,log CFU/g,Cawan tuang,2026-01-15,Sekar,Memenuhi
+157,BTC-20260114-0029,Kapang khamir,2.4,log CFU/g,Cawan sebar,2026-01-15,Rani,Memenuhi
+158,BTC-20260115-0030,Kadar air,2.63,%,Oven 105 C,2026-01-15,Sekar,Memenuhi
+159,BTC-20260115-0030,Kadar abu,2.04,%,Tanur 550 C,2026-01-16,Rani,Memenuhi
+160,BTC-20260115-0030,Bilangan peroksida,1.42,meq O2/kg,Titrasi iodometri,2026-01-15,Sekar,Memenuhi
+161,BTC-20260115-0030,Angka lempeng total,3.66,log CFU/g,Cawan tuang,2026-01-16,Bagas,Memenuhi
+162,BTC-20260115-0030,Kapang khamir,2.55,log CFU/g,Cawan sebar,2026-01-15,Sekar,Memenuhi
+163,BTC-20260115-0031,Kadar air,12.16,%,Oven 105 C,2026-01-17,Bagas,Memenuhi
+164,BTC-20260115-0031,Kadar abu,1.82,%,Tanur 550 C,2026-01-15,Rani,Memenuhi
+165,BTC-20260115-0031,Bilangan peroksida,1.37,meq O2/kg,Titrasi iodometri,2026-01-17,Bagas,Memenuhi
+166,BTC-20260115-0031,Angka lempeng total,3.17,log CFU/g,Cawan tuang,2026-01-15,Sekar,Memenuhi
+167,BTC-20260115-0031,Kapang khamir,2.49,log CFU/g,Cawan sebar,2026-01-15,Sekar,Memenuhi
+168,BTC-20260116-0032,Kadar air,86.84,%,Oven 105 C,2026-01-17,Sekar,Memenuhi
+169,BTC-20260116-0032,Kadar abu,1.99,%,Tanur 550 C,2026-01-17,Sekar,Memenuhi
+170,BTC-20260116-0032,Bilangan peroksida,2.0,meq O2/kg,Titrasi iodometri,2026-01-16,Rani,Memenuhi
+171,BTC-20260116-0032,Angka lempeng total,3.85,log CFU/g,Cawan tuang,2026-01-16,Yoga,Memenuhi
+172,BTC-20260116-0032,Kapang khamir,1.43,log CFU/g,Cawan sebar,2026-01-17,Rani,Memenuhi
+173,BTC-20260116-0032,Berat bersih,101.2,g,Timbang digital,2026-01-18,Sekar,Memenuhi
+174,BTC-20260116-0032,Skor hedonik,6.2,skala 1-7,Uji hedonik 15 panelis,2026-01-17,Sekar,Memenuhi
+175,BTC-20260116-0033,Kadar air,3.05,%,Oven 105 C,2026-01-16,Rani,Tidak memenuhi
+176,BTC-20260116-0033,Kadar abu,2.12,%,Tanur 550 C,2026-01-17,Rani,Memenuhi
+177,BTC-20260116-0033,Bilangan peroksida,1.33,meq O2/kg,Titrasi iodometri,2026-01-18,Bagas,Memenuhi
+178,BTC-20260116-0033,Angka lempeng total,4.11,log CFU/g,Cawan tuang,2026-01-18,Bagas,Memenuhi
+179,BTC-20260116-0033,Kapang khamir,2.32,log CFU/g,Cawan sebar,2026-01-16,Sekar,Memenuhi
+180,BTC-20260116-0033,Berat bersih,100.88,g,Timbang digital,2026-01-17,Bagas,Memenuhi
+181,BTC-20260116-0033,Skor hedonik,5.31,skala 1-7,Uji hedonik 15 panelis,2026-01-18,Sekar,Memenuhi
+182,BTC-20260116-0034,Kadar air,10.99,%,Oven 105 C,2026-01-17,Sekar,Memenuhi
+183,BTC-20260116-0034,Kadar abu,1.93,%,Tanur 550 C,2026-01-18,Yoga,Memenuhi
+184,BTC-20260116-0034,Bilangan peroksida,1.01,meq O2/kg,Titrasi iodometri,2026-01-16,Rani,Memenuhi
+185,BTC-20260116-0034,Angka lempeng total,3.8,log CFU/g,Cawan tuang,2026-01-16,Rani,Memenuhi
+186,BTC-20260116-0034,Kapang khamir,2.49,log CFU/g,Cawan sebar,2026-01-16,Rani,Memenuhi
+187,BTC-20260116-0035,Kadar air,2.21,%,Oven 105 C,2026-01-17,Yoga,Memenuhi
+188,BTC-20260116-0035,Kadar abu,1.93,%,Tanur 550 C,2026-01-16,Yoga,Memenuhi
+189,BTC-20260116-0035,Bilangan peroksida,1.56,meq O2/kg,Titrasi iodometri,2026-01-17,Yoga,Memenuhi
+190,BTC-20260116-0035,Angka lempeng total,2.93,log CFU/g,Cawan tuang,2026-01-16,Bagas,Memenuhi
+191,BTC-20260116-0035,Kapang khamir,2.61,log CFU/g,Cawan sebar,2026-01-16,Sekar,Memenuhi
+192,BTC-20260116-0035,Berat bersih,99.03,g,Timbang digital,2026-01-18,Sekar,Memenuhi
+193,BTC-20260116-0035,Skor hedonik,5.38,skala 1-7,Uji hedonik 15 panelis,2026-01-18,Bagas,Memenuhi
+194,BTC-20260117-0036,Kadar air,8.77,%,Oven 105 C,2026-01-17,Yoga,Memenuhi
+195,BTC-20260117-0036,Kadar abu,1.84,%,Tanur 550 C,2026-01-18,Yoga,Memenuhi
+196,BTC-20260117-0036,Bilangan peroksida,1.91,meq O2/kg,Titrasi iodometri,2026-01-17,Yoga,Memenuhi
+197,BTC-20260117-0036,Angka lempeng total,4.21,log CFU/g,Cawan tuang,2026-01-19,Yoga,Memenuhi
+198,BTC-20260117-0036,Kapang khamir,2.93,log CFU/g,Cawan sebar,2026-01-17,Sekar,Memenuhi
+199,BTC-20260117-0037,Kadar air,2.61,%,Oven 105 C,2026-01-18,Intan,Memenuhi
+200,BTC-20260117-0037,Kadar abu,2.24,%,Tanur 550 C,2026-01-17,Intan,Memenuhi
+201,BTC-20260117-0037,Bilangan peroksida,0.59,meq O2/kg,Titrasi iodometri,2026-01-19,Intan,Memenuhi
+202,BTC-20260117-0037,Angka lempeng total,3.81,log CFU/g,Cawan tuang,2026-01-19,Rani,Memenuhi
+203,BTC-20260117-0037,Kapang khamir,2.13,log CFU/g,Cawan sebar,2026-01-19,Intan,Memenuhi
+204,BTC-20260117-0038,Kadar air,2.47,%,Oven 105 C,2026-01-19,Yoga,Memenuhi
+205,BTC-20260117-0038,Kadar abu,1.74,%,Tanur 550 C,2026-01-18,Rani,Memenuhi
+206,BTC-20260117-0038,Bilangan peroksida,1.6,meq O2/kg,Titrasi iodometri,2026-01-18,Intan,Memenuhi
+207,BTC-20260117-0038,Angka lempeng total,3.92,log CFU/g,Cawan tuang,2026-01-19,Sekar,Memenuhi
+208,BTC-20260117-0038,Kapang khamir,2.24,log CFU/g,Cawan sebar,2026-01-17,Bagas,Memenuhi
+209,BTC-20260119-0039,Kadar air,84.12,%,Oven 105 C,2026-01-19,Sekar,Memenuhi
+210,BTC-20260119-0039,Kadar abu,1.9,%,Tanur 550 C,2026-01-19,Rani,Memenuhi
+211,BTC-20260119-0039,Bilangan peroksida,1.67,meq O2/kg,Titrasi iodometri,2026-01-21,Bagas,Memenuhi
+212,BTC-20260119-0039,Angka lempeng total,3.38,log CFU/g,Cawan tuang,2026-01-21,Rani,Memenuhi
+213,BTC-20260119-0039,Kapang khamir,2.29,log CFU/g,Cawan sebar,2026-01-19,Bagas,Memenuhi
+214,BTC-20260119-0040,Kadar air,2.72,%,Oven 105 C,2026-01-21,Bagas,Memenuhi
+215,BTC-20260119-0040,Kadar abu,2.14,%,Tanur 550 C,2026-01-20,Sekar,Memenuhi
+216,BTC-20260119-0040,Bilangan peroksida,1.57,meq O2/kg,Titrasi iodometri,2026-01-19,Yoga,Memenuhi
+217,BTC-20260119-0040,Angka lempeng total,3.0,log CFU/g,Cawan tuang,2026-01-21,Intan,Memenuhi
+218,BTC-20260119-0040,Kapang khamir,2.16,log CFU/g,Cawan sebar,2026-01-19,Intan,Memenuhi
+219,BTC-20260119-0040,Berat bersih,101.73,g,Timbang digital,2026-01-19,Rani,Memenuhi
+220,BTC-20260119-0040,Skor hedonik,5.57,skala 1-7,Uji hedonik 15 panelis,2026-01-20,Sekar,Memenuhi
+221,BTC-20260120-0041,Kadar air,88.18,%,Oven 105 C,2026-01-20,Sekar,Memenuhi
+222,BTC-20260120-0041,Kadar abu,1.99,%,Tanur 550 C,2026-01-21,Rani,Memenuhi
+223,BTC-20260120-0041,Bilangan peroksida,0.32,meq O2/kg,Titrasi iodometri,2026-01-20,Bagas,Memenuhi
+224,BTC-20260120-0041,Angka lempeng total,3.04,log CFU/g,Cawan tuang,2026-01-20,Rani,Memenuhi
+225,BTC-20260120-0041,Kapang khamir,1.59,log CFU/g,Cawan sebar,2026-01-21,Sekar,Memenuhi
+226,BTC-20260120-0041,Berat bersih,101.05,g,Timbang digital,2026-01-21,Intan,Memenuhi
+227,BTC-20260120-0041,Skor hedonik,6.75,skala 1-7,Uji hedonik 15 panelis,2026-01-21,Rani,Memenuhi
+228,BTC-20260120-0042,Kadar air,2.17,%,Oven 105 C,2026-01-21,Sekar,Memenuhi
+229,BTC-20260120-0042,Kadar abu,1.9,%,Tanur 550 C,2026-01-22,Bagas,Memenuhi
+230,BTC-20260120-0042,Bilangan peroksida,1.78,meq O2/kg,Titrasi iodometri,2026-01-21,Rani,Memenuhi
+231,BTC-20260120-0042,Angka lempeng total,2.53,log CFU/g,Cawan tuang,2026-01-21,Rani,Memenuhi
+232,BTC-20260120-0042,Kapang khamir,2.05,log CFU/g,Cawan sebar,2026-01-22,Sekar,Memenuhi
+233,BTC-20260120-0043,Kadar air,1.9,%,Oven 105 C,2026-01-21,Yoga,Memenuhi
+234,BTC-20260120-0043,Kadar abu,1.89,%,Tanur 550 C,2026-01-20,Bagas,Memenuhi
+235,BTC-20260120-0043,Bilangan peroksida,2.69,meq O2/kg,Titrasi iodometri,2026-01-22,Yoga,Memenuhi
+236,BTC-20260120-0043,Angka lempeng total,3.79,log CFU/g,Cawan tuang,2026-01-22,Sekar,Memenuhi
+237,BTC-20260120-0043,Kapang khamir,2.75,log CFU/g,Cawan sebar,2026-01-22,Bagas,Memenuhi
+238,BTC-20260120-0043,Berat bersih,99.03,g,Timbang digital,2026-01-22,Yoga,Memenuhi
+239,BTC-20260120-0043,Skor hedonik,6.53,skala 1-7,Uji hedonik 15 panelis,2026-01-22,Bagas,Memenuhi
+240,BTC-20260120-0044,Kadar air,2.17,%,Oven 105 C,2026-01-21,Sekar,Memenuhi
+241,BTC-20260120-0044,Kadar abu,1.96,%,Tanur 550 C,2026-01-21,Bagas,Memenuhi
+242,BTC-20260120-0044,Bilangan peroksida,1.21,meq O2/kg,Titrasi iodometri,2026-01-22,Intan,Memenuhi
+243,BTC-20260120-0044,Angka lempeng total,3.5,log CFU/g,Cawan tuang,2026-01-20,Yoga,Memenuhi
+244,BTC-20260120-0044,Kapang khamir,2.11,log CFU/g,Cawan sebar,2026-01-21,Intan,Memenuhi
+245,BTC-20260120-0044,Berat bersih,99.45,g,Timbang digital,2026-01-21,Sekar,Memenuhi
+246,BTC-20260120-0044,Skor hedonik,5.72,skala 1-7,Uji hedonik 15 panelis,2026-01-21,Rani,Memenuhi
+247,BTC-20260121-0045,Kadar air,84.27,%,Oven 105 C,2026-01-22,Intan,Memenuhi
+248,BTC-20260121-0045,Kadar abu,1.97,%,Tanur 550 C,2026-01-23,Intan,Memenuhi
+249,BTC-20260121-0045,Bilangan peroksida,1.68,meq O2/kg,Titrasi iodometri,2026-01-21,Rani,Memenuhi
+250,BTC-20260121-0045,Angka lempeng total,2.96,log CFU/g,Cawan tuang,2026-01-23,Yoga,Memenuhi
+251,BTC-20260121-0045,Kapang khamir,1.7,log CFU/g,Cawan sebar,2026-01-21,Sekar,Memenuhi
+252,BTC-20260121-0045,Berat bersih,101.58,g,Timbang digital,2026-01-21,Rani,Memenuhi
+253,BTC-20260121-0045,Skor hedonik,6.13,skala 1-7,Uji hedonik 15 panelis,2026-01-22,Intan,Memenuhi
+254,BTC-20260121-0046,Kadar air,11.37,%,Oven 105 C,2026-01-23,Sekar,Memenuhi
+255,BTC-20260121-0046,Kadar abu,1.83,%,Tanur 550 C,2026-01-22,Bagas,Memenuhi
+256,BTC-20260121-0046,Bilangan peroksida,1.35,meq O2/kg,Titrasi iodometri,2026-01-23,Bagas,Memenuhi
+257,BTC-20260121-0046,Angka lempeng total,3.91,log CFU/g,Cawan tuang,2026-01-22,Rani,Memenuhi
+258,BTC-20260121-0046,Kapang khamir,2.25,log CFU/g,Cawan sebar,2026-01-22,Sekar,Memenuhi
+259,BTC-20260122-0047,Kadar air,10.26,%,Oven 105 C,2026-01-23,Bagas,Memenuhi
+260,BTC-20260122-0047,Kadar abu,2.17,%,Tanur 550 C,2026-01-22,Intan,Memenuhi
+261,BTC-20260122-0047,Bilangan peroksida,1.21,meq O2/kg,Titrasi iodometri,2026-01-23,Intan,Memenuhi
+262,BTC-20260122-0047,Angka lempeng total,2.26,log CFU/g,Cawan tuang,2026-01-22,Rani,Memenuhi
+263,BTC-20260122-0047,Kapang khamir,1.8,log CFU/g,Cawan sebar,2026-01-23,Sekar,Memenuhi
+264,BTC-20260122-0048,Kadar air,2.79,%,Oven 105 C,2026-01-22,Sekar,Memenuhi
+265,BTC-20260122-0048,Kadar abu,2.17,%,Tanur 550 C,2026-01-24,Intan,Memenuhi
+266,BTC-20260122-0048,Bilangan peroksida,1.72,meq O2/kg,Titrasi iodometri,2026-01-23,Intan,Memenuhi
+267,BTC-20260122-0048,Angka lempeng total,3.24,log CFU/g,Cawan tuang,2026-01-22,Bagas,Memenuhi
+268,BTC-20260122-0048,Kapang khamir,1.65,log CFU/g,Cawan sebar,2026-01-24,Sekar,Memenuhi
+269,BTC-20260122-0048,Berat bersih,99.98,g,Timbang digital,2026-01-22,Rani,Memenuhi
+270,BTC-20260122-0048,Skor hedonik,4.82,skala 1-7,Uji hedonik 15 panelis,2026-01-24,Rani,Memenuhi
+271,BTC-20260122-0049,Kadar air,82.63,%,Oven 105 C,2026-01-22,Yoga,Memenuhi
+272,BTC-20260122-0049,Kadar abu,1.8,%,Tanur 550 C,2026-01-23,Yoga,Memenuhi
+273,BTC-20260122-0049,Bilangan peroksida,1.72,meq O2/kg,Titrasi iodometri,2026-01-22,Bagas,Memenuhi
+274,BTC-20260122-0049,Angka lempeng total,3.01,log CFU/g,Cawan tuang,2026-01-22,Yoga,Memenuhi
+275,BTC-20260122-0049,Kapang khamir,1.66,log CFU/g,Cawan sebar,2026-01-22,Sekar,Memenuhi
+276,BTC-20260123-0050,Kadar air,2.39,%,Oven 105 C,2026-01-23,Rani,Memenuhi
+277,BTC-20260123-0050,Kadar abu,2.24,%,Tanur 550 C,2026-01-25,Sekar,Memenuhi
+278,BTC-20260123-0050,Bilangan peroksida,1.73,meq O2/kg,Titrasi iodometri,2026-01-23,Yoga,Memenuhi
+279,BTC-20260123-0050,Angka lempeng total,3.22,log CFU/g,Cawan tuang,2026-01-25,Intan,Memenuhi
+280,BTC-20260123-0050,Kapang khamir,1.61,log CFU/g,Cawan sebar,2026-01-25,Rani,Memenuhi
+281,BTC-20260123-0050,Berat bersih,99.93,g,Timbang digital,2026-01-24,Yoga,Memenuhi
+282,BTC-20260123-0050,Skor hedonik,5.75,skala 1-7,Uji hedonik 15 panelis,2026-01-25,Yoga,Memenuhi
+283,BTC-20260123-0051,Kadar air,1.93,%,Oven 105 C,2026-01-24,Rani,Memenuhi
+284,BTC-20260123-0051,Kadar abu,2.01,%,Tanur 550 C,2026-01-23,Intan,Memenuhi
+285,BTC-20260123-0051,Bilangan peroksida,1.59,meq O2/kg,Titrasi iodometri,2026-01-25,Bagas,Memenuhi
+286,BTC-20260123-0051,Angka lempeng total,3.21,log CFU/g,Cawan tuang,2026-01-24,Intan,Memenuhi
+287,BTC-20260123-0051,Kapang khamir,1.92,log CFU/g,Cawan sebar,2026-01-24,Bagas,Memenuhi
+288,BTC-20260123-0052,Kadar air,11.1,%,Oven 105 C,2026-01-23,Sekar,Memenuhi
+289,BTC-20260123-0052,Kadar abu,1.95,%,Tanur 550 C,2026-01-24,Rani,Memenuhi
+290,BTC-20260123-0052,Bilangan peroksida,1.81,meq O2/kg,Titrasi iodometri,2026-01-24,Intan,Memenuhi
+291,BTC-20260123-0052,Angka lempeng total,2.22,log CFU/g,Cawan tuang,2026-01-25,Yoga,Memenuhi
+292,BTC-20260123-0052,Kapang khamir,1.96,log CFU/g,Cawan sebar,2026-01-25,Yoga,Memenuhi
+293,BTC-20260124-0053,Kadar air,84.77,%,Oven 105 C,2026-01-26,Bagas,Memenuhi
+294,BTC-20260124-0053,Kadar abu,1.86,%,Tanur 550 C,2026-01-24,Bagas,Memenuhi
+295,BTC-20260124-0053,Bilangan peroksida,2.5,meq O2/kg,Titrasi iodometri,2026-01-24,Yoga,Memenuhi
+296,BTC-20260124-0053,Angka lempeng total,3.19,log CFU/g,Cawan tuang,2026-01-26,Rani,Memenuhi
+297,BTC-20260124-0053,Kapang khamir,2.08,log CFU/g,Cawan sebar,2026-01-24,Bagas,Memenuhi
+298,BTC-20260124-0054,Kadar air,2.08,%,Oven 105 C,2026-01-25,Rani,Memenuhi
+299,BTC-20260124-0054,Kadar abu,1.87,%,Tanur 550 C,2026-01-26,Rani,Memenuhi
+300,BTC-20260124-0054,Bilangan peroksida,2.34,meq O2/kg,Titrasi iodometri,2026-01-25,Intan,Memenuhi
+301,BTC-20260124-0054,Angka lempeng total,3.18,log CFU/g,Cawan tuang,2026-01-26,Rani,Memenuhi
+302,BTC-20260124-0054,Kapang khamir,1.24,log CFU/g,Cawan sebar,2026-01-25,Rani,Memenuhi
+303,BTC-20260124-0055,Kadar air,10.36,%,Oven 105 C,2026-01-25,Bagas,Memenuhi
+304,BTC-20260124-0055,Kadar abu,1.76,%,Tanur 550 C,2026-01-25,Bagas,Memenuhi
+305,BTC-20260124-0055,Bilangan peroksida,1.69,meq O2/kg,Titrasi iodometri,2026-01-26,Bagas,Memenuhi
+306,BTC-20260124-0055,Angka lempeng total,2.45,log CFU/g,Cawan tuang,2026-01-25,Intan,Memenuhi
+307,BTC-20260124-0055,Kapang khamir,1.85,log CFU/g,Cawan sebar,2026-01-26,Bagas,Memenuhi
+308,BTC-20260124-0056,Kadar air,9.46,%,Oven 105 C,2026-01-25,Bagas,Memenuhi
+309,BTC-20260124-0056,Kadar abu,2.12,%,Tanur 550 C,2026-01-26,Yoga,Memenuhi
+310,BTC-20260124-0056,Bilangan peroksida,1.56,meq O2/kg,Titrasi iodometri,2026-01-26,Intan,Memenuhi
+311,BTC-20260124-0056,Angka lempeng total,2.83,log CFU/g,Cawan tuang,2026-01-25,Sekar,Memenuhi
+312,BTC-20260124-0056,Kapang khamir,2.45,log CFU/g,Cawan sebar,2026-01-25,Sekar,Memenuhi
+313,BTC-20260126-0057,Kadar air,10.7,%,Oven 105 C,2026-01-28,Rani,Memenuhi
+314,BTC-20260126-0057,Kadar abu,1.7,%,Tanur 550 C,2026-01-26,Intan,Memenuhi
+315,BTC-20260126-0057,Bilangan peroksida,1.36,meq O2/kg,Titrasi iodometri,2026-01-27,Bagas,Memenuhi
+316,BTC-20260126-0057,Angka lempeng total,2.13,log CFU/g,Cawan tuang,2026-01-27,Intan,Memenuhi
+317,BTC-20260126-0057,Kapang khamir,1.26,log CFU/g,Cawan sebar,2026-01-26,Bagas,Memenuhi
+318,BTC-20260126-0058,Kadar air,10.97,%,Oven 105 C,2026-01-26,Yoga,Memenuhi
+319,BTC-20260126-0058,Kadar abu,1.99,%,Tanur 550 C,2026-01-26,Bagas,Memenuhi
+320,BTC-20260126-0058,Bilangan peroksida,1.43,meq O2/kg,Titrasi iodometri,2026-01-28,Yoga,Memenuhi
+321,BTC-20260126-0058,Angka lempeng total,3.23,log CFU/g,Cawan tuang,2026-01-26,Rani,Memenuhi
+322,BTC-20260126-0058,Kapang khamir,2.52,log CFU/g,Cawan sebar,2026-01-28,Bagas,Memenuhi
+323,BTC-20260126-0059,Kadar air,2.65,%,Oven 105 C,2026-01-26,Intan,Memenuhi
+324,BTC-20260126-0059,Kadar abu,2.18,%,Tanur 550 C,2026-01-27,Rani,Memenuhi
+325,BTC-20260126-0059,Bilangan peroksida,0.84,meq O2/kg,Titrasi iodometri,2026-01-28,Intan,Memenuhi
+326,BTC-20260126-0059,Angka lempeng total,3.84,log CFU/g,Cawan tuang,2026-01-26,Rani,Memenuhi
+327,BTC-20260126-0059,Kapang khamir,1.26,log CFU/g,Cawan sebar,2026-01-28,Sekar,Memenuhi
+328,BTC-20260126-0059,Berat bersih,98.78,g,Timbang digital,2026-01-27,Rani,Memenuhi
+329,BTC-20260126-0059,Skor hedonik,5.28,skala 1-7,Uji hedonik 15 panelis,2026-01-27,Rani,Memenuhi
+330,BTC-20260127-0060,Kadar air,82.74,%,Oven 105 C,2026-01-28,Bagas,Memenuhi
+331,BTC-20260127-0060,Kadar abu,1.89,%,Tanur 550 C,2026-01-27,Yoga,Memenuhi
+332,BTC-20260127-0060,Bilangan peroksida,2.21,meq O2/kg,Titrasi iodometri,2026-01-27,Intan,Memenuhi
+333,BTC-20260127-0060,Angka lempeng total,2.81,log CFU/g,Cawan tuang,2026-01-28,Rani,Memenuhi
+334,BTC-20260127-0060,Kapang khamir,0.97,log CFU/g,Cawan sebar,2026-01-28,Intan,Memenuhi
+335,BTC-20260127-0061,Kadar air,2.27,%,Oven 105 C,2026-01-27,Sekar,Memenuhi
+336,BTC-20260127-0061,Kadar abu,1.88,%,Tanur 550 C,2026-01-28,Yoga,Memenuhi
+337,BTC-20260127-0061,Bilangan peroksida,2.55,meq O2/kg,Titrasi iodometri,2026-01-29,Yoga,Memenuhi
+338,BTC-20260127-0061,Angka lempeng total,3.36,log CFU/g,Cawan tuang,2026-01-28,Intan,Memenuhi
+339,BTC-20260127-0061,Kapang khamir,0.85,log CFU/g,Cawan sebar,2026-01-27,Bagas,Memenuhi
+340,BTC-20260127-0062,Kadar air,2.46,%,Oven 105 C,2026-01-29,Sekar,Memenuhi
+341,BTC-20260127-0062,Kadar abu,1.95,%,Tanur 550 C,2026-01-28,Yoga,Memenuhi
+342,BTC-20260127-0062,Bilangan peroksida,1.47,meq O2/kg,Titrasi iodometri,2026-01-28,Sekar,Memenuhi
+343,BTC-20260127-0062,Angka lempeng total,2.97,log CFU/g,Cawan tuang,2026-01-27,Sekar,Memenuhi
+344,BTC-20260127-0062,Kapang khamir,1.08,log CFU/g,Cawan sebar,2026-01-27,Bagas,Memenuhi
+345,BTC-20260128-0063,Kadar air,2.5,%,Oven 105 C,2026-01-29,Rani,Memenuhi
+346,BTC-20260128-0063,Kadar abu,1.9,%,Tanur 550 C,2026-01-29,Rani,Memenuhi
+347,BTC-20260128-0063,Bilangan peroksida,1.19,meq O2/kg,Titrasi iodometri,2026-01-28,Sekar,Memenuhi
+348,BTC-20260128-0063,Angka lempeng total,2.36,log CFU/g,Cawan tuang,2026-01-28,Rani,Memenuhi
+349,BTC-20260128-0063,Kapang khamir,1.4,log CFU/g,Cawan sebar,2026-01-29,Rani,Memenuhi
+350,BTC-20260128-0064,Kadar air,2.31,%,Oven 105 C,2026-01-30,Sekar,Memenuhi
+351,BTC-20260128-0064,Kadar abu,1.94,%,Tanur 550 C,2026-01-29,Sekar,Memenuhi
+352,BTC-20260128-0064,Bilangan peroksida,2.65,meq O2/kg,Titrasi iodometri,2026-01-28,Yoga,Memenuhi
+353,BTC-20260128-0064,Angka lempeng total,3.29,log CFU/g,Cawan tuang,2026-01-30,Yoga,Memenuhi
+354,BTC-20260128-0064,Kapang khamir,1.85,log CFU/g,Cawan sebar,2026-01-29,Bagas,Memenuhi
+355,BTC-20260129-0065,Kadar air,1.96,%,Oven 105 C,2026-01-31,Yoga,Memenuhi
+356,BTC-20260129-0065,Kadar abu,2.03,%,Tanur 550 C,2026-01-30,Bagas,Memenuhi
+357,BTC-20260129-0065,Bilangan peroksida,0.57,meq O2/kg,Titrasi iodometri,2026-01-30,Rani,Memenuhi
+358,BTC-20260129-0065,Angka lempeng total,2.85,log CFU/g,Cawan tuang,2026-01-30,Rani,Memenuhi
+359,BTC-20260129-0065,Kapang khamir,1.55,log CFU/g,Cawan sebar,2026-01-30,Sekar,Memenuhi
+360,BTC-20260129-0066,Kadar air,2.0,%,Oven 105 C,2026-01-30,Intan,Memenuhi
+361,BTC-20260129-0066,Kadar abu,2.07,%,Tanur 550 C,2026-01-29,Intan,Memenuhi
+362,BTC-20260129-0066,Bilangan peroksida,1.34,meq O2/kg,Titrasi iodometri,2026-01-30,Rani,Memenuhi
+363,BTC-20260129-0066,Angka lempeng total,3.36,log CFU/g,Cawan tuang,2026-01-30,Intan,Memenuhi
+364,BTC-20260129-0066,Kapang khamir,1.9,log CFU/g,Cawan sebar,2026-01-30,Yoga,Memenuhi
+365,BTC-20260129-0066,Berat bersih,99.57,g,Timbang digital,2026-01-30,Sekar,Memenuhi
+366,BTC-20260129-0066,Skor hedonik,4.89,skala 1-7,Uji hedonik 15 panelis,2026-01-31,Sekar,Memenuhi
+367,BTC-20260129-0067,Kadar air,2.68,%,Oven 105 C,2026-01-29,Yoga,Memenuhi
+368,BTC-20260129-0067,Kadar abu,1.9,%,Tanur 550 C,2026-01-31,Bagas,Memenuhi
+369,BTC-20260129-0067,Bilangan peroksida,2.05,meq O2/kg,Titrasi iodometri,2026-01-31,Rani,Memenuhi
+370,BTC-20260129-0067,Angka lempeng total,2.09,log CFU/g,Cawan tuang,2026-01-30,Rani,Memenuhi
+371,BTC-20260129-0067,Kapang khamir,1.49,log CFU/g,Cawan sebar,2026-01-29,Yoga,Memenuhi
+372,BTC-20260129-0068,Kadar air,2.36,%,Oven 105 C,2026-01-30,Intan,Memenuhi
+373,BTC-20260129-0068,Kadar abu,2.08,%,Tanur 550 C,2026-01-29,Bagas,Memenuhi
+374,BTC-20260129-0068,Bilangan peroksida,1.36,meq O2/kg,Titrasi iodometri,2026-01-31,Bagas,Memenuhi
+375,BTC-20260129-0068,Angka lempeng total,3.85,log CFU/g,Cawan tuang,2026-01-30,Rani,Memenuhi
+376,BTC-20260129-0068,Kapang khamir,2.36,log CFU/g,Cawan sebar,2026-01-29,Sekar,Memenuhi
+377,BTC-20260129-0068,Berat bersih,100.91,g,Timbang digital,2026-01-29,Yoga,Memenuhi
+378,BTC-20260129-0068,Skor hedonik,5.42,skala 1-7,Uji hedonik 15 panelis,2026-01-31,Intan,Memenuhi
+379,BTC-20260130-0069,Kadar air,2.24,%,Oven 105 C,2026-02-01,Bagas,Memenuhi
+380,BTC-20260130-0069,Kadar abu,2.11,%,Tanur 550 C,2026-01-31,Intan,Memenuhi
+381,BTC-20260130-0069,Bilangan peroksida,1.55,meq O2/kg,Titrasi iodometri,2026-01-30,Yoga,Memenuhi
+382,BTC-20260130-0069,Angka lempeng total,3.51,log CFU/g,Cawan tuang,2026-02-01,Yoga,Memenuhi
+383,BTC-20260130-0069,Kapang khamir,1.08,log CFU/g,Cawan sebar,2026-01-31,Yoga,Memenuhi
+384,BTC-20260130-0070,Kadar air,2.73,%,Oven 105 C,2026-02-01,Rani,Memenuhi
+385,BTC-20260130-0070,Kadar abu,2.03,%,Tanur 550 C,2026-02-01,Rani,Memenuhi
+386,BTC-20260130-0070,Bilangan peroksida,0.87,meq O2/kg,Titrasi iodometri,2026-01-30,Rani,Memenuhi
+387,BTC-20260130-0070,Angka lempeng total,2.96,log CFU/g,Cawan tuang,2026-02-01,Yoga,Memenuhi
+388,BTC-20260130-0070,Kapang khamir,1.71,log CFU/g,Cawan sebar,2026-02-01,Yoga,Memenuhi
+389,BTC-20260130-0071,Kadar air,11.76,%,Oven 105 C,2026-01-31,Bagas,Memenuhi
+390,BTC-20260130-0071,Kadar abu,1.56,%,Tanur 550 C,2026-01-31,Intan,Memenuhi
+391,BTC-20260130-0071,Bilangan peroksida,1.21,meq O2/kg,Titrasi iodometri,2026-01-30,Bagas,Memenuhi
+392,BTC-20260130-0071,Angka lempeng total,3.62,log CFU/g,Cawan tuang,2026-01-30,Sekar,Memenuhi
+393,BTC-20260130-0071,Kapang khamir,2.66,log CFU/g,Cawan sebar,2026-02-01,Rani,Memenuhi
+394,BTC-20260130-0072,Kadar air,2.47,%,Oven 105 C,2026-02-01,Rani,Memenuhi
+395,BTC-20260130-0072,Kadar abu,1.84,%,Tanur 550 C,2026-01-31,Yoga,Memenuhi
+396,BTC-20260130-0072,Bilangan peroksida,1.53,meq O2/kg,Titrasi iodometri,2026-02-01,Yoga,Memenuhi
+397,BTC-20260130-0072,Angka lempeng total,3.83,log CFU/g,Cawan tuang,2026-01-31,Bagas,Memenuhi
+398,BTC-20260130-0072,Kapang khamir,2.33,log CFU/g,Cawan sebar,2026-02-01,Yoga,Memenuhi
+399,BTC-20260131-0073,Kadar air,2.43,%,Oven 105 C,2026-02-02,Yoga,Memenuhi
+400,BTC-20260131-0073,Kadar abu,1.8,%,Tanur 550 C,2026-02-01,Rani,Memenuhi
+401,BTC-20260131-0073,Bilangan peroksida,1.51,meq O2/kg,Titrasi iodometri,2026-02-01,Sekar,Memenuhi
+402,BTC-20260131-0073,Angka lempeng total,3.47,log CFU/g,Cawan tuang,2026-01-31,Yoga,Memenuhi
+403,BTC-20260131-0073,Kapang khamir,1.95,log CFU/g,Cawan sebar,2026-02-01,Sekar,Memenuhi
+404,BTC-20260131-0074,Kadar air,11.34,%,Oven 105 C,2026-02-01,Yoga,Memenuhi
+405,BTC-20260131-0074,Kadar abu,1.64,%,Tanur 550 C,2026-01-31,Bagas,Memenuhi
+406,BTC-20260131-0074,Bilangan peroksida,1.7,meq O2/kg,Titrasi iodometri,2026-02-01,Sekar,Memenuhi
+407,BTC-20260131-0074,Angka lempeng total,3.52,log CFU/g,Cawan tuang,2026-02-02,Yoga,Memenuhi
+408,BTC-20260131-0074,Kapang khamir,1.65,log CFU/g,Cawan sebar,2026-02-02,Intan,Memenuhi
+409,BTC-20260131-0074,Berat bersih,99.84,g,Timbang digital,2026-02-02,Rani,Memenuhi
+410,BTC-20260131-0074,Skor hedonik,5.55,skala 1-7,Uji hedonik 15 panelis,2026-02-02,Yoga,Memenuhi
+411,BTC-20260131-0075,Kadar air,84.44,%,Oven 105 C,2026-01-31,Rani,Memenuhi
+412,BTC-20260131-0075,Kadar abu,2.12,%,Tanur 550 C,2026-02-01,Sekar,Memenuhi
+413,BTC-20260131-0075,Bilangan peroksida,2.25,meq O2/kg,Titrasi iodometri,2026-02-02,Sekar,Memenuhi
+414,BTC-20260131-0075,Angka lempeng total,3.42,log CFU/g,Cawan tuang,2026-02-02,Intan,Memenuhi
+415,BTC-20260131-0075,Kapang khamir,2.17,log CFU/g,Cawan sebar,2026-01-31,Intan,Memenuhi
+416,BTC-20260202-0076,Kadar air,11.83,%,Oven 105 C,2026-02-04,Sekar,Memenuhi
+417,BTC-20260202-0076,Kadar abu,1.7,%,Tanur 550 C,2026-02-02,Sekar,Memenuhi
+418,BTC-20260202-0076,Bilangan peroksida,0.67,meq O2/kg,Titrasi iodometri,2026-02-04,Bagas,Memenuhi
+419,BTC-20260202-0076,Angka lempeng total,2.64,log CFU/g,Cawan tuang,2026-02-04,Bagas,Memenuhi
+420,BTC-20260202-0076,Kapang khamir,1.79,log CFU/g,Cawan sebar,2026-02-02,Sekar,Memenuhi
+421,BTC-20260202-0077,Kadar air,1.77,%,Oven 105 C,2026-02-03,Bagas,Memenuhi
+422,BTC-20260202-0077,Kadar abu,1.73,%,Tanur 550 C,2026-02-03,Bagas,Memenuhi
+423,BTC-20260202-0077,Bilangan peroksida,2.03,meq O2/kg,Titrasi iodometri,2026-02-03,Yoga,Memenuhi
+424,BTC-20260202-0077,Angka lempeng total,3.13,log CFU/g,Cawan tuang,2026-02-03,Intan,Memenuhi
+425,BTC-20260202-0077,Kapang khamir,2.91,log CFU/g,Cawan sebar,2026-02-03,Sekar,Memenuhi
+426,BTC-20260203-0078,Kadar air,9.61,%,Oven 105 C,2026-02-03,Rani,Memenuhi
+427,BTC-20260203-0078,Kadar abu,1.93,%,Tanur 550 C,2026-02-04,Sekar,Memenuhi
+428,BTC-20260203-0078,Bilangan peroksida,2.15,meq O2/kg,Titrasi iodometri,2026-02-03,Yoga,Memenuhi
+429,BTC-20260203-0078,Angka lempeng total,2.52,log CFU/g,Cawan tuang,2026-02-05,Rani,Memenuhi
+430,BTC-20260203-0078,Kapang khamir,1.58,log CFU/g,Cawan sebar,2026-02-05,Bagas,Memenuhi
+431,BTC-20260203-0079,Kadar air,2.34,%,Oven 105 C,2026-02-05,Intan,Memenuhi
+432,BTC-20260203-0079,Kadar abu,1.88,%,Tanur 550 C,2026-02-04,Sekar,Memenuhi
+433,BTC-20260203-0079,Bilangan peroksida,1.59,meq O2/kg,Titrasi iodometri,2026-02-05,Intan,Memenuhi
+434,BTC-20260203-0079,Angka lempeng total,3.06,log CFU/g,Cawan tuang,2026-02-05,Bagas,Memenuhi
+435,BTC-20260203-0079,Kapang khamir,1.24,log CFU/g,Cawan sebar,2026-02-04,Rani,Memenuhi
+436,BTC-20260203-0079,Berat bersih,99.21,g,Timbang digital,2026-02-03,Rani,Memenuhi
+437,BTC-20260203-0079,Skor hedonik,4.95,skala 1-7,Uji hedonik 15 panelis,2026-02-03,Intan,Memenuhi
+438,BTC-20260204-0080,Kadar air,9.57,%,Oven 105 C,2026-02-04,Sekar,Memenuhi
+439,BTC-20260204-0080,Kadar abu,2.1,%,Tanur 550 C,2026-02-05,Bagas,Memenuhi
+440,BTC-20260204-0080,Bilangan peroksida,1.44,meq O2/kg,Titrasi iodometri,2026-02-04,Sekar,Memenuhi
+441,BTC-20260204-0080,Angka lempeng total,3.28,log CFU/g,Cawan tuang,2026-02-06,Intan,Memenuhi
+442,BTC-20260204-0080,Kapang khamir,2.72,log CFU/g,Cawan sebar,2026-02-04,Rani,Memenuhi
+443,BTC-20260204-0080,Berat bersih,100.22,g,Timbang digital,2026-02-05,Rani,Memenuhi
+444,BTC-20260204-0080,Skor hedonik,5.51,skala 1-7,Uji hedonik 15 panelis,2026-02-05,Intan,Memenuhi
+445,BTC-20260204-0081,Kadar air,86.34,%,Oven 105 C,2026-02-06,Intan,Memenuhi
+446,BTC-20260204-0081,Kadar abu,2.17,%,Tanur 550 C,2026-02-06,Rani,Memenuhi
+447,BTC-20260204-0081,Bilangan peroksida,1.69,meq O2/kg,Titrasi iodometri,2026-02-05,Rani,Memenuhi
+448,BTC-20260204-0081,Angka lempeng total,4.04,log CFU/g,Cawan tuang,2026-02-05,Sekar,Memenuhi
+449,BTC-20260204-0081,Kapang khamir,2.16,log CFU/g,Cawan sebar,2026-02-05,Yoga,Memenuhi
+450,BTC-20260204-0082,Kadar air,86.07,%,Oven 105 C,2026-02-06,Yoga,Memenuhi
+451,BTC-20260204-0082,Kadar abu,1.68,%,Tanur 550 C,2026-02-04,Yoga,Memenuhi
+452,BTC-20260204-0082,Bilangan peroksida,2.02,meq O2/kg,Titrasi iodometri,2026-02-06,Sekar,Memenuhi
+453,BTC-20260204-0082,Angka lempeng total,3.13,log CFU/g,Cawan tuang,2026-02-06,Rani,Memenuhi
+454,BTC-20260204-0082,Kapang khamir,2.14,log CFU/g,Cawan sebar,2026-02-05,Sekar,Memenuhi
+455,BTC-20260204-0082,Berat bersih,100.74,g,Timbang digital,2026-02-05,Sekar,Memenuhi
+456,BTC-20260204-0082,Skor hedonik,5.76,skala 1-7,Uji hedonik 15 panelis,2026-02-05,Yoga,Memenuhi
+457,BTC-20260205-0083,Kadar air,2.98,%,Oven 105 C,2026-02-07,Yoga,Memenuhi
+458,BTC-20260205-0083,Kadar abu,1.68,%,Tanur 550 C,2026-02-06,Rani,Memenuhi
+459,BTC-20260205-0083,Bilangan peroksida,1.74,meq O2/kg,Titrasi iodometri,2026-02-05,Yoga,Memenuhi
+460,BTC-20260205-0083,Angka lempeng total,3.15,log CFU/g,Cawan tuang,2026-02-07,Yoga,Memenuhi
+461,BTC-20260205-0083,Kapang khamir,1.38,log CFU/g,Cawan sebar,2026-02-07,Intan,Memenuhi
+462,BTC-20260205-0084,Kadar air,86.42,%,Oven 105 C,2026-02-06,Bagas,Memenuhi
+463,BTC-20260205-0084,Kadar abu,1.84,%,Tanur 550 C,2026-02-05,Yoga,Memenuhi
+464,BTC-20260205-0084,Bilangan peroksida,1.65,meq O2/kg,Titrasi iodometri,2026-02-06,Sekar,Memenuhi
+465,BTC-20260205-0084,Angka lempeng total,2.09,log CFU/g,Cawan tuang,2026-02-07,Bagas,Memenuhi
+466,BTC-20260205-0084,Kapang khamir,1.71,log CFU/g,Cawan sebar,2026-02-07,Rani,Memenuhi
+467,BTC-20260205-0084,Berat bersih,102.8,g,Timbang digital,2026-02-06,Intan,Memenuhi
+468,BTC-20260205-0084,Skor hedonik,6.3,skala 1-7,Uji hedonik 15 panelis,2026-02-05,Sekar,Memenuhi
+469,BTC-20260205-0085,Kadar air,3.1,%,Oven 105 C,2026-02-05,Yoga,Tidak memenuhi
+470,BTC-20260205-0085,Kadar abu,1.7,%,Tanur 550 C,2026-02-06,Sekar,Memenuhi
+471,BTC-20260205-0085,Bilangan peroksida,2.13,meq O2/kg,Titrasi iodometri,2026-02-05,Intan,Memenuhi
+472,BTC-20260205-0085,Angka lempeng total,3.3,log CFU/g,Cawan tuang,2026-02-05,Sekar,Memenuhi
+473,BTC-20260205-0085,Kapang khamir,1.69,log CFU/g,Cawan sebar,2026-02-07,Bagas,Memenuhi
+474,BTC-20260206-0086,Kadar air,2.33,%,Oven 105 C,2026-02-07,Bagas,Memenuhi
+475,BTC-20260206-0086,Kadar abu,2.14,%,Tanur 550 C,2026-02-06,Rani,Memenuhi
+476,BTC-20260206-0086,Bilangan peroksida,2.4,meq O2/kg,Titrasi iodometri,2026-02-06,Rani,Memenuhi
+477,BTC-20260206-0086,Angka lempeng total,3.83,log CFU/g,Cawan tuang,2026-02-06,Intan,Memenuhi
+478,BTC-20260206-0086,Kapang khamir,2.61,log CFU/g,Cawan sebar,2026-02-06,Bagas,Memenuhi
+479,BTC-20260206-0087,Kadar air,10.46,%,Oven 105 C,2026-02-06,Yoga,Memenuhi
+480,BTC-20260206-0087,Kadar abu,1.9,%,Tanur 550 C,2026-02-07,Bagas,Memenuhi
+481,BTC-20260206-0087,Bilangan peroksida,2.12,meq O2/kg,Titrasi iodometri,2026-02-08,Yoga,Memenuhi
+482,BTC-20260206-0087,Angka lempeng total,3.38,log CFU/g,Cawan tuang,2026-02-08,Intan,Memenuhi
+483,BTC-20260206-0087,Kapang khamir,2.25,log CFU/g,Cawan sebar,2026-02-07,Bagas,Memenuhi
+484,BTC-20260206-0088,Kadar air,87.17,%,Oven 105 C,2026-02-06,Rani,Memenuhi
+485,BTC-20260206-0088,Kadar abu,1.59,%,Tanur 550 C,2026-02-08,Yoga,Memenuhi
+486,BTC-20260206-0088,Bilangan peroksida,1.4,meq O2/kg,Titrasi iodometri,2026-02-08,Intan,Memenuhi
+487,BTC-20260206-0088,Angka lempeng total,1.99,log CFU/g,Cawan tuang,2026-02-07,Intan,Memenuhi
+488,BTC-20260206-0088,Kapang khamir,2.04,log CFU/g,Cawan sebar,2026-02-06,Sekar,Memenuhi
+489,BTC-20260206-0088,Berat bersih,100.17,g,Timbang digital,2026-02-08,Rani,Memenuhi
+490,BTC-20260206-0088,Skor hedonik,5.75,skala 1-7,Uji hedonik 15 panelis,2026-02-06,Rani,Memenuhi
+491,BTC-20260206-0089,Kadar air,2.4,%,Oven 105 C,2026-02-07,Bagas,Memenuhi
+492,BTC-20260206-0089,Kadar abu,2.01,%,Tanur 550 C,2026-02-06,Intan,Memenuhi
+493,BTC-20260206-0089,Bilangan peroksida,2.43,meq O2/kg,Titrasi iodometri,2026-02-07,Sekar,Memenuhi
+494,BTC-20260206-0089,Angka lempeng total,2.23,log CFU/g,Cawan tuang,2026-02-06,Sekar,Memenuhi
+495,BTC-20260206-0089,Kapang khamir,2.07,log CFU/g,Cawan sebar,2026-02-07,Sekar,Memenuhi
+496,BTC-20260207-0090,Kadar air,1.88,%,Oven 105 C,2026-02-09,Yoga,Memenuhi
+497,BTC-20260207-0090,Kadar abu,1.93,%,Tanur 550 C,2026-02-07,Bagas,Memenuhi
+498,BTC-20260207-0090,Bilangan peroksida,1.03,meq O2/kg,Titrasi iodometri,2026-02-09,Bagas,Memenuhi
+499,BTC-20260207-0090,Angka lempeng total,4.2,log CFU/g,Cawan tuang,2026-02-09,Rani,Memenuhi
+500,BTC-20260207-0090,Kapang khamir,2.1,log CFU/g,Cawan sebar,2026-02-08,Bagas,Memenuhi
+501,BTC-20260207-0091,Kadar air,2.26,%,Oven 105 C,2026-02-07,Sekar,Memenuhi
+502,BTC-20260207-0091,Kadar abu,1.8,%,Tanur 550 C,2026-02-07,Yoga,Memenuhi
+503,BTC-20260207-0091,Bilangan peroksida,2.53,meq O2/kg,Titrasi iodometri,2026-02-08,Sekar,Memenuhi
+504,BTC-20260207-0091,Angka lempeng total,2.95,log CFU/g,Cawan tuang,2026-02-08,Sekar,Memenuhi
+505,BTC-20260207-0091,Kapang khamir,1.69,log CFU/g,Cawan sebar,2026-02-08,Intan,Memenuhi
+506,BTC-20260207-0092,Kadar air,10.74,%,Oven 105 C,2026-02-09,Yoga,Memenuhi
+507,BTC-20260207-0092,Kadar abu,1.76,%,Tanur 550 C,2026-02-07,Sekar,Memenuhi
+508,BTC-20260207-0092,Bilangan peroksida,1.2,meq O2/kg,Titrasi iodometri,2026-02-08,Yoga,Memenuhi
+509,BTC-20260207-0092,Angka lempeng total,2.89,log CFU/g,Cawan tuang,2026-02-09,Rani,Memenuhi
+510,BTC-20260207-0092,Kapang khamir,2.15,log CFU/g,Cawan sebar,2026-02-07,Rani,Memenuhi
+511,BTC-20260207-0093,Kadar air,2.27,%,Oven 105 C,2026-02-07,Sekar,Memenuhi
+512,BTC-20260207-0093,Kadar abu,1.99,%,Tanur 550 C,2026-02-07,Yoga,Memenuhi
+513,BTC-20260207-0093,Bilangan peroksida,1.64,meq O2/kg,Titrasi iodometri,2026-02-09,Bagas,Memenuhi
+514,BTC-20260207-0093,Angka lempeng total,3.99,log CFU/g,Cawan tuang,2026-02-08,Sekar,Memenuhi
+515,BTC-20260207-0093,Kapang khamir,1.07,log CFU/g,Cawan sebar,2026-02-07,Intan,Memenuhi
+516,BTC-20260209-0094,Kadar air,11.7,%,Oven 105 C,2026-02-10,Rani,Memenuhi
+517,BTC-20260209-0094,Kadar abu,1.96,%,Tanur 550 C,2026-02-10,Intan,Memenuhi
+518,BTC-20260209-0094,Bilangan peroksida,0.65,meq O2/kg,Titrasi iodometri,2026-02-10,Rani,Memenuhi
+519,BTC-20260209-0094,Angka lempeng total,3.23,log CFU/g,Cawan tuang,2026-02-10,Bagas,Memenuhi
+520,BTC-20260209-0094,Kapang khamir,1.32,log CFU/g,Cawan sebar,2026-02-09,Rani,Memenuhi
+521,BTC-20260209-0095,Kadar air,87.37,%,Oven 105 C,2026-02-10,Intan,Memenuhi
+522,BTC-20260209-0095,Kadar abu,1.9,%,Tanur 550 C,2026-02-09,Rani,Memenuhi
+523,BTC-20260209-0095,Bilangan peroksida,1.97,meq O2/kg,Titrasi iodometri,2026-02-11,Sekar,Memenuhi
+524,BTC-20260209-0095,Angka lempeng total,3.19,log CFU/g,Cawan tuang,2026-02-09,Rani,Memenuhi
+525,BTC-20260209-0095,Kapang khamir,2.11,log CFU/g,Cawan sebar,2026-02-11,Bagas,Memenuhi
+526,BTC-20260210-0096,Kadar air,85.1,%,Oven 105 C,2026-02-12,Sekar,Memenuhi
+527,BTC-20260210-0096,Kadar abu,1.81,%,Tanur 550 C,2026-02-12,Yoga,Memenuhi
+528,BTC-20260210-0096,Bilangan peroksida,0.51,meq O2/kg,Titrasi iodometri,2026-02-12,Intan,Memenuhi
+529,BTC-20260210-0096,Angka lempeng total,3.53,log CFU/g,Cawan tuang,2026-02-11,Bagas,Memenuhi
+530,BTC-20260210-0096,Kapang khamir,1.25,log CFU/g,Cawan sebar,2026-02-11,Sekar,Memenuhi
+531,BTC-20260210-0096,Berat bersih,97.55,g,Timbang digital,2026-02-11,Bagas,Memenuhi
+532,BTC-20260210-0096,Skor hedonik,6.07,skala 1-7,Uji hedonik 15 panelis,2026-02-11,Intan,Memenuhi
+533,BTC-20260210-0097,Kadar air,2.67,%,Oven 105 C,2026-02-12,Sekar,Memenuhi
+534,BTC-20260210-0097,Kadar abu,1.99,%,Tanur 550 C,2026-02-11,Intan,Memenuhi
+535,BTC-20260210-0097,Bilangan peroksida,1.0,meq O2/kg,Titrasi iodometri,2026-02-10,Yoga,Memenuhi
+536,BTC-20260210-0097,Angka lempeng total,3.38,log CFU/g,Cawan tuang,2026-02-10,Bagas,Memenuhi
+537,BTC-20260210-0097,Kapang khamir,1.95,log CFU/g,Cawan sebar,2026-02-10,Intan,Memenuhi
+538,BTC-20260210-0098,Kadar air,84.54,%,Oven 105 C,2026-02-10,Bagas,Memenuhi
+539,BTC-20260210-0098,Kadar abu,2.28,%,Tanur 550 C,2026-02-12,Bagas,Memenuhi
+540,BTC-20260210-0098,Bilangan peroksida,1.13,meq O2/kg,Titrasi iodometri,2026-02-12,Yoga,Memenuhi
+541,BTC-20260210-0098,Angka lempeng total,2.82,log CFU/g,Cawan tuang,2026-02-12,Intan,Memenuhi
+542,BTC-20260210-0098,Kapang khamir,1.52,log CFU/g,Cawan sebar,2026-02-12,Yoga,Memenuhi
+543,BTC-20260210-0098,Berat bersih,98.58,g,Timbang digital,2026-02-12,Intan,Memenuhi
+544,BTC-20260210-0098,Skor hedonik,5.66,skala 1-7,Uji hedonik 15 panelis,2026-02-11,Sekar,Memenuhi
+545,BTC-20260211-0099,Kadar air,2.09,%,Oven 105 C,2026-02-12,Rani,Memenuhi
+546,BTC-20260211-0099,Kadar abu,2.02,%,Tanur 550 C,2026-02-13,Intan,Memenuhi
+547,BTC-20260211-0099,Bilangan peroksida,1.91,meq O2/kg,Titrasi iodometri,2026-02-11,Intan,Memenuhi
+548,BTC-20260211-0099,Angka lempeng total,2.87,log CFU/g,Cawan tuang,2026-02-12,Rani,Memenuhi
+549,BTC-20260211-0099,Kapang khamir,2.14,log CFU/g,Cawan sebar,2026-02-12,Rani,Memenuhi
+550,BTC-20260211-0100,Kadar air,84.5,%,Oven 105 C,2026-02-11,Yoga,Memenuhi
+551,BTC-20260211-0100,Kadar abu,1.69,%,Tanur 550 C,2026-02-12,Sekar,Memenuhi
+552,BTC-20260211-0100,Bilangan peroksida,2.33,meq O2/kg,Titrasi iodometri,2026-02-13,Intan,Memenuhi
+553,BTC-20260211-0100,Angka lempeng total,3.16,log CFU/g,Cawan tuang,2026-02-12,Yoga,Memenuhi
+554,BTC-20260211-0100,Kapang khamir,1.69,log CFU/g,Cawan sebar,2026-02-11,Rani,Memenuhi
+555,BTC-20260211-0100,Berat bersih,98.88,g,Timbang digital,2026-02-13,Rani,Memenuhi
+556,BTC-20260211-0100,Skor hedonik,5.58,skala 1-7,Uji hedonik 15 panelis,2026-02-11,Intan,Memenuhi
+557,BTC-20260212-0101,Kadar air,10.67,%,Oven 105 C,2026-02-13,Sekar,Memenuhi
+558,BTC-20260212-0101,Kadar abu,1.85,%,Tanur 550 C,2026-02-12,Sekar,Memenuhi
+559,BTC-20260212-0101,Bilangan peroksida,1.62,meq O2/kg,Titrasi iodometri,2026-02-13,Bagas,Memenuhi
+560,BTC-20260212-0101,Angka lempeng total,3.09,log CFU/g,Cawan tuang,2026-02-12,Yoga,Memenuhi
+561,BTC-20260212-0101,Kapang khamir,2.25,log CFU/g,Cawan sebar,2026-02-13,Rani,Memenuhi
+562,BTC-20260212-0102,Kadar air,1.97,%,Oven 105 C,2026-02-13,Bagas,Memenuhi
+563,BTC-20260212-0102,Kadar abu,1.56,%,Tanur 550 C,2026-02-14,Rani,Memenuhi
+564,BTC-20260212-0102,Bilangan peroksida,1.88,meq O2/kg,Titrasi iodometri,2026-02-12,Sekar,Memenuhi
+565,BTC-20260212-0102,Angka lempeng total,4.28,log CFU/g,Cawan tuang,2026-02-12,Sekar,Memenuhi
+566,BTC-20260212-0102,Kapang khamir,1.21,log CFU/g,Cawan sebar,2026-02-13,Yoga,Memenuhi
+567,BTC-20260212-0103,Kadar air,86.11,%,Oven 105 C,2026-02-12,Sekar,Memenuhi
+568,BTC-20260212-0103,Kadar abu,1.67,%,Tanur 550 C,2026-02-14,Intan,Memenuhi
+569,BTC-20260212-0103,Bilangan peroksida,1.08,meq O2/kg,Titrasi iodometri,2026-02-14,Yoga,Memenuhi
+570,BTC-20260212-0103,Angka lempeng total,3.06,log CFU/g,Cawan tuang,2026-02-14,Intan,Memenuhi
+571,BTC-20260212-0103,Kapang khamir,2.4,log CFU/g,Cawan sebar,2026-02-14,Intan,Memenuhi
+572,BTC-20260212-0104,Kadar air,2.69,%,Oven 105 C,2026-02-13,Intan,Memenuhi
+573,BTC-20260212-0104,Kadar abu,2.16,%,Tanur 550 C,2026-02-14,Intan,Memenuhi
+574,BTC-20260212-0104,Bilangan peroksida,2.43,meq O2/kg,Titrasi iodometri,2026-02-14,Intan,Memenuhi
+575,BTC-20260212-0104,Angka lempeng total,2.13,log CFU/g,Cawan tuang,2026-02-12,Sekar,Memenuhi
+576,BTC-20260212-0104,Kapang khamir,2.1,log CFU/g,Cawan sebar,2026-02-13,Yoga,Memenuhi
+577,BTC-20260213-0105,Kadar air,2.61,%,Oven 105 C,2026-02-15,Rani,Memenuhi
+578,BTC-20260213-0105,Kadar abu,1.83,%,Tanur 550 C,2026-02-13,Sekar,Memenuhi
+579,BTC-20260213-0105,Bilangan peroksida,0.4,meq O2/kg,Titrasi iodometri,2026-02-13,Intan,Memenuhi
+580,BTC-20260213-0105,Angka lempeng total,3.22,log CFU/g,Cawan tuang,2026-02-14,Yoga,Memenuhi
+581,BTC-20260213-0105,Kapang khamir,2.22,log CFU/g,Cawan sebar,2026-02-15,Bagas,Memenuhi
+582,BTC-20260213-0106,Kadar air,84.93,%,Oven 105 C,2026-02-13,Yoga,Memenuhi
+583,BTC-20260213-0106,Kadar abu,2.25,%,Tanur 550 C,2026-02-15,Yoga,Memenuhi
+584,BTC-20260213-0106,Bilangan peroksida,1.61,meq O2/kg,Titrasi iodometri,2026-02-13,Sekar,Memenuhi
+585,BTC-20260213-0106,Angka lempeng total,3.42,log CFU/g,Cawan tuang,2026-02-13,Sekar,Memenuhi
+586,BTC-20260213-0106,Kapang khamir,2.68,log CFU/g,Cawan sebar,2026-02-15,Yoga,Memenuhi
+587,BTC-20260213-0107,Kadar air,11.04,%,Oven 105 C,2026-02-13,Yoga,Memenuhi
+588,BTC-20260213-0107,Kadar abu,2.01,%,Tanur 550 C,2026-02-13,Yoga,Memenuhi
+589,BTC-20260213-0107,Bilangan peroksida,1.98,meq O2/kg,Titrasi iodometri,2026-02-14,Intan,Memenuhi
+590,BTC-20260213-0107,Angka lempeng total,3.57,log CFU/g,Cawan tuang,2026-02-15,Rani,Memenuhi
+591,BTC-20260213-0107,Kapang khamir,2.32,log CFU/g,Cawan sebar,2026-02-15,Yoga,Memenuhi
+592,BTC-20260213-0107,Berat bersih,102.23,g,Timbang digital,2026-02-13,Sekar,Memenuhi
+593,BTC-20260213-0107,Skor hedonik,5.66,skala 1-7,Uji hedonik 15 panelis,2026-02-13,Rani,Memenuhi
+594,BTC-20260214-0108,Kadar air,84.65,%,Oven 105 C,2026-02-16,Yoga,Memenuhi
+595,BTC-20260214-0108,Kadar abu,1.8,%,Tanur 550 C,2026-02-16,Sekar,Memenuhi
+596,BTC-20260214-0108,Bilangan peroksida,1.9,meq O2/kg,Titrasi iodometri,2026-02-15,Yoga,Memenuhi
+597,BTC-20260214-0108,Angka lempeng total,4.04,log CFU/g,Cawan tuang,2026-02-16,Sekar,Memenuhi
+598,BTC-20260214-0108,Kapang khamir,2.16,log CFU/g,Cawan sebar,2026-02-15,Yoga,Memenuhi
+599,BTC-20260214-0109,Kadar air,85.78,%,Oven 105 C,2026-02-15,Intan,Memenuhi
+600,BTC-20260214-0109,Kadar abu,2.0,%,Tanur 550 C,2026-02-14,Sekar,Memenuhi
+601,BTC-20260214-0109,Bilangan peroksida,1.2,meq O2/kg,Titrasi iodometri,2026-02-15,Bagas,Memenuhi
+602,BTC-20260214-0109,Angka lempeng total,2.62,log CFU/g,Cawan tuang,2026-02-15,Intan,Memenuhi
+603,BTC-20260214-0109,Kapang khamir,1.18,log CFU/g,Cawan sebar,2026-02-14,Intan,Memenuhi
+604,BTC-20260214-0110,Kadar air,10.87,%,Oven 105 C,2026-02-15,Rani,Memenuhi
+605,BTC-20260214-0110,Kadar abu,1.48,%,Tanur 550 C,2026-02-16,Rani,Memenuhi
+606,BTC-20260214-0110,Bilangan peroksida,1.56,meq O2/kg,Titrasi iodometri,2026-02-16,Sekar,Memenuhi
+607,BTC-20260214-0110,Angka lempeng total,2.79,log CFU/g,Cawan tuang,2026-02-16,Bagas,Memenuhi
+608,BTC-20260214-0110,Kapang khamir,2.18,log CFU/g,Cawan sebar,2026-02-15,Rani,Memenuhi
+609,BTC-20260214-0110,Berat bersih,100.53,g,Timbang digital,2026-02-15,Rani,Memenuhi
+610,BTC-20260214-0110,Skor hedonik,5.49,skala 1-7,Uji hedonik 15 panelis,2026-02-14,Yoga,Memenuhi
+611,BTC-20260216-0111,Kadar air,86.07,%,Oven 105 C,2026-02-18,Sekar,Memenuhi
+612,BTC-20260216-0111,Kadar abu,1.78,%,Tanur 550 C,2026-02-17,Intan,Memenuhi
+613,BTC-20260216-0111,Bilangan peroksida,1.09,meq O2/kg,Titrasi iodometri,2026-02-18,Bagas,Memenuhi
+614,BTC-20260216-0111,Angka lempeng total,2.7,log CFU/g,Cawan tuang,2026-02-17,Intan,Memenuhi
+615,BTC-20260216-0111,Kapang khamir,1.83,log CFU/g,Cawan sebar,2026-02-16,Intan,Memenuhi
+616,BTC-20260216-0112,Kadar air,2.36,%,Oven 105 C,2026-02-16,Yoga,Memenuhi
+617,BTC-20260216-0112,Kadar abu,1.92,%,Tanur 550 C,2026-02-16,Sekar,Memenuhi
+618,BTC-20260216-0112,Bilangan peroksida,1.4,meq O2/kg,Titrasi iodometri,2026-02-17,Rani,Memenuhi
+619,BTC-20260216-0112,Angka lempeng total,2.81,log CFU/g,Cawan tuang,2026-02-18,Sekar,Memenuhi
+620,BTC-20260216-0112,Kapang khamir,1.48,log CFU/g,Cawan sebar,2026-02-18,Yoga,Memenuhi
+621,BTC-20260216-0112,Berat bersih,100.35,g,Timbang digital,2026-02-16,Intan,Memenuhi
+622,BTC-20260216-0112,Skor hedonik,5.15,skala 1-7,Uji hedonik 15 panelis,2026-02-17,Yoga,Memenuhi
+623,BTC-20260217-0113,Kadar air,10.25,%,Oven 105 C,2026-02-19,Yoga,Memenuhi
+624,BTC-20260217-0113,Kadar abu,2.14,%,Tanur 550 C,2026-02-19,Intan,Memenuhi
+625,BTC-20260217-0113,Bilangan peroksida,0.84,meq O2/kg,Titrasi iodometri,2026-02-17,Sekar,Memenuhi
+626,BTC-20260217-0113,Angka lempeng total,3.04,log CFU/g,Cawan tuang,2026-02-19,Bagas,Memenuhi
+627,BTC-20260217-0113,Kapang khamir,2.08,log CFU/g,Cawan sebar,2026-02-19,Sekar,Memenuhi
+628,BTC-20260217-0113,Berat bersih,99.6,g,Timbang digital,2026-02-19,Bagas,Memenuhi
+629,BTC-20260217-0113,Skor hedonik,6.68,skala 1-7,Uji hedonik 15 panelis,2026-02-17,Rani,Memenuhi
+630,BTC-20260217-0114,Kadar air,85.21,%,Oven 105 C,2026-02-19,Rani,Memenuhi
+631,BTC-20260217-0114,Kadar abu,1.91,%,Tanur 550 C,2026-02-18,Bagas,Memenuhi
+632,BTC-20260217-0114,Bilangan peroksida,1.53,meq O2/kg,Titrasi iodometri,2026-02-19,Intan,Memenuhi
+633,BTC-20260217-0114,Angka lempeng total,3.58,log CFU/g,Cawan tuang,2026-02-17,Yoga,Memenuhi
+634,BTC-20260217-0114,Kapang khamir,2.84,log CFU/g,Cawan sebar,2026-02-17,Sekar,Memenuhi
+635,BTC-20260217-0114,Berat bersih,99.21,g,Timbang digital,2026-02-17,Bagas,Memenuhi
+636,BTC-20260217-0114,Skor hedonik,5.71,skala 1-7,Uji hedonik 15 panelis,2026-02-19,Yoga,Memenuhi
+637,BTC-20260218-0115,Kadar air,88.01,%,Oven 105 C,2026-02-20,Intan,Memenuhi
+638,BTC-20260218-0115,Kadar abu,1.89,%,Tanur 550 C,2026-02-18,Sekar,Memenuhi
+639,BTC-20260218-0115,Bilangan peroksida,0.89,meq O2/kg,Titrasi iodometri,2026-02-19,Sekar,Memenuhi
+640,BTC-20260218-0115,Angka lempeng total,3.36,log CFU/g,Cawan tuang,2026-02-20,Rani,Memenuhi
+641,BTC-20260218-0115,Kapang khamir,2.56,log CFU/g,Cawan sebar,2026-02-18,Rani,Memenuhi
+642,BTC-20260218-0115,Berat bersih,100.52,g,Timbang digital,2026-02-20,Sekar,Memenuhi
+643,BTC-20260218-0115,Skor hedonik,5.63,skala 1-7,Uji hedonik 15 panelis,2026-02-19,Rani,Memenuhi
+644,BTC-20260218-0116,Kadar air,2.33,%,Oven 105 C,2026-02-18,Intan,Memenuhi
+645,BTC-20260218-0116,Kadar abu,2.12,%,Tanur 550 C,2026-02-18,Yoga,Memenuhi
+646,BTC-20260218-0116,Bilangan peroksida,2.62,meq O2/kg,Titrasi iodometri,2026-02-18,Sekar,Memenuhi
+647,BTC-20260218-0116,Angka lempeng total,3.66,log CFU/g,Cawan tuang,2026-02-20,Yoga,Memenuhi
+648,BTC-20260218-0116,Kapang khamir,2.29,log CFU/g,Cawan sebar,2026-02-18,Rani,Memenuhi
+649,BTC-20260218-0117,Kadar air,11.04,%,Oven 105 C,2026-02-19,Bagas,Memenuhi
+650,BTC-20260218-0117,Kadar abu,1.98,%,Tanur 550 C,2026-02-20,Sekar,Memenuhi
+651,BTC-20260218-0117,Bilangan peroksida,1.44,meq O2/kg,Titrasi iodometri,2026-02-20,Intan,Memenuhi
+652,BTC-20260218-0117,Angka lempeng total,2.64,log CFU/g,Cawan tuang,2026-02-20,Sekar,Memenuhi
+653,BTC-20260218-0117,Kapang khamir,0.69,log CFU/g,Cawan sebar,2026-02-20,Bagas,Memenuhi
+654,BTC-20260219-0118,Kadar air,10.0,%,Oven 105 C,2026-02-20,Bagas,Memenuhi
+655,BTC-20260219-0118,Kadar abu,1.5,%,Tanur 550 C,2026-02-19,Sekar,Memenuhi
+656,BTC-20260219-0118,Bilangan peroksida,2.25,meq O2/kg,Titrasi iodometri,2026-02-21,Sekar,Memenuhi
+657,BTC-20260219-0118,Angka lempeng total,3.43,log CFU/g,Cawan tuang,2026-02-19,Bagas,Memenuhi
+658,BTC-20260219-0118,Kapang khamir,1.6,log CFU/g,Cawan sebar,2026-02-21,Intan,Memenuhi
+659,BTC-20260219-0119,Kadar air,2.56,%,Oven 105 C,2026-02-19,Sekar,Memenuhi
+660,BTC-20260219-0119,Kadar abu,1.77,%,Tanur 550 C,2026-02-19,Yoga,Memenuhi
+661,BTC-20260219-0119,Bilangan peroksida,1.12,meq O2/kg,Titrasi iodometri,2026-02-20,Bagas,Memenuhi
+662,BTC-20260219-0119,Angka lempeng total,3.52,log CFU/g,Cawan tuang,2026-02-19,Yoga,Memenuhi
+663,BTC-20260219-0119,Kapang khamir,2.12,log CFU/g,Cawan sebar,2026-02-21,Intan,Memenuhi
+664,BTC-20260219-0120,Kadar air,2.19,%,Oven 105 C,2026-02-19,Intan,Memenuhi
+665,BTC-20260219-0120,Kadar abu,1.7,%,Tanur 550 C,2026-02-19,Sekar,Memenuhi
+666,BTC-20260219-0120,Bilangan peroksida,1.94,meq O2/kg,Titrasi iodometri,2026-02-21,Yoga,Memenuhi
+667,BTC-20260219-0120,Angka lempeng total,3.86,log CFU/g,Cawan tuang,2026-02-20,Yoga,Memenuhi
+668,BTC-20260219-0120,Kapang khamir,2.45,log CFU/g,Cawan sebar,2026-02-19,Sekar,Memenuhi
+669,BTC-20260219-0120,Berat bersih,102.35,g,Timbang digital,2026-02-19,Intan,Memenuhi
+670,BTC-20260219-0120,Skor hedonik,5.73,skala 1-7,Uji hedonik 15 panelis,2026-02-20,Sekar,Memenuhi
+671,BTC-20260220-0121,Kadar air,2.57,%,Oven 105 C,2026-02-20,Intan,Memenuhi
+672,BTC-20260220-0121,Kadar abu,1.76,%,Tanur 550 C,2026-02-20,Rani,Memenuhi
+673,BTC-20260220-0121,Bilangan peroksida,1.26,meq O2/kg,Titrasi iodometri,2026-02-21,Sekar,Memenuhi
+674,BTC-20260220-0121,Angka lempeng total,3.1,log CFU/g,Cawan tuang,2026-02-20,Sekar,Memenuhi
+675,BTC-20260220-0121,Kapang khamir,2.11,log CFU/g,Cawan sebar,2026-02-20,Sekar,Memenuhi
+676,BTC-20260220-0122,Kadar air,85.77,%,Oven 105 C,2026-02-22,Rani,Memenuhi
+677,BTC-20260220-0122,Kadar abu,1.69,%,Tanur 550 C,2026-02-20,Rani,Memenuhi
+678,BTC-20260220-0122,Bilangan peroksida,2.08,meq O2/kg,Titrasi iodometri,2026-02-20,Rani,Memenuhi
+679,BTC-20260220-0122,Angka lempeng total,3.54,log CFU/g,Cawan tuang,2026-02-21,Sekar,Memenuhi
+680,BTC-20260220-0122,Kapang khamir,2.2,log CFU/g,Cawan sebar,2026-02-22,Yoga,Memenuhi
+681,BTC-20260220-0123,Kadar air,2.27,%,Oven 105 C,2026-02-21,Sekar,Memenuhi
+682,BTC-20260220-0123,Kadar abu,1.79,%,Tanur 550 C,2026-02-22,Bagas,Memenuhi
+683,BTC-20260220-0123,Bilangan peroksida,1.21,meq O2/kg,Titrasi iodometri,2026-02-21,Rani,Memenuhi
+684,BTC-20260220-0123,Angka lempeng total,2.49,log CFU/g,Cawan tuang,2026-02-22,Intan,Memenuhi
+685,BTC-20260220-0123,Kapang khamir,2.32,log CFU/g,Cawan sebar,2026-02-21,Intan,Memenuhi
+686,BTC-20260221-0124,Kadar air,2.13,%,Oven 105 C,2026-02-23,Bagas,Memenuhi
+687,BTC-20260221-0124,Kadar abu,1.94,%,Tanur 550 C,2026-02-22,Rani,Memenuhi
+688,BTC-20260221-0124,Bilangan peroksida,3.11,meq O2/kg,Titrasi iodometri,2026-02-23,Yoga,Memenuhi
+689,BTC-20260221-0124,Angka lempeng total,3.52,log CFU/g,Cawan tuang,2026-02-22,Rani,Memenuhi
+690,BTC-20260221-0124,Kapang khamir,1.61,log CFU/g,Cawan sebar,2026-02-23,Rani,Memenuhi
+691,BTC-20260221-0125,Kadar air,2.65,%,Oven 105 C,2026-02-23,Rani,Memenuhi
+692,BTC-20260221-0125,Kadar abu,1.75,%,Tanur 550 C,2026-02-23,Rani,Memenuhi
+693,BTC-20260221-0125,Bilangan peroksida,1.08,meq O2/kg,Titrasi iodometri,2026-02-22,Rani,Memenuhi
+694,BTC-20260221-0125,Angka lempeng total,3.96,log CFU/g,Cawan tuang,2026-02-22,Bagas,Memenuhi
+695,BTC-20260221-0125,Kapang khamir,1.86,log CFU/g,Cawan sebar,2026-02-23,Rani,Memenuhi
+696,BTC-20260221-0125,Berat bersih,102.33,g,Timbang digital,2026-02-22,Yoga,Memenuhi
+697,BTC-20260221-0125,Skor hedonik,5.7,skala 1-7,Uji hedonik 15 panelis,2026-02-22,Sekar,Memenuhi
+698,BTC-20260221-0126,Kadar air,86.65,%,Oven 105 C,2026-02-23,Sekar,Memenuhi
+699,BTC-20260221-0126,Kadar abu,1.91,%,Tanur 550 C,2026-02-21,Rani,Memenuhi
+700,BTC-20260221-0126,Bilangan peroksida,2.07,meq O2/kg,Titrasi iodometri,2026-02-23,Rani,Memenuhi
+701,BTC-20260221-0126,Angka lempeng total,2.9,log CFU/g,Cawan tuang,2026-02-21,Intan,Memenuhi
+702,BTC-20260221-0126,Kapang khamir,2.06,log CFU/g,Cawan sebar,2026-02-21,Sekar,Memenuhi
+703,BTC-20260221-0127,Kadar air,2.19,%,Oven 105 C,2026-02-22,Sekar,Memenuhi
+704,BTC-20260221-0127,Kadar abu,1.86,%,Tanur 550 C,2026-02-21,Rani,Memenuhi
+705,BTC-20260221-0127,Bilangan peroksida,0.98,meq O2/kg,Titrasi iodometri,2026-02-22,Sekar,Memenuhi
+706,BTC-20260221-0127,Angka lempeng total,4.21,log CFU/g,Cawan tuang,2026-02-22,Bagas,Memenuhi
+707,BTC-20260221-0127,Kapang khamir,2.69,log CFU/g,Cawan sebar,2026-02-21,Sekar,Memenuhi
+708,BTC-20260223-0128,Kadar air,2.38,%,Oven 105 C,2026-02-25,Bagas,Memenuhi
+709,BTC-20260223-0128,Kadar abu,2.06,%,Tanur 550 C,2026-02-25,Rani,Memenuhi
+710,BTC-20260223-0128,Bilangan peroksida,0.84,meq O2/kg,Titrasi iodometri,2026-02-23,Intan,Memenuhi
+711,BTC-20260223-0128,Angka lempeng total,4.09,log CFU/g,Cawan tuang,2026-02-24,Rani,Memenuhi
+712,BTC-20260223-0128,Kapang khamir,2.38,log CFU/g,Cawan sebar,2026-02-24,Sekar,Memenuhi
+713,BTC-20260223-0129,Kadar air,2.3,%,Oven 105 C,2026-02-25,Sekar,Memenuhi
+714,BTC-20260223-0129,Kadar abu,2.0,%,Tanur 550 C,2026-02-23,Yoga,Memenuhi
+715,BTC-20260223-0129,Bilangan peroksida,2.38,meq O2/kg,Titrasi iodometri,2026-02-23,Rani,Memenuhi
+716,BTC-20260223-0129,Angka lempeng total,3.44,log CFU/g,Cawan tuang,2026-02-24,Bagas,Memenuhi
+717,BTC-20260223-0129,Kapang khamir,1.93,log CFU/g,Cawan sebar,2026-02-25,Bagas,Memenuhi
+718,BTC-20260223-0130,Kadar air,2.51,%,Oven 105 C,2026-02-24,Sekar,Memenuhi
+719,BTC-20260223-0130,Kadar abu,1.59,%,Tanur 550 C,2026-02-23,Intan,Memenuhi
+720,BTC-20260223-0130,Bilangan peroksida,1.78,meq O2/kg,Titrasi iodometri,2026-02-25,Sekar,Memenuhi
+721,BTC-20260223-0130,Angka lempeng total,1.82,log CFU/g,Cawan tuang,2026-02-25,Intan,Memenuhi
+722,BTC-20260223-0130,Kapang khamir,1.48,log CFU/g,Cawan sebar,2026-02-24,Rani,Memenuhi
+723,BTC-20260224-0131,Kadar air,2.44,%,Oven 105 C,2026-02-24,Rani,Memenuhi
+724,BTC-20260224-0131,Kadar abu,1.96,%,Tanur 550 C,2026-02-26,Rani,Memenuhi
+725,BTC-20260224-0131,Bilangan peroksida,1.78,meq O2/kg,Titrasi iodometri,2026-02-24,Yoga,Memenuhi
+726,BTC-20260224-0131,Angka lempeng total,2.31,log CFU/g,Cawan tuang,2026-02-25,Yoga,Memenuhi
+727,BTC-20260224-0131,Kapang khamir,2.17,log CFU/g,Cawan sebar,2026-02-26,Yoga,Memenuhi
+728,BTC-20260224-0131,Berat bersih,100.75,g,Timbang digital,2026-02-26,Rani,Memenuhi
+729,BTC-20260224-0131,Skor hedonik,5.9,skala 1-7,Uji hedonik 15 panelis,2026-02-25,Yoga,Memenuhi
+730,BTC-20260224-0132,Kadar air,2.8,%,Oven 105 C,2026-02-26,Intan,Memenuhi
+731,BTC-20260224-0132,Kadar abu,2.16,%,Tanur 550 C,2026-02-25,Yoga,Memenuhi
+732,BTC-20260224-0132,Bilangan peroksida,2.32,meq O2/kg,Titrasi iodometri,2026-02-25,Intan,Memenuhi
+733,BTC-20260224-0132,Angka lempeng total,2.95,log CFU/g,Cawan tuang,2026-02-26,Sekar,Memenuhi
+734,BTC-20260224-0132,Kapang khamir,2.01,log CFU/g,Cawan sebar,2026-02-26,Intan,Memenuhi
+735,BTC-20260224-0133,Kadar air,85.48,%,Oven 105 C,2026-02-25,Intan,Memenuhi
+736,BTC-20260224-0133,Kadar abu,2.09,%,Tanur 550 C,2026-02-25,Bagas,Memenuhi
+737,BTC-20260224-0133,Bilangan peroksida,1.11,meq O2/kg,Titrasi iodometri,2026-02-26,Sekar,Memenuhi
+738,BTC-20260224-0133,Angka lempeng total,3.12,log CFU/g,Cawan tuang,2026-02-26,Yoga,Memenuhi
+739,BTC-20260224-0133,Kapang khamir,2.39,log CFU/g,Cawan sebar,2026-02-24,Rani,Memenuhi
+740,BTC-20260225-0134,Kadar air,3.02,%,Oven 105 C,2026-02-26,Intan,Tidak memenuhi
+741,BTC-20260225-0134,Kadar abu,2.17,%,Tanur 550 C,2026-02-26,Intan,Memenuhi
+742,BTC-20260225-0134,Bilangan peroksida,1.75,meq O2/kg,Titrasi iodometri,2026-02-26,Rani,Memenuhi
+743,BTC-20260225-0134,Angka lempeng total,2.57,log CFU/g,Cawan tuang,2026-02-27,Rani,Memenuhi
+744,BTC-20260225-0134,Kapang khamir,2.07,log CFU/g,Cawan sebar,2026-02-27,Intan,Memenuhi
+745,BTC-20260225-0134,Berat bersih,101.12,g,Timbang digital,2026-02-26,Rani,Memenuhi
+746,BTC-20260225-0134,Skor hedonik,4.26,skala 1-7,Uji hedonik 15 panelis,2026-02-26,Sekar,Memenuhi
+747,BTC-20260225-0135,Kadar air,86.55,%,Oven 105 C,2026-02-26,Sekar,Memenuhi
+748,BTC-20260225-0135,Kadar abu,2.1,%,Tanur 550 C,2026-02-25,Sekar,Memenuhi
+749,BTC-20260225-0135,Bilangan peroksida,1.22,meq O2/kg,Titrasi iodometri,2026-02-25,Intan,Memenuhi
+750,BTC-20260225-0135,Angka lempeng total,3.33,log CFU/g,Cawan tuang,2026-02-25,Sekar,Memenuhi
+751,BTC-20260225-0135,Kapang khamir,1.55,log CFU/g,Cawan sebar,2026-02-27,Bagas,Memenuhi
+752,BTC-20260225-0135,Berat bersih,100.47,g,Timbang digital,2026-02-27,Sekar,Memenuhi
+753,BTC-20260225-0135,Skor hedonik,5.06,skala 1-7,Uji hedonik 15 panelis,2026-02-25,Rani,Memenuhi
+754,BTC-20260226-0136,Kadar air,2.66,%,Oven 105 C,2026-02-26,Intan,Memenuhi
+755,BTC-20260226-0136,Kadar abu,1.82,%,Tanur 550 C,2026-02-27,Sekar,Memenuhi
+756,BTC-20260226-0136,Bilangan peroksida,2.43,meq O2/kg,Titrasi iodometri,2026-02-28,Rani,Memenuhi
+757,BTC-20260226-0136,Angka lempeng total,2.38,log CFU/g,Cawan tuang,2026-02-26,Rani,Memenuhi
+758,BTC-20260226-0136,Kapang khamir,1.84,log CFU/g,Cawan sebar,2026-02-28,Intan,Memenuhi
+759,BTC-20260226-0137,Kadar air,9.98,%,Oven 105 C,2026-02-27,Bagas,Memenuhi
+760,BTC-20260226-0137,Kadar abu,1.87,%,Tanur 550 C,2026-02-27,Bagas,Memenuhi
+761,BTC-20260226-0137,Bilangan peroksida,1.81,meq O2/kg,Titrasi iodometri,2026-02-26,Yoga,Memenuhi
+762,BTC-20260226-0137,Angka lempeng total,2.6,log CFU/g,Cawan tuang,2026-02-28,Rani,Memenuhi
+763,BTC-20260226-0137,Kapang khamir,2.15,log CFU/g,Cawan sebar,2026-02-26,Intan,Memenuhi
+764,BTC-20260227-0138,Kadar air,2.2,%,Oven 105 C,2026-02-28,Bagas,Memenuhi
+765,BTC-20260227-0138,Kadar abu,1.31,%,Tanur 550 C,2026-02-27,Rani,Memenuhi
+766,BTC-20260227-0138,Bilangan peroksida,1.17,meq O2/kg,Titrasi iodometri,2026-02-27,Intan,Memenuhi
+767,BTC-20260227-0138,Angka lempeng total,2.62,log CFU/g,Cawan tuang,2026-03-01,Sekar,Memenuhi
+768,BTC-20260227-0138,Kapang khamir,2.0,log CFU/g,Cawan sebar,2026-02-28,Bagas,Memenuhi
+769,BTC-20260227-0139,Kadar air,10.49,%,Oven 105 C,2026-02-27,Sekar,Memenuhi
+770,BTC-20260227-0139,Kadar abu,1.92,%,Tanur 550 C,2026-02-27,Intan,Memenuhi
+771,BTC-20260227-0139,Bilangan peroksida,1.89,meq O2/kg,Titrasi iodometri,2026-02-28,Sekar,Memenuhi
+772,BTC-20260227-0139,Angka lempeng total,3.08,log CFU/g,Cawan tuang,2026-02-27,Intan,Memenuhi
+773,BTC-20260227-0139,Kapang khamir,1.7,log CFU/g,Cawan sebar,2026-02-27,Bagas,Memenuhi
+774,BTC-20260227-0139,Berat bersih,99.34,g,Timbang digital,2026-02-27,Intan,Memenuhi
+775,BTC-20260227-0139,Skor hedonik,5.18,skala 1-7,Uji hedonik 15 panelis,2026-02-28,Rani,Memenuhi
+776,BTC-20260227-0140,Kadar air,2.55,%,Oven 105 C,2026-03-01,Bagas,Memenuhi
+777,BTC-20260227-0140,Kadar abu,1.76,%,Tanur 550 C,2026-03-01,Rani,Memenuhi
+778,BTC-20260227-0140,Bilangan peroksida,0.85,meq O2/kg,Titrasi iodometri,2026-02-27,Intan,Memenuhi
+779,BTC-20260227-0140,Angka lempeng total,3.0,log CFU/g,Cawan tuang,2026-02-27,Rani,Memenuhi
+780,BTC-20260227-0140,Kapang khamir,1.66,log CFU/g,Cawan sebar,2026-02-28,Rani,Memenuhi
+781,BTC-20260227-0141,Kadar air,11.07,%,Oven 105 C,2026-02-28,Yoga,Memenuhi
+782,BTC-20260227-0141,Kadar abu,2.13,%,Tanur 550 C,2026-02-28,Intan,Memenuhi
+783,BTC-20260227-0141,Bilangan peroksida,1.3,meq O2/kg,Titrasi iodometri,2026-03-01,Bagas,Memenuhi
+784,BTC-20260227-0141,Angka lempeng total,3.71,log CFU/g,Cawan tuang,2026-02-27,Yoga,Memenuhi
+785,BTC-20260227-0141,Kapang khamir,2.32,log CFU/g,Cawan sebar,2026-02-27,Intan,Memenuhi
+786,BTC-20260228-0142,Kadar air,1.78,%,Oven 105 C,2026-03-01,Bagas,Memenuhi
+787,BTC-20260228-0142,Kadar abu,2.17,%,Tanur 550 C,2026-02-28,Yoga,Memenuhi
+788,BTC-20260228-0142,Bilangan peroksida,1.32,meq O2/kg,Titrasi iodometri,2026-03-01,Sekar,Memenuhi
+789,BTC-20260228-0142,Angka lempeng total,3.65,log CFU/g,Cawan tuang,2026-03-02,Sekar,Memenuhi
+790,BTC-20260228-0142,Kapang khamir,2.16,log CFU/g,Cawan sebar,2026-02-28,Yoga,Memenuhi
+791,BTC-20260228-0143,Kadar air,9.51,%,Oven 105 C,2026-03-02,Intan,Memenuhi
+792,BTC-20260228-0143,Kadar abu,1.78,%,Tanur 550 C,2026-03-02,Yoga,Memenuhi
+793,BTC-20260228-0143,Bilangan peroksida,1.53,meq O2/kg,Titrasi iodometri,2026-03-01,Sekar,Memenuhi
+794,BTC-20260228-0143,Angka lempeng total,3.13,log CFU/g,Cawan tuang,2026-03-02,Yoga,Memenuhi
+795,BTC-20260228-0143,Kapang khamir,2.06,log CFU/g,Cawan sebar,2026-03-02,Intan,Memenuhi
+796,BTC-20260228-0143,Berat bersih,102.93,g,Timbang digital,2026-02-28,Sekar,Memenuhi
+797,BTC-20260228-0143,Skor hedonik,5.23,skala 1-7,Uji hedonik 15 panelis,2026-02-28,Sekar,Memenuhi
+798,BTC-20260228-0144,Kadar air,3.13,%,Oven 105 C,2026-03-02,Bagas,Tidak memenuhi
+799,BTC-20260228-0144,Kadar abu,2.31,%,Tanur 550 C,2026-03-01,Intan,Memenuhi
+800,BTC-20260228-0144,Bilangan peroksida,1.34,meq O2/kg,Titrasi iodometri,2026-03-02,Sekar,Memenuhi
+801,BTC-20260228-0144,Angka lempeng total,3.87,log CFU/g,Cawan tuang,2026-02-28,Intan,Memenuhi
+802,BTC-20260228-0144,Kapang khamir,1.21,log CFU/g,Cawan sebar,2026-03-02,Rani,Memenuhi
+803,BTC-20260228-0145,Kadar air,10.13,%,Oven 105 C,2026-03-01,Yoga,Memenuhi
+804,BTC-20260228-0145,Kadar abu,1.95,%,Tanur 550 C,2026-03-02,Yoga,Memenuhi
+805,BTC-20260228-0145,Bilangan peroksida,2.29,meq O2/kg,Titrasi iodometri,2026-02-28,Bagas,Memenuhi
+806,BTC-20260228-0145,Angka lempeng total,3.25,log CFU/g,Cawan tuang,2026-03-02,Bagas,Memenuhi
+807,BTC-20260228-0145,Kapang khamir,2.02,log CFU/g,Cawan sebar,2026-03-02,Bagas,Memenuhi
+808,BTC-20260228-0145,Berat bersih,99.34,g,Timbang digital,2026-03-02,Intan,Memenuhi
+809,BTC-20260228-0145,Skor hedonik,5.99,skala 1-7,Uji hedonik 15 panelis,2026-03-01,Bagas,Memenuhi
+810,BTC-20260302-0146,Kadar air,2.04,%,Oven 105 C,2026-03-03,Yoga,Memenuhi
+811,BTC-20260302-0146,Kadar abu,1.81,%,Tanur 550 C,2026-03-03,Yoga,Memenuhi
+812,BTC-20260302-0146,Bilangan peroksida,2.24,meq O2/kg,Titrasi iodometri,2026-03-04,Sekar,Memenuhi
+813,BTC-20260302-0146,Angka lempeng total,3.41,log CFU/g,Cawan tuang,2026-03-02,Intan,Memenuhi
+814,BTC-20260302-0146,Kapang khamir,1.0,log CFU/g,Cawan sebar,2026-03-03,Yoga,Memenuhi
+815,BTC-20260302-0147,Kadar air,10.79,%,Oven 105 C,2026-03-04,Sekar,Memenuhi
+816,BTC-20260302-0147,Kadar abu,1.94,%,Tanur 550 C,2026-03-04,Intan,Memenuhi
+817,BTC-20260302-0147,Bilangan peroksida,1.44,meq O2/kg,Titrasi iodometri,2026-03-03,Bagas,Memenuhi
+818,BTC-20260302-0147,Angka lempeng total,3.3,log CFU/g,Cawan tuang,2026-03-04,Rani,Memenuhi
+819,BTC-20260302-0147,Kapang khamir,2.5,log CFU/g,Cawan sebar,2026-03-04,Intan,Memenuhi
+820,BTC-20260302-0148,Kadar air,2.21,%,Oven 105 C,2026-03-04,Bagas,Memenuhi
+821,BTC-20260302-0148,Kadar abu,1.73,%,Tanur 550 C,2026-03-03,Bagas,Memenuhi
+822,BTC-20260302-0148,Bilangan peroksida,1.61,meq O2/kg,Titrasi iodometri,2026-03-02,Rani,Memenuhi
+823,BTC-20260302-0148,Angka lempeng total,2.31,log CFU/g,Cawan tuang,2026-03-04,Rani,Memenuhi
+824,BTC-20260302-0148,Kapang khamir,1.82,log CFU/g,Cawan sebar,2026-03-04,Intan,Memenuhi
+825,BTC-20260303-0149,Kadar air,2.16,%,Oven 105 C,2026-03-05,Yoga,Memenuhi
+826,BTC-20260303-0149,Kadar abu,2.07,%,Tanur 550 C,2026-03-05,Sekar,Memenuhi
+827,BTC-20260303-0149,Bilangan peroksida,1.94,meq O2/kg,Titrasi iodometri,2026-03-03,Sekar,Memenuhi
+828,BTC-20260303-0149,Angka lempeng total,2.76,log CFU/g,Cawan tuang,2026-03-04,Bagas,Memenuhi
+829,BTC-20260303-0149,Kapang khamir,2.13,log CFU/g,Cawan sebar,2026-03-04,Intan,Memenuhi
+830,BTC-20260303-0150,Kadar air,2.63,%,Oven 105 C,2026-03-04,Yoga,Memenuhi
+831,BTC-20260303-0150,Kadar abu,1.94,%,Tanur 550 C,2026-03-05,Sekar,Memenuhi
+832,BTC-20260303-0150,Bilangan peroksida,1.39,meq O2/kg,Titrasi iodometri,2026-03-03,Sekar,Memenuhi
+833,BTC-20260303-0150,Angka lempeng total,3.64,log CFU/g,Cawan tuang,2026-03-05,Intan,Memenuhi
+834,BTC-20260303-0150,Kapang khamir,1.95,log CFU/g,Cawan sebar,2026-03-03,Sekar,Memenuhi
+835,BTC-20260303-0151,Kadar air,87.41,%,Oven 105 C,2026-03-05,Yoga,Memenuhi
+836,BTC-20260303-0151,Kadar abu,2.12,%,Tanur 550 C,2026-03-05,Yoga,Memenuhi
+837,BTC-20260303-0151,Bilangan peroksida,1.87,meq O2/kg,Titrasi iodometri,2026-03-05,Bagas,Memenuhi
+838,BTC-20260303-0151,Angka lempeng total,3.87,log CFU/g,Cawan tuang,2026-03-03,Yoga,Memenuhi
+839,BTC-20260303-0151,Kapang khamir,1.44,log CFU/g,Cawan sebar,2026-03-03,Rani,Memenuhi
+840,BTC-20260304-0152,Kadar air,2.62,%,Oven 105 C,2026-03-04,Sekar,Memenuhi
+841,BTC-20260304-0152,Kadar abu,2.31,%,Tanur 550 C,2026-03-04,Sekar,Memenuhi
+842,BTC-20260304-0152,Bilangan peroksida,2.4,meq O2/kg,Titrasi iodometri,2026-03-04,Yoga,Memenuhi
+843,BTC-20260304-0152,Angka lempeng total,2.97,log CFU/g,Cawan tuang,2026-03-04,Intan,Memenuhi
+844,BTC-20260304-0152,Kapang khamir,2.31,log CFU/g,Cawan sebar,2026-03-06,Intan,Memenuhi
+845,BTC-20260304-0153,Kadar air,10.7,%,Oven 105 C,2026-03-04,Bagas,Memenuhi
+846,BTC-20260304-0153,Kadar abu,1.83,%,Tanur 550 C,2026-03-06,Intan,Memenuhi
+847,BTC-20260304-0153,Bilangan peroksida,0.7,meq O2/kg,Titrasi iodometri,2026-03-05,Bagas,Memenuhi
+848,BTC-20260304-0153,Angka lempeng total,2.52,log CFU/g,Cawan tuang,2026-03-05,Yoga,Memenuhi
+849,BTC-20260304-0153,Kapang khamir,1.31,log CFU/g,Cawan sebar,2026-03-06,Bagas,Memenuhi
+850,BTC-20260304-0154,Kadar air,12.59,%,Oven 105 C,2026-03-05,Rani,Memenuhi
+851,BTC-20260304-0154,Kadar abu,1.72,%,Tanur 550 C,2026-03-04,Bagas,Memenuhi
+852,BTC-20260304-0154,Bilangan peroksida,1.58,meq O2/kg,Titrasi iodometri,2026-03-04,Bagas,Memenuhi
+853,BTC-20260304-0154,Angka lempeng total,2.95,log CFU/g,Cawan tuang,2026-03-05,Sekar,Memenuhi
+854,BTC-20260304-0154,Kapang khamir,1.23,log CFU/g,Cawan sebar,2026-03-05,Yoga,Memenuhi
+855,BTC-20260304-0154,Berat bersih,100.58,g,Timbang digital,2026-03-06,Sekar,Memenuhi
+856,BTC-20260304-0154,Skor hedonik,5.23,skala 1-7,Uji hedonik 15 panelis,2026-03-05,Bagas,Memenuhi
+857,BTC-20260304-0155,Kadar air,2.52,%,Oven 105 C,2026-03-05,Bagas,Memenuhi
+858,BTC-20260304-0155,Kadar abu,2.02,%,Tanur 550 C,2026-03-06,Rani,Memenuhi
+859,BTC-20260304-0155,Bilangan peroksida,2.16,meq O2/kg,Titrasi iodometri,2026-03-04,Yoga,Memenuhi
+860,BTC-20260304-0155,Angka lempeng total,2.74,log CFU/g,Cawan tuang,2026-03-04,Intan,Memenuhi
+861,BTC-20260304-0155,Kapang khamir,1.78,log CFU/g,Cawan sebar,2026-03-04,Bagas,Memenuhi
+862,BTC-20260305-0156,Kadar air,85.01,%,Oven 105 C,2026-03-06,Bagas,Memenuhi
+863,BTC-20260305-0156,Kadar abu,1.52,%,Tanur 550 C,2026-03-06,Sekar,Memenuhi
+864,BTC-20260305-0156,Bilangan peroksida,1.11,meq O2/kg,Titrasi iodometri,2026-03-06,Sekar,Memenuhi
+865,BTC-20260305-0156,Angka lempeng total,3.85,log CFU/g,Cawan tuang,2026-03-07,Yoga,Memenuhi
+866,BTC-20260305-0156,Kapang khamir,1.38,log CFU/g,Cawan sebar,2026-03-06,Bagas,Memenuhi
+867,BTC-20260305-0157,Kadar air,2.41,%,Oven 105 C,2026-03-05,Sekar,Memenuhi
+868,BTC-20260305-0157,Kadar abu,1.57,%,Tanur 550 C,2026-03-05,Sekar,Memenuhi
+869,BTC-20260305-0157,Bilangan peroksida,1.34,meq O2/kg,Titrasi iodometri,2026-03-07,Intan,Memenuhi
+870,BTC-20260305-0157,Angka lempeng total,3.26,log CFU/g,Cawan tuang,2026-03-06,Intan,Memenuhi
+871,BTC-20260305-0157,Kapang khamir,2.05,log CFU/g,Cawan sebar,2026-03-07,Bagas,Memenuhi
+872,BTC-20260305-0158,Kadar air,87.7,%,Oven 105 C,2026-03-06,Yoga,Memenuhi
+873,BTC-20260305-0158,Kadar abu,1.67,%,Tanur 550 C,2026-03-06,Sekar,Memenuhi
+874,BTC-20260305-0158,Bilangan peroksida,1.18,meq O2/kg,Titrasi iodometri,2026-03-06,Bagas,Memenuhi
+875,BTC-20260305-0158,Angka lempeng total,3.33,log CFU/g,Cawan tuang,2026-03-06,Yoga,Memenuhi
+876,BTC-20260305-0158,Kapang khamir,1.96,log CFU/g,Cawan sebar,2026-03-07,Yoga,Memenuhi
+877,BTC-20260305-0158,Berat bersih,100.74,g,Timbang digital,2026-03-05,Sekar,Memenuhi
+878,BTC-20260305-0158,Skor hedonik,5.37,skala 1-7,Uji hedonik 15 panelis,2026-03-06,Yoga,Memenuhi
+879,BTC-20260306-0159,Kadar air,2.21,%,Oven 105 C,2026-03-07,Bagas,Memenuhi
+880,BTC-20260306-0159,Kadar abu,1.52,%,Tanur 550 C,2026-03-08,Sekar,Memenuhi
+881,BTC-20260306-0159,Bilangan peroksida,1.62,meq O2/kg,Titrasi iodometri,2026-03-07,Bagas,Memenuhi
+882,BTC-20260306-0159,Angka lempeng total,2.96,log CFU/g,Cawan tuang,2026-03-08,Bagas,Memenuhi
+883,BTC-20260306-0159,Kapang khamir,2.56,log CFU/g,Cawan sebar,2026-03-06,Intan,Memenuhi
+884,BTC-20260306-0160,Kadar air,9.93,%,Oven 105 C,2026-03-06,Intan,Memenuhi
+885,BTC-20260306-0160,Kadar abu,2.19,%,Tanur 550 C,2026-03-06,Yoga,Memenuhi
+886,BTC-20260306-0160,Bilangan peroksida,1.28,meq O2/kg,Titrasi iodometri,2026-03-07,Intan,Memenuhi
+887,BTC-20260306-0160,Angka lempeng total,3.0,log CFU/g,Cawan tuang,2026-03-08,Rani,Memenuhi
+888,BTC-20260306-0160,Kapang khamir,2.31,log CFU/g,Cawan sebar,2026-03-08,Yoga,Memenuhi
+889,BTC-20260306-0160,Berat bersih,101.41,g,Timbang digital,2026-03-08,Sekar,Memenuhi
+890,BTC-20260306-0160,Skor hedonik,5.78,skala 1-7,Uji hedonik 15 panelis,2026-03-06,Sekar,Memenuhi
+891,BTC-20260306-0161,Kadar air,2.38,%,Oven 105 C,2026-03-07,Rani,Memenuhi
+892,BTC-20260306-0161,Kadar abu,1.77,%,Tanur 550 C,2026-03-06,Intan,Memenuhi
+893,BTC-20260306-0161,Bilangan peroksida,1.66,meq O2/kg,Titrasi iodometri,2026-03-06,Intan,Memenuhi
+894,BTC-20260306-0161,Angka lempeng total,2.28,log CFU/g,Cawan tuang,2026-03-08,Rani,Memenuhi
+895,BTC-20260306-0161,Kapang khamir,1.93,log CFU/g,Cawan sebar,2026-03-08,Yoga,Memenuhi
+896,BTC-20260307-0162,Kadar air,1.99,%,Oven 105 C,2026-03-07,Bagas,Memenuhi
+897,BTC-20260307-0162,Kadar abu,1.56,%,Tanur 550 C,2026-03-08,Yoga,Memenuhi
+898,BTC-20260307-0162,Bilangan peroksida,0.97,meq O2/kg,Titrasi iodometri,2026-03-08,Intan,Memenuhi
+899,BTC-20260307-0162,Angka lempeng total,2.89,log CFU/g,Cawan tuang,2026-03-08,Rani,Memenuhi
+900,BTC-20260307-0162,Kapang khamir,1.11,log CFU/g,Cawan sebar,2026-03-07,Yoga,Memenuhi
+901,BTC-20260307-0162,Berat bersih,100.07,g,Timbang digital,2026-03-08,Sekar,Memenuhi
+902,BTC-20260307-0162,Skor hedonik,5.6,skala 1-7,Uji hedonik 15 panelis,2026-03-09,Rani,Memenuhi
+903,BTC-20260307-0163,Kadar air,10.73,%,Oven 105 C,2026-03-07,Rani,Memenuhi
+904,BTC-20260307-0163,Kadar abu,1.69,%,Tanur 550 C,2026-03-07,Bagas,Memenuhi
+905,BTC-20260307-0163,Bilangan peroksida,1.29,meq O2/kg,Titrasi iodometri,2026-03-07,Rani,Memenuhi
+906,BTC-20260307-0163,Angka lempeng total,3.01,log CFU/g,Cawan tuang,2026-03-09,Intan,Memenuhi
+907,BTC-20260307-0163,Kapang khamir,2.34,log CFU/g,Cawan sebar,2026-03-07,Bagas,Memenuhi
+908,BTC-20260307-0164,Kadar air,13.7,%,Oven 105 C,2026-03-07,Yoga,Memenuhi
+909,BTC-20260307-0164,Kadar abu,2.19,%,Tanur 550 C,2026-03-08,Sekar,Memenuhi
+910,BTC-20260307-0164,Bilangan peroksida,0.51,meq O2/kg,Titrasi iodometri,2026-03-07,Intan,Memenuhi
+911,BTC-20260307-0164,Angka lempeng total,3.17,log CFU/g,Cawan tuang,2026-03-09,Yoga,Memenuhi
+912,BTC-20260307-0164,Kapang khamir,1.71,log CFU/g,Cawan sebar,2026-03-07,Bagas,Memenuhi
+913,BTC-20260309-0165,Kadar air,3.32,%,Oven 105 C,2026-03-09,Intan,Tidak memenuhi
+914,BTC-20260309-0165,Kadar abu,1.88,%,Tanur 550 C,2026-03-09,Rani,Memenuhi
+915,BTC-20260309-0165,Bilangan peroksida,1.17,meq O2/kg,Titrasi iodometri,2026-03-11,Bagas,Memenuhi
+916,BTC-20260309-0165,Angka lempeng total,2.77,log CFU/g,Cawan tuang,2026-03-10,Yoga,Memenuhi
+917,BTC-20260309-0165,Kapang khamir,1.78,log CFU/g,Cawan sebar,2026-03-11,Intan,Memenuhi
+918,BTC-20260309-0166,Kadar air,1.49,%,Oven 105 C,2026-03-10,Sekar,Memenuhi
+919,BTC-20260309-0166,Kadar abu,1.63,%,Tanur 550 C,2026-03-09,Sekar,Memenuhi
+920,BTC-20260309-0166,Bilangan peroksida,1.41,meq O2/kg,Titrasi iodometri,2026-03-09,Intan,Memenuhi
+921,BTC-20260309-0166,Angka lempeng total,3.61,log CFU/g,Cawan tuang,2026-03-09,Rani,Memenuhi
+922,BTC-20260309-0166,Kapang khamir,1.76,log CFU/g,Cawan sebar,2026-03-10,Sekar,Memenuhi
+923,BTC-20260310-0167,Kadar air,11.26,%,Oven 105 C,2026-03-11,Bagas,Memenuhi
+924,BTC-20260310-0167,Kadar abu,2.01,%,Tanur 550 C,2026-03-11,Yoga,Memenuhi
+925,BTC-20260310-0167,Bilangan peroksida,0.82,meq O2/kg,Titrasi iodometri,2026-03-11,Sekar,Memenuhi
+926,BTC-20260310-0167,Angka lempeng total,2.96,log CFU/g,Cawan tuang,2026-03-11,Rani,Memenuhi
+927,BTC-20260310-0167,Kapang khamir,0.97,log CFU/g,Cawan sebar,2026-03-11,Sekar,Memenuhi
+928,BTC-20260310-0168,Kadar air,2.05,%,Oven 105 C,2026-03-12,Intan,Memenuhi
+929,BTC-20260310-0168,Kadar abu,1.65,%,Tanur 550 C,2026-03-11,Yoga,Memenuhi
+930,BTC-20260310-0168,Bilangan peroksida,1.11,meq O2/kg,Titrasi iodometri,2026-03-12,Rani,Memenuhi
+931,BTC-20260310-0168,Angka lempeng total,3.79,log CFU/g,Cawan tuang,2026-03-12,Rani,Memenuhi
+932,BTC-20260310-0168,Kapang khamir,1.38,log CFU/g,Cawan sebar,2026-03-11,Yoga,Memenuhi
+933,BTC-20260310-0169,Kadar air,2.21,%,Oven 105 C,2026-03-12,Bagas,Memenuhi
+934,BTC-20260310-0169,Kadar abu,2.45,%,Tanur 550 C,2026-03-10,Yoga,Memenuhi
+935,BTC-20260310-0169,Bilangan peroksida,1.31,meq O2/kg,Titrasi iodometri,2026-03-12,Sekar,Memenuhi
+936,BTC-20260310-0169,Angka lempeng total,3.06,log CFU/g,Cawan tuang,2026-03-12,Yoga,Memenuhi
+937,BTC-20260310-0169,Kapang khamir,2.35,log CFU/g,Cawan sebar,2026-03-12,Bagas,Memenuhi
+938,BTC-20260310-0170,Kadar air,84.83,%,Oven 105 C,2026-03-11,Intan,Memenuhi
+939,BTC-20260310-0170,Kadar abu,2.1,%,Tanur 550 C,2026-03-10,Sekar,Memenuhi
+940,BTC-20260310-0170,Bilangan peroksida,1.3,meq O2/kg,Titrasi iodometri,2026-03-12,Rani,Memenuhi
+941,BTC-20260310-0170,Angka lempeng total,3.37,log CFU/g,Cawan tuang,2026-03-10,Rani,Memenuhi
+942,BTC-20260310-0170,Kapang khamir,2.29,log CFU/g,Cawan sebar,2026-03-11,Intan,Memenuhi
+943,BTC-20260311-0171,Kadar air,9.2,%,Oven 105 C,2026-03-11,Yoga,Memenuhi
+944,BTC-20260311-0171,Kadar abu,1.79,%,Tanur 550 C,2026-03-12,Rani,Memenuhi
+945,BTC-20260311-0171,Bilangan peroksida,1.56,meq O2/kg,Titrasi iodometri,2026-03-11,Sekar,Memenuhi
+946,BTC-20260311-0171,Angka lempeng total,4.26,log CFU/g,Cawan tuang,2026-03-12,Rani,Memenuhi
+947,BTC-20260311-0171,Kapang khamir,1.47,log CFU/g,Cawan sebar,2026-03-13,Intan,Memenuhi
+948,BTC-20260311-0172,Kadar air,2.28,%,Oven 105 C,2026-03-12,Rani,Memenuhi
+949,BTC-20260311-0172,Kadar abu,2.16,%,Tanur 550 C,2026-03-12,Bagas,Memenuhi
+950,BTC-20260311-0172,Bilangan peroksida,2.28,meq O2/kg,Titrasi iodometri,2026-03-13,Sekar,Memenuhi
+951,BTC-20260311-0172,Angka lempeng total,3.27,log CFU/g,Cawan tuang,2026-03-12,Sekar,Memenuhi
+952,BTC-20260311-0172,Kapang khamir,1.55,log CFU/g,Cawan sebar,2026-03-13,Sekar,Memenuhi
+953,BTC-20260311-0173,Kadar air,2.17,%,Oven 105 C,2026-03-12,Sekar,Memenuhi
+954,BTC-20260311-0173,Kadar abu,1.58,%,Tanur 550 C,2026-03-13,Bagas,Memenuhi
+955,BTC-20260311-0173,Bilangan peroksida,2.37,meq O2/kg,Titrasi iodometri,2026-03-12,Rani,Memenuhi
+956,BTC-20260311-0173,Angka lempeng total,3.68,log CFU/g,Cawan tuang,2026-03-12,Bagas,Memenuhi
+957,BTC-20260311-0173,Kapang khamir,1.97,log CFU/g,Cawan sebar,2026-03-13,Intan,Memenuhi
+958,BTC-20260311-0173,Berat bersih,99.79,g,Timbang digital,2026-03-13,Sekar,Memenuhi
+959,BTC-20260311-0173,Skor hedonik,5.43,skala 1-7,Uji hedonik 15 panelis,2026-03-12,Sekar,Memenuhi
+960,BTC-20260312-0174,Kadar air,86.71,%,Oven 105 C,2026-03-13,Yoga,Memenuhi
+961,BTC-20260312-0174,Kadar abu,2.07,%,Tanur 550 C,2026-03-14,Sekar,Memenuhi
+962,BTC-20260312-0174,Bilangan peroksida,2.13,meq O2/kg,Titrasi iodometri,2026-03-12,Intan,Memenuhi
+963,BTC-20260312-0174,Angka lempeng total,3.33,log CFU/g,Cawan tuang,2026-03-12,Sekar,Memenuhi
+964,BTC-20260312-0174,Kapang khamir,1.48,log CFU/g,Cawan sebar,2026-03-12,Rani,Memenuhi
+965,BTC-20260312-0175,Kadar air,86.28,%,Oven 105 C,2026-03-14,Bagas,Memenuhi
+966,BTC-20260312-0175,Kadar abu,2.12,%,Tanur 550 C,2026-03-14,Bagas,Memenuhi
+967,BTC-20260312-0175,Bilangan peroksida,2.51,meq O2/kg,Titrasi iodometri,2026-03-13,Intan,Memenuhi
+968,BTC-20260312-0175,Angka lempeng total,2.41,log CFU/g,Cawan tuang,2026-03-13,Rani,Memenuhi
+969,BTC-20260312-0175,Kapang khamir,0.66,log CFU/g,Cawan sebar,2026-03-14,Intan,Memenuhi
+970,BTC-20260312-0176,Kadar air,2.74,%,Oven 105 C,2026-03-14,Yoga,Memenuhi
+971,BTC-20260312-0176,Kadar abu,1.76,%,Tanur 550 C,2026-03-14,Sekar,Memenuhi
+972,BTC-20260312-0176,Bilangan peroksida,1.77,meq O2/kg,Titrasi iodometri,2026-03-13,Rani,Memenuhi
+973,BTC-20260312-0176,Angka lempeng total,3.03,log CFU/g,Cawan tuang,2026-03-12,Yoga,Memenuhi
+974,BTC-20260312-0176,Kapang khamir,1.88,log CFU/g,Cawan sebar,2026-03-13,Intan,Memenuhi
+975,BTC-20260312-0177,Kadar air,87.71,%,Oven 105 C,2026-03-14,Intan,Memenuhi
+976,BTC-20260312-0177,Kadar abu,1.68,%,Tanur 550 C,2026-03-14,Bagas,Memenuhi
+977,BTC-20260312-0177,Bilangan peroksida,1.8,meq O2/kg,Titrasi iodometri,2026-03-13,Sekar,Memenuhi
+978,BTC-20260312-0177,Angka lempeng total,2.78,log CFU/g,Cawan tuang,2026-03-12,Rani,Memenuhi
+979,BTC-20260312-0177,Kapang khamir,2.38,log CFU/g,Cawan sebar,2026-03-12,Intan,Memenuhi
+980,BTC-20260313-0178,Kadar air,2.51,%,Oven 105 C,2026-03-14,Intan,Memenuhi
+981,BTC-20260313-0178,Kadar abu,1.88,%,Tanur 550 C,2026-03-13,Intan,Memenuhi
+982,BTC-20260313-0178,Bilangan peroksida,2.5,meq O2/kg,Titrasi iodometri,2026-03-15,Rani,Memenuhi
+983,BTC-20260313-0178,Angka lempeng total,2.84,log CFU/g,Cawan tuang,2026-03-15,Yoga,Memenuhi
+984,BTC-20260313-0178,Kapang khamir,1.98,log CFU/g,Cawan sebar,2026-03-15,Yoga,Memenuhi
+985,BTC-20260313-0179,Kadar air,88.75,%,Oven 105 C,2026-03-15,Intan,Memenuhi
+986,BTC-20260313-0179,Kadar abu,1.66,%,Tanur 550 C,2026-03-14,Rani,Memenuhi
+987,BTC-20260313-0179,Bilangan peroksida,0.83,meq O2/kg,Titrasi iodometri,2026-03-13,Bagas,Memenuhi
+988,BTC-20260313-0179,Angka lempeng total,2.33,log CFU/g,Cawan tuang,2026-03-13,Rani,Memenuhi
+989,BTC-20260313-0179,Kapang khamir,1.72,log CFU/g,Cawan sebar,2026-03-14,Intan,Memenuhi
+990,BTC-20260314-0180,Kadar air,2.31,%,Oven 105 C,2026-03-16,Bagas,Memenuhi
+991,BTC-20260314-0180,Kadar abu,2.12,%,Tanur 550 C,2026-03-14,Bagas,Memenuhi
+992,BTC-20260314-0180,Bilangan peroksida,1.25,meq O2/kg,Titrasi iodometri,2026-03-14,Yoga,Memenuhi
+993,BTC-20260314-0180,Angka lempeng total,2.21,log CFU/g,Cawan tuang,2026-03-16,Bagas,Memenuhi
+994,BTC-20260314-0180,Kapang khamir,1.56,log CFU/g,Cawan sebar,2026-03-15,Bagas,Memenuhi
+995,BTC-20260314-0180,Berat bersih,101.08,g,Timbang digital,2026-03-15,Bagas,Memenuhi
+996,BTC-20260314-0180,Skor hedonik,6.36,skala 1-7,Uji hedonik 15 panelis,2026-03-15,Rani,Memenuhi
+997,BTC-20260314-0181,Kadar air,2.4,%,Oven 105 C,2026-03-16,Yoga,Memenuhi
+998,BTC-20260314-0181,Kadar abu,1.78,%,Tanur 550 C,2026-03-16,Sekar,Memenuhi
+999,BTC-20260314-0181,Bilangan peroksida,1.03,meq O2/kg,Titrasi iodometri,2026-03-14,Sekar,Memenuhi
+1000,BTC-20260314-0181,Angka lempeng total,3.65,log CFU/g,Cawan tuang,2026-03-14,Yoga,Memenuhi
+1001,BTC-20260314-0181,Kapang khamir,3.03,log CFU/g,Cawan sebar,2026-03-15,Yoga,Tidak memenuhi
+1002,BTC-20260314-0182,Kadar air,1.84,%,Oven 105 C,2026-03-16,Rani,Memenuhi
+1003,BTC-20260314-0182,Kadar abu,1.65,%,Tanur 550 C,2026-03-14,Sekar,Memenuhi
+1004,BTC-20260314-0182,Bilangan peroksida,2.08,meq O2/kg,Titrasi iodometri,2026-03-14,Yoga,Memenuhi
+1005,BTC-20260314-0182,Angka lempeng total,3.97,log CFU/g,Cawan tuang,2026-03-15,Bagas,Memenuhi
+1006,BTC-20260314-0182,Kapang khamir,2.15,log CFU/g,Cawan sebar,2026-03-14,Sekar,Memenuhi
+1007,BTC-20260314-0183,Kadar air,9.65,%,Oven 105 C,2026-03-16,Bagas,Memenuhi
+1008,BTC-20260314-0183,Kadar abu,1.59,%,Tanur 550 C,2026-03-16,Yoga,Memenuhi
+1009,BTC-20260314-0183,Bilangan peroksida,2.04,meq O2/kg,Titrasi iodometri,2026-03-16,Rani,Memenuhi
+1010,BTC-20260314-0183,Angka lempeng total,3.83,log CFU/g,Cawan tuang,2026-03-15,Sekar,Memenuhi
+1011,BTC-20260314-0183,Kapang khamir,1.39,log CFU/g,Cawan sebar,2026-03-14,Intan,Memenuhi
+1012,BTC-20260314-0183,Berat bersih,100.33,g,Timbang digital,2026-03-14,Intan,Memenuhi
+1013,BTC-20260314-0183,Skor hedonik,5.13,skala 1-7,Uji hedonik 15 panelis,2026-03-14,Yoga,Memenuhi
+1014,BTC-20260316-0184,Kadar air,1.93,%,Oven 105 C,2026-03-17,Sekar,Memenuhi
+1015,BTC-20260316-0184,Kadar abu,1.51,%,Tanur 550 C,2026-03-17,Rani,Memenuhi
+1016,BTC-20260316-0184,Bilangan peroksida,-0.17,meq O2/kg,Titrasi iodometri,2026-03-17,Sekar,Memenuhi
+1017,BTC-20260316-0184,Angka lempeng total,2.92,log CFU/g,Cawan tuang,2026-03-16,Yoga,Memenuhi
+1018,BTC-20260316-0184,Kapang khamir,1.61,log CFU/g,Cawan sebar,2026-03-17,Yoga,Memenuhi
+1019,BTC-20260316-0185,Kadar air,85.32,%,Oven 105 C,2026-03-17,Intan,Memenuhi
+1020,BTC-20260316-0185,Kadar abu,2.08,%,Tanur 550 C,2026-03-17,Rani,Memenuhi
+1021,BTC-20260316-0185,Bilangan peroksida,1.22,meq O2/kg,Titrasi iodometri,2026-03-17,Bagas,Memenuhi
+1022,BTC-20260316-0185,Angka lempeng total,3.1,log CFU/g,Cawan tuang,2026-03-16,Rani,Memenuhi
+1023,BTC-20260316-0185,Kapang khamir,0.71,log CFU/g,Cawan sebar,2026-03-18,Intan,Memenuhi
+1024,BTC-20260316-0186,Kadar air,87.48,%,Oven 105 C,2026-03-17,Intan,Memenuhi
+1025,BTC-20260316-0186,Kadar abu,1.97,%,Tanur 550 C,2026-03-16,Rani,Memenuhi
+1026,BTC-20260316-0186,Bilangan peroksida,1.98,meq O2/kg,Titrasi iodometri,2026-03-17,Bagas,Memenuhi
+1027,BTC-20260316-0186,Angka lempeng total,3.31,log CFU/g,Cawan tuang,2026-03-18,Rani,Memenuhi
+1028,BTC-20260316-0186,Kapang khamir,2.14,log CFU/g,Cawan sebar,2026-03-17,Yoga,Memenuhi
+1029,BTC-20260317-0187,Kadar air,86.37,%,Oven 105 C,2026-03-18,Bagas,Memenuhi
+1030,BTC-20260317-0187,Kadar abu,1.75,%,Tanur 550 C,2026-03-19,Rani,Memenuhi
+1031,BTC-20260317-0187,Bilangan peroksida,2.69,meq O2/kg,Titrasi iodometri,2026-03-18,Sekar,Memenuhi
+1032,BTC-20260317-0187,Angka lempeng total,2.5,log CFU/g,Cawan tuang,2026-03-17,Intan,Memenuhi
+1033,BTC-20260317-0187,Kapang khamir,1.96,log CFU/g,Cawan sebar,2026-03-19,Rani,Memenuhi
+1034,BTC-20260317-0188,Kadar air,11.76,%,Oven 105 C,2026-03-19,Intan,Memenuhi
+1035,BTC-20260317-0188,Kadar abu,2.25,%,Tanur 550 C,2026-03-17,Rani,Memenuhi
+1036,BTC-20260317-0188,Bilangan peroksida,1.9,meq O2/kg,Titrasi iodometri,2026-03-18,Bagas,Memenuhi
+1037,BTC-20260317-0188,Angka lempeng total,4.31,log CFU/g,Cawan tuang,2026-03-19,Bagas,Memenuhi
+1038,BTC-20260317-0188,Kapang khamir,1.84,log CFU/g,Cawan sebar,2026-03-19,Sekar,Memenuhi
+1039,BTC-20260318-0189,Kadar air,2.43,%,Oven 105 C,2026-03-18,Bagas,Memenuhi
+1040,BTC-20260318-0189,Kadar abu,1.97,%,Tanur 550 C,2026-03-19,Intan,Memenuhi
+1041,BTC-20260318-0189,Bilangan peroksida,1.14,meq O2/kg,Titrasi iodometri,2026-03-18,Bagas,Memenuhi
+1042,BTC-20260318-0189,Angka lempeng total,2.88,log CFU/g,Cawan tuang,2026-03-18,Intan,Memenuhi
+1043,BTC-20260318-0189,Kapang khamir,1.75,log CFU/g,Cawan sebar,2026-03-19,Yoga,Memenuhi
+1044,BTC-20260318-0190,Kadar air,2.19,%,Oven 105 C,2026-03-18,Bagas,Memenuhi
+1045,BTC-20260318-0190,Kadar abu,2.27,%,Tanur 550 C,2026-03-19,Bagas,Memenuhi
+1046,BTC-20260318-0190,Bilangan peroksida,1.55,meq O2/kg,Titrasi iodometri,2026-03-18,Yoga,Memenuhi
+1047,BTC-20260318-0190,Angka lempeng total,3.61,log CFU/g,Cawan tuang,2026-03-18,Bagas,Memenuhi
+1048,BTC-20260318-0190,Kapang khamir,1.9,log CFU/g,Cawan sebar,2026-03-18,Bagas,Memenuhi
+1049,BTC-20260319-0191,Kadar air,1.66,%,Oven 105 C,2026-03-20,Sekar,Memenuhi
+1050,BTC-20260319-0191,Kadar abu,1.87,%,Tanur 550 C,2026-03-19,Bagas,Memenuhi
+1051,BTC-20260319-0191,Bilangan peroksida,1.86,meq O2/kg,Titrasi iodometri,2026-03-20,Bagas,Memenuhi
+1052,BTC-20260319-0191,Angka lempeng total,4.0,log CFU/g,Cawan tuang,2026-03-21,Rani,Memenuhi
+1053,BTC-20260319-0191,Kapang khamir,1.09,log CFU/g,Cawan sebar,2026-03-19,Sekar,Memenuhi
+1054,BTC-20260319-0191,Berat bersih,102.33,g,Timbang digital,2026-03-21,Rani,Memenuhi
+1055,BTC-20260319-0191,Skor hedonik,5.0,skala 1-7,Uji hedonik 15 panelis,2026-03-19,Rani,Memenuhi
+1056,BTC-20260319-0192,Kadar air,1.46,%,Oven 105 C,2026-03-20,Yoga,Memenuhi
+1057,BTC-20260319-0192,Kadar abu,2.4,%,Tanur 550 C,2026-03-21,Bagas,Memenuhi
+1058,BTC-20260319-0192,Bilangan peroksida,1.48,meq O2/kg,Titrasi iodometri,2026-03-20,Yoga,Memenuhi
+1059,BTC-20260319-0192,Angka lempeng total,3.32,log CFU/g,Cawan tuang,2026-03-20,Rani,Memenuhi
+1060,BTC-20260319-0192,Kapang khamir,2.06,log CFU/g,Cawan sebar,2026-03-19,Rani,Memenuhi
+1061,BTC-20260319-0193,Kadar air,2.16,%,Oven 105 C,2026-03-21,Bagas,Memenuhi
+1062,BTC-20260319-0193,Kadar abu,1.91,%,Tanur 550 C,2026-03-20,Sekar,Memenuhi
+1063,BTC-20260319-0193,Bilangan peroksida,1.8,meq O2/kg,Titrasi iodometri,2026-03-20,Bagas,Memenuhi
+1064,BTC-20260319-0193,Angka lempeng total,3.33,log CFU/g,Cawan tuang,2026-03-21,Yoga,Memenuhi
+1065,BTC-20260319-0193,Kapang khamir,1.85,log CFU/g,Cawan sebar,2026-03-19,Yoga,Memenuhi
+1066,BTC-20260319-0193,Berat bersih,100.72,g,Timbang digital,2026-03-19,Rani,Memenuhi
+1067,BTC-20260319-0193,Skor hedonik,4.87,skala 1-7,Uji hedonik 15 panelis,2026-03-21,Yoga,Memenuhi
+1068,BTC-20260320-0194,Kadar air,84.86,%,Oven 105 C,2026-03-22,Intan,Memenuhi
+1069,BTC-20260320-0194,Kadar abu,1.82,%,Tanur 550 C,2026-03-21,Bagas,Memenuhi
+1070,BTC-20260320-0194,Bilangan peroksida,2.13,meq O2/kg,Titrasi iodometri,2026-03-20,Yoga,Memenuhi
+1071,BTC-20260320-0194,Angka lempeng total,3.54,log CFU/g,Cawan tuang,2026-03-22,Sekar,Memenuhi
+1072,BTC-20260320-0194,Kapang khamir,1.57,log CFU/g,Cawan sebar,2026-03-22,Intan,Memenuhi
+1073,BTC-20260320-0195,Kadar air,86.43,%,Oven 105 C,2026-03-22,Intan,Memenuhi
+1074,BTC-20260320-0195,Kadar abu,1.92,%,Tanur 550 C,2026-03-20,Bagas,Memenuhi
+1075,BTC-20260320-0195,Bilangan peroksida,1.09,meq O2/kg,Titrasi iodometri,2026-03-22,Rani,Memenuhi
+1076,BTC-20260320-0195,Angka lempeng total,3.27,log CFU/g,Cawan tuang,2026-03-20,Intan,Memenuhi
+1077,BTC-20260320-0195,Kapang khamir,1.98,log CFU/g,Cawan sebar,2026-03-20,Intan,Memenuhi
+1078,BTC-20260320-0196,Kadar air,87.86,%,Oven 105 C,2026-03-20,Sekar,Memenuhi
+1079,BTC-20260320-0196,Kadar abu,1.66,%,Tanur 550 C,2026-03-22,Bagas,Memenuhi
+1080,BTC-20260320-0196,Bilangan peroksida,1.9,meq O2/kg,Titrasi iodometri,2026-03-21,Intan,Memenuhi
+1081,BTC-20260320-0196,Angka lempeng total,2.36,log CFU/g,Cawan tuang,2026-03-21,Sekar,Memenuhi
+1082,BTC-20260320-0196,Kapang khamir,1.92,log CFU/g,Cawan sebar,2026-03-20,Intan,Memenuhi
+1083,BTC-20260320-0197,Kadar air,2.26,%,Oven 105 C,2026-03-20,Intan,Memenuhi
+1084,BTC-20260320-0197,Kadar abu,1.89,%,Tanur 550 C,2026-03-22,Rani,Memenuhi
+1085,BTC-20260320-0197,Bilangan peroksida,2.47,meq O2/kg,Titrasi iodometri,2026-03-21,Sekar,Memenuhi
+1086,BTC-20260320-0197,Angka lempeng total,3.29,log CFU/g,Cawan tuang,2026-03-21,Bagas,Memenuhi
+1087,BTC-20260320-0197,Kapang khamir,2.15,log CFU/g,Cawan sebar,2026-03-20,Rani,Memenuhi
+1088,BTC-20260321-0198,Kadar air,3.03,%,Oven 105 C,2026-03-21,Rani,Tidak memenuhi
+1089,BTC-20260321-0198,Kadar abu,1.78,%,Tanur 550 C,2026-03-23,Bagas,Memenuhi
+1090,BTC-20260321-0198,Bilangan peroksida,1.83,meq O2/kg,Titrasi iodometri,2026-03-23,Intan,Memenuhi
+1091,BTC-20260321-0198,Angka lempeng total,3.31,log CFU/g,Cawan tuang,2026-03-21,Bagas,Memenuhi
+1092,BTC-20260321-0198,Kapang khamir,2.38,log CFU/g,Cawan sebar,2026-03-23,Intan,Memenuhi
+1093,BTC-20260321-0199,Kadar air,2.1,%,Oven 105 C,2026-03-22,Yoga,Memenuhi
+1094,BTC-20260321-0199,Kadar abu,1.89,%,Tanur 550 C,2026-03-21,Rani,Memenuhi
+1095,BTC-20260321-0199,Bilangan peroksida,2.32,meq O2/kg,Titrasi iodometri,2026-03-22,Yoga,Memenuhi
+1096,BTC-20260321-0199,Angka lempeng total,2.51,log CFU/g,Cawan tuang,2026-03-23,Yoga,Memenuhi
+1097,BTC-20260321-0199,Kapang khamir,1.64,log CFU/g,Cawan sebar,2026-03-23,Sekar,Memenuhi
+1098,BTC-20260321-0200,Kadar air,11.66,%,Oven 105 C,2026-03-21,Intan,Memenuhi
+1099,BTC-20260321-0200,Kadar abu,2.05,%,Tanur 550 C,2026-03-22,Bagas,Memenuhi
+1100,BTC-20260321-0200,Bilangan peroksida,0.78,meq O2/kg,Titrasi iodometri,2026-03-21,Rani,Memenuhi
+1101,BTC-20260321-0200,Angka lempeng total,3.85,log CFU/g,Cawan tuang,2026-03-22,Sekar,Memenuhi
+1102,BTC-20260321-0200,Kapang khamir,2.05,log CFU/g,Cawan sebar,2026-03-21,Rani,Memenuhi
+1103,BTC-20260323-0201,Kadar air,86.38,%,Oven 105 C,2026-03-25,Intan,Memenuhi
+1104,BTC-20260323-0201,Kadar abu,1.77,%,Tanur 550 C,2026-03-24,Sekar,Memenuhi
+1105,BTC-20260323-0201,Bilangan peroksida,0.98,meq O2/kg,Titrasi iodometri,2026-03-24,Rani,Memenuhi
+1106,BTC-20260323-0201,Angka lempeng total,3.29,log CFU/g,Cawan tuang,2026-03-25,Rani,Memenuhi
+1107,BTC-20260323-0201,Kapang khamir,2.13,log CFU/g,Cawan sebar,2026-03-25,Rani,Memenuhi
+1108,BTC-20260323-0202,Kadar air,2.05,%,Oven 105 C,2026-03-25,Bagas,Memenuhi
+1109,BTC-20260323-0202,Kadar abu,1.87,%,Tanur 550 C,2026-03-25,Intan,Memenuhi
+1110,BTC-20260323-0202,Bilangan peroksida,2.19,meq O2/kg,Titrasi iodometri,2026-03-25,Intan,Memenuhi
+1111,BTC-20260323-0202,Angka lempeng total,2.74,log CFU/g,Cawan tuang,2026-03-25,Sekar,Memenuhi
+1112,BTC-20260323-0202,Kapang khamir,1.59,log CFU/g,Cawan sebar,2026-03-23,Intan,Memenuhi
+1113,BTC-20260323-0203,Kadar air,9.22,%,Oven 105 C,2026-03-23,Bagas,Memenuhi
+1114,BTC-20260323-0203,Kadar abu,1.99,%,Tanur 550 C,2026-03-25,Yoga,Memenuhi
+1115,BTC-20260323-0203,Bilangan peroksida,1.9,meq O2/kg,Titrasi iodometri,2026-03-24,Rani,Memenuhi
+1116,BTC-20260323-0203,Angka lempeng total,3.65,log CFU/g,Cawan tuang,2026-03-25,Sekar,Memenuhi
+1117,BTC-20260323-0203,Kapang khamir,1.48,log CFU/g,Cawan sebar,2026-03-24,Yoga,Memenuhi
+1118,BTC-20260324-0204,Kadar air,2.67,%,Oven 105 C,2026-03-24,Rani,Memenuhi
+1119,BTC-20260324-0204,Kadar abu,2.03,%,Tanur 550 C,2026-03-24,Bagas,Memenuhi
+1120,BTC-20260324-0204,Bilangan peroksida,1.78,meq O2/kg,Titrasi iodometri,2026-03-26,Intan,Memenuhi
+1121,BTC-20260324-0204,Angka lempeng total,2.34,log CFU/g,Cawan tuang,2026-03-26,Yoga,Memenuhi
+1122,BTC-20260324-0204,Kapang khamir,1.49,log CFU/g,Cawan sebar,2026-03-25,Sekar,Memenuhi
+1123,BTC-20260324-0204,Berat bersih,100.6,g,Timbang digital,2026-03-24,Intan,Memenuhi
+1124,BTC-20260324-0204,Skor hedonik,5.75,skala 1-7,Uji hedonik 15 panelis,2026-03-25,Intan,Memenuhi
+1125,BTC-20260324-0205,Kadar air,2.59,%,Oven 105 C,2026-03-24,Intan,Memenuhi
+1126,BTC-20260324-0205,Kadar abu,1.7,%,Tanur 550 C,2026-03-24,Rani,Memenuhi
+1127,BTC-20260324-0205,Bilangan peroksida,2.12,meq O2/kg,Titrasi iodometri,2026-03-26,Rani,Memenuhi
+1128,BTC-20260324-0205,Angka lempeng total,3.08,log CFU/g,Cawan tuang,2026-03-24,Yoga,Memenuhi
+1129,BTC-20260324-0205,Kapang khamir,2.0,log CFU/g,Cawan sebar,2026-03-25,Sekar,Memenuhi
+1130,BTC-20260324-0205,Berat bersih,101.1,g,Timbang digital,2026-03-26,Intan,Memenuhi
+1131,BTC-20260324-0205,Skor hedonik,6.12,skala 1-7,Uji hedonik 15 panelis,2026-03-25,Yoga,Memenuhi
+1132,BTC-20260324-0206,Kadar air,2.55,%,Oven 105 C,2026-03-24,Yoga,Memenuhi
+1133,BTC-20260324-0206,Kadar abu,2.16,%,Tanur 550 C,2026-03-26,Rani,Memenuhi
+1134,BTC-20260324-0206,Bilangan peroksida,1.9,meq O2/kg,Titrasi iodometri,2026-03-24,Bagas,Memenuhi
+1135,BTC-20260324-0206,Angka lempeng total,4.01,log CFU/g,Cawan tuang,2026-03-24,Yoga,Memenuhi
+1136,BTC-20260324-0206,Kapang khamir,2.57,log CFU/g,Cawan sebar,2026-03-26,Bagas,Memenuhi
+1137,BTC-20260324-0207,Kadar air,2.77,%,Oven 105 C,2026-03-24,Sekar,Memenuhi
+1138,BTC-20260324-0207,Kadar abu,1.75,%,Tanur 550 C,2026-03-24,Sekar,Memenuhi
+1139,BTC-20260324-0207,Bilangan peroksida,2.18,meq O2/kg,Titrasi iodometri,2026-03-26,Sekar,Memenuhi
+1140,BTC-20260324-0207,Angka lempeng total,3.26,log CFU/g,Cawan tuang,2026-03-24,Intan,Memenuhi
+1141,BTC-20260324-0207,Kapang khamir,2.0,log CFU/g,Cawan sebar,2026-03-24,Yoga,Memenuhi
+1142,BTC-20260324-0207,Berat bersih,101.82,g,Timbang digital,2026-03-26,Yoga,Memenuhi
+1143,BTC-20260324-0207,Skor hedonik,5.79,skala 1-7,Uji hedonik 15 panelis,2026-03-25,Intan,Memenuhi
+1144,BTC-20260325-0208,Kadar air,84.04,%,Oven 105 C,2026-03-26,Intan,Memenuhi
+1145,BTC-20260325-0208,Kadar abu,2.16,%,Tanur 550 C,2026-03-25,Yoga,Memenuhi
+1146,BTC-20260325-0208,Bilangan peroksida,1.85,meq O2/kg,Titrasi iodometri,2026-03-27,Intan,Memenuhi
+1147,BTC-20260325-0208,Angka lempeng total,3.06,log CFU/g,Cawan tuang,2026-03-25,Bagas,Memenuhi
+1148,BTC-20260325-0208,Kapang khamir,1.62,log CFU/g,Cawan sebar,2026-03-27,Intan,Memenuhi
+1149,BTC-20260325-0209,Kadar air,10.99,%,Oven 105 C,2026-03-26,Bagas,Memenuhi
+1150,BTC-20260325-0209,Kadar abu,2.09,%,Tanur 550 C,2026-03-27,Sekar,Memenuhi
+1151,BTC-20260325-0209,Bilangan peroksida,1.06,meq O2/kg,Titrasi iodometri,2026-03-25,Yoga,Memenuhi
+1152,BTC-20260325-0209,Angka lempeng total,3.09,log CFU/g,Cawan tuang,2026-03-27,Intan,Memenuhi
+1153,BTC-20260325-0209,Kapang khamir,1.35,log CFU/g,Cawan sebar,2026-03-27,Sekar,Memenuhi
+1154,BTC-20260325-0210,Kadar air,86.97,%,Oven 105 C,2026-03-25,Bagas,Memenuhi
+1155,BTC-20260325-0210,Kadar abu,2.09,%,Tanur 550 C,2026-03-26,Yoga,Memenuhi
+1156,BTC-20260325-0210,Bilangan peroksida,2.16,meq O2/kg,Titrasi iodometri,2026-03-26,Bagas,Memenuhi
+1157,BTC-20260325-0210,Angka lempeng total,3.08,log CFU/g,Cawan tuang,2026-03-25,Intan,Memenuhi
+1158,BTC-20260325-0210,Kapang khamir,1.5,log CFU/g,Cawan sebar,2026-03-27,Yoga,Memenuhi
+1159,BTC-20260326-0211,Kadar air,11.68,%,Oven 105 C,2026-03-28,Rani,Memenuhi
+1160,BTC-20260326-0211,Kadar abu,1.69,%,Tanur 550 C,2026-03-27,Sekar,Memenuhi
+1161,BTC-20260326-0211,Bilangan peroksida,1.21,meq O2/kg,Titrasi iodometri,2026-03-28,Rani,Memenuhi
+1162,BTC-20260326-0211,Angka lempeng total,2.61,log CFU/g,Cawan tuang,2026-03-26,Intan,Memenuhi
+1163,BTC-20260326-0211,Kapang khamir,2.34,log CFU/g,Cawan sebar,2026-03-27,Bagas,Memenuhi
+1164,BTC-20260326-0211,Berat bersih,100.31,g,Timbang digital,2026-03-26,Rani,Memenuhi
+1165,BTC-20260326-0211,Skor hedonik,5.8,skala 1-7,Uji hedonik 15 panelis,2026-03-28,Intan,Memenuhi
+1166,BTC-20260326-0212,Kadar air,10.87,%,Oven 105 C,2026-03-28,Rani,Memenuhi
+1167,BTC-20260326-0212,Kadar abu,1.98,%,Tanur 550 C,2026-03-26,Yoga,Memenuhi
+1168,BTC-20260326-0212,Bilangan peroksida,1.21,meq O2/kg,Titrasi iodometri,2026-03-27,Sekar,Memenuhi
+1169,BTC-20260326-0212,Angka lempeng total,3.75,log CFU/g,Cawan tuang,2026-03-28,Rani,Memenuhi
+1170,BTC-20260326-0212,Kapang khamir,2.17,log CFU/g,Cawan sebar,2026-03-26,Yoga,Memenuhi
+1171,BTC-20260326-0213,Kadar air,1.94,%,Oven 105 C,2026-03-27,Rani,Memenuhi
+1172,BTC-20260326-0213,Kadar abu,2.15,%,Tanur 550 C,2026-03-27,Rani,Memenuhi
+1173,BTC-20260326-0213,Bilangan peroksida,1.24,meq O2/kg,Titrasi iodometri,2026-03-28,Sekar,Memenuhi
+1174,BTC-20260326-0213,Angka lempeng total,3.08,log CFU/g,Cawan tuang,2026-03-28,Rani,Memenuhi
+1175,BTC-20260326-0213,Kapang khamir,1.59,log CFU/g,Cawan sebar,2026-03-26,Sekar,Memenuhi
+1176,BTC-20260326-0213,Berat bersih,101.31,g,Timbang digital,2026-03-28,Yoga,Memenuhi
+1177,BTC-20260326-0213,Skor hedonik,5.67,skala 1-7,Uji hedonik 15 panelis,2026-03-26,Sekar,Memenuhi
+1178,BTC-20260327-0214,Kadar air,2.25,%,Oven 105 C,2026-03-27,Yoga,Memenuhi
+1179,BTC-20260327-0214,Kadar abu,1.8,%,Tanur 550 C,2026-03-28,Yoga,Memenuhi
+1180,BTC-20260327-0214,Bilangan peroksida,1.91,meq O2/kg,Titrasi iodometri,2026-03-28,Sekar,Memenuhi
+1181,BTC-20260327-0214,Angka lempeng total,3.45,log CFU/g,Cawan tuang,2026-03-27,Sekar,Memenuhi
+1182,BTC-20260327-0214,Kapang khamir,1.82,log CFU/g,Cawan sebar,2026-03-29,Bagas,Memenuhi
+1183,BTC-20260327-0214,Berat bersih,100.57,g,Timbang digital,2026-03-27,Rani,Memenuhi
+1184,BTC-20260327-0214,Skor hedonik,5.42,skala 1-7,Uji hedonik 15 panelis,2026-03-29,Bagas,Memenuhi
+1185,BTC-20260327-0215,Kadar air,2.78,%,Oven 105 C,2026-03-27,Intan,Memenuhi
+1186,BTC-20260327-0215,Kadar abu,1.85,%,Tanur 550 C,2026-03-29,Yoga,Memenuhi
+1187,BTC-20260327-0215,Bilangan peroksida,0.02,meq O2/kg,Titrasi iodometri,2026-03-28,Rani,Memenuhi
+1188,BTC-20260327-0215,Angka lempeng total,3.34,log CFU/g,Cawan tuang,2026-03-27,Bagas,Memenuhi
+1189,BTC-20260327-0215,Kapang khamir,1.65,log CFU/g,Cawan sebar,2026-03-28,Bagas,Memenuhi
+1190,BTC-20260327-0216,Kadar air,2.36,%,Oven 105 C,2026-03-29,Intan,Memenuhi
+1191,BTC-20260327-0216,Kadar abu,1.91,%,Tanur 550 C,2026-03-29,Yoga,Memenuhi
+1192,BTC-20260327-0216,Bilangan peroksida,0.94,meq O2/kg,Titrasi iodometri,2026-03-28,Sekar,Memenuhi
+1193,BTC-20260327-0216,Angka lempeng total,3.93,log CFU/g,Cawan tuang,2026-03-28,Yoga,Memenuhi
+1194,BTC-20260327-0216,Kapang khamir,2.29,log CFU/g,Cawan sebar,2026-03-27,Bagas,Memenuhi
+1195,BTC-20260327-0216,Berat bersih,102.17,g,Timbang digital,2026-03-28,Sekar,Memenuhi
+1196,BTC-20260327-0216,Skor hedonik,6.42,skala 1-7,Uji hedonik 15 panelis,2026-03-27,Bagas,Memenuhi
+1197,BTC-20260328-0217,Kadar air,2.75,%,Oven 105 C,2026-03-30,Intan,Memenuhi
+1198,BTC-20260328-0217,Kadar abu,1.86,%,Tanur 550 C,2026-03-28,Rani,Memenuhi
+1199,BTC-20260328-0217,Bilangan peroksida,1.87,meq O2/kg,Titrasi iodometri,2026-03-30,Yoga,Memenuhi
+1200,BTC-20260328-0217,Angka lempeng total,2.18,log CFU/g,Cawan tuang,2026-03-30,Sekar,Memenuhi
+1201,BTC-20260328-0217,Kapang khamir,1.23,log CFU/g,Cawan sebar,2026-03-30,Rani,Memenuhi
+1202,BTC-20260328-0218,Kadar air,10.41,%,Oven 105 C,2026-03-30,Bagas,Memenuhi
+1203,BTC-20260328-0218,Kadar abu,2.1,%,Tanur 550 C,2026-03-30,Intan,Memenuhi
+1204,BTC-20260328-0218,Bilangan peroksida,2.14,meq O2/kg,Titrasi iodometri,2026-03-30,Sekar,Memenuhi
+1205,BTC-20260328-0218,Angka lempeng total,2.75,log CFU/g,Cawan tuang,2026-03-29,Rani,Memenuhi
+1206,BTC-20260328-0218,Kapang khamir,2.29,log CFU/g,Cawan sebar,2026-03-29,Sekar,Memenuhi
+1207,BTC-20260328-0218,Berat bersih,100.08,g,Timbang digital,2026-03-29,Intan,Memenuhi
+1208,BTC-20260328-0218,Skor hedonik,5.38,skala 1-7,Uji hedonik 15 panelis,2026-03-28,Yoga,Memenuhi
+1209,BTC-20260328-0219,Kadar air,2.47,%,Oven 105 C,2026-03-28,Intan,Memenuhi
+1210,BTC-20260328-0219,Kadar abu,2.21,%,Tanur 550 C,2026-03-29,Intan,Memenuhi
+1211,BTC-20260328-0219,Bilangan peroksida,1.71,meq O2/kg,Titrasi iodometri,2026-03-29,Sekar,Memenuhi
+1212,BTC-20260328-0219,Angka lempeng total,2.78,log CFU/g,Cawan tuang,2026-03-29,Sekar,Memenuhi
+1213,BTC-20260328-0219,Kapang khamir,2.66,log CFU/g,Cawan sebar,2026-03-29,Rani,Memenuhi
+1214,BTC-20260330-0220,Kadar air,10.75,%,Oven 105 C,2026-03-31,Rani,Memenuhi
+1215,BTC-20260330-0220,Kadar abu,2.01,%,Tanur 550 C,2026-04-01,Yoga,Memenuhi
+1216,BTC-20260330-0220,Bilangan peroksida,1.55,meq O2/kg,Titrasi iodometri,2026-03-30,Sekar,Memenuhi
+1217,BTC-20260330-0220,Angka lempeng total,2.75,log CFU/g,Cawan tuang,2026-04-01,Sekar,Memenuhi
+1218,BTC-20260330-0220,Kapang khamir,2.01,log CFU/g,Cawan sebar,2026-03-30,Sekar,Memenuhi
+1219,BTC-20260330-0221,Kadar air,2.29,%,Oven 105 C,2026-04-01,Bagas,Memenuhi
+1220,BTC-20260330-0221,Kadar abu,1.47,%,Tanur 550 C,2026-04-01,Intan,Memenuhi
+1221,BTC-20260330-0221,Bilangan peroksida,1.68,meq O2/kg,Titrasi iodometri,2026-03-30,Yoga,Memenuhi
+1222,BTC-20260330-0221,Angka lempeng total,2.86,log CFU/g,Cawan tuang,2026-03-31,Rani,Memenuhi
+1223,BTC-20260330-0221,Kapang khamir,2.05,log CFU/g,Cawan sebar,2026-04-01,Intan,Memenuhi
+1224,BTC-20260331-0222,Kadar air,2.12,%,Oven 105 C,2026-03-31,Bagas,Memenuhi
+1225,BTC-20260331-0222,Kadar abu,1.98,%,Tanur 550 C,2026-04-02,Bagas,Memenuhi
+1226,BTC-20260331-0222,Bilangan peroksida,2.48,meq O2/kg,Titrasi iodometri,2026-04-01,Sekar,Memenuhi
+1227,BTC-20260331-0222,Angka lempeng total,2.74,log CFU/g,Cawan tuang,2026-03-31,Rani,Memenuhi
+1228,BTC-20260331-0222,Kapang khamir,2.26,log CFU/g,Cawan sebar,2026-04-02,Intan,Memenuhi
+1229,BTC-20260331-0223,Kadar air,84.8,%,Oven 105 C,2026-03-31,Sekar,Memenuhi
+1230,BTC-20260331-0223,Kadar abu,1.92,%,Tanur 550 C,2026-03-31,Sekar,Memenuhi
+1231,BTC-20260331-0223,Bilangan peroksida,1.82,meq O2/kg,Titrasi iodometri,2026-04-02,Rani,Memenuhi
+1232,BTC-20260331-0223,Angka lempeng total,2.47,log CFU/g,Cawan tuang,2026-03-31,Yoga,Memenuhi
+1233,BTC-20260331-0223,Kapang khamir,1.4,log CFU/g,Cawan sebar,2026-04-02,Intan,Memenuhi
+1234,BTC-20260401-0224,Kadar air,2.19,%,Oven 105 C,2026-04-01,Yoga,Memenuhi
+1235,BTC-20260401-0224,Kadar abu,1.79,%,Tanur 550 C,2026-04-01,Sekar,Memenuhi
+1236,BTC-20260401-0224,Bilangan peroksida,2.25,meq O2/kg,Titrasi iodometri,2026-04-01,Yoga,Memenuhi
+1237,BTC-20260401-0224,Angka lempeng total,3.05,log CFU/g,Cawan tuang,2026-04-02,Yoga,Memenuhi
+1238,BTC-20260401-0224,Kapang khamir,2.33,log CFU/g,Cawan sebar,2026-04-02,Yoga,Memenuhi
+1239,BTC-20260401-0225,Kadar air,2.27,%,Oven 105 C,2026-04-01,Bagas,Memenuhi
+1240,BTC-20260401-0225,Kadar abu,1.85,%,Tanur 550 C,2026-04-01,Bagas,Memenuhi
+1241,BTC-20260401-0225,Bilangan peroksida,2.62,meq O2/kg,Titrasi iodometri,2026-04-02,Intan,Memenuhi
+1242,BTC-20260401-0225,Angka lempeng total,2.84,log CFU/g,Cawan tuang,2026-04-01,Intan,Memenuhi
+1243,BTC-20260401-0225,Kapang khamir,2.13,log CFU/g,Cawan sebar,2026-04-01,Yoga,Memenuhi
+1244,BTC-20260401-0226,Kadar air,2.23,%,Oven 105 C,2026-04-01,Bagas,Memenuhi
+1245,BTC-20260401-0226,Kadar abu,2.01,%,Tanur 550 C,2026-04-03,Bagas,Memenuhi
+1246,BTC-20260401-0226,Bilangan peroksida,1.13,meq O2/kg,Titrasi iodometri,2026-04-03,Sekar,Memenuhi
+1247,BTC-20260401-0226,Angka lempeng total,3.49,log CFU/g,Cawan tuang,2026-04-02,Sekar,Memenuhi
+1248,BTC-20260401-0226,Kapang khamir,2.11,log CFU/g,Cawan sebar,2026-04-01,Bagas,Memenuhi
+1249,BTC-20260402-0227,Kadar air,85.5,%,Oven 105 C,2026-04-02,Rani,Memenuhi
+1250,BTC-20260402-0227,Kadar abu,1.61,%,Tanur 550 C,2026-04-03,Bagas,Memenuhi
+1251,BTC-20260402-0227,Bilangan peroksida,1.67,meq O2/kg,Titrasi iodometri,2026-04-02,Rani,Memenuhi
+1252,BTC-20260402-0227,Angka lempeng total,3.24,log CFU/g,Cawan tuang,2026-04-04,Sekar,Memenuhi
+1253,BTC-20260402-0227,Kapang khamir,1.61,log CFU/g,Cawan sebar,2026-04-04,Yoga,Memenuhi
+1254,BTC-20260402-0227,Berat bersih,101.75,g,Timbang digital,2026-04-03,Rani,Memenuhi
+1255,BTC-20260402-0227,Skor hedonik,6.13,skala 1-7,Uji hedonik 15 panelis,2026-04-02,Intan,Memenuhi
+1256,BTC-20260402-0228,Kadar air,2.61,%,Oven 105 C,2026-04-02,Rani,Memenuhi
+1257,BTC-20260402-0228,Kadar abu,2.12,%,Tanur 550 C,2026-04-03,Yoga,Memenuhi
+1258,BTC-20260402-0228,Bilangan peroksida,0.94,meq O2/kg,Titrasi iodometri,2026-04-04,Sekar,Memenuhi
+1259,BTC-20260402-0228,Angka lempeng total,3.13,log CFU/g,Cawan tuang,2026-04-02,Bagas,Memenuhi
+1260,BTC-20260402-0228,Kapang khamir,2.05,log CFU/g,Cawan sebar,2026-04-04,Bagas,Memenuhi
+1261,BTC-20260402-0229,Kadar air,2.25,%,Oven 105 C,2026-04-04,Yoga,Memenuhi
+1262,BTC-20260402-0229,Kadar abu,2.06,%,Tanur 550 C,2026-04-04,Intan,Memenuhi
+1263,BTC-20260402-0229,Bilangan peroksida,1.34,meq O2/kg,Titrasi iodometri,2026-04-02,Yoga,Memenuhi
+1264,BTC-20260402-0229,Angka lempeng total,2.66,log CFU/g,Cawan tuang,2026-04-03,Sekar,Memenuhi
+1265,BTC-20260402-0229,Kapang khamir,2.0,log CFU/g,Cawan sebar,2026-04-02,Yoga,Memenuhi
+1266,BTC-20260403-0230,Kadar air,2.36,%,Oven 105 C,2026-04-04,Bagas,Memenuhi
+1267,BTC-20260403-0230,Kadar abu,1.85,%,Tanur 550 C,2026-04-03,Intan,Memenuhi
+1268,BTC-20260403-0230,Bilangan peroksida,1.16,meq O2/kg,Titrasi iodometri,2026-04-03,Yoga,Memenuhi
+1269,BTC-20260403-0230,Angka lempeng total,3.11,log CFU/g,Cawan tuang,2026-04-03,Yoga,Memenuhi
+1270,BTC-20260403-0230,Kapang khamir,1.87,log CFU/g,Cawan sebar,2026-04-03,Yoga,Memenuhi
+1271,BTC-20260403-0231,Kadar air,86.51,%,Oven 105 C,2026-04-04,Rani,Memenuhi
+1272,BTC-20260403-0231,Kadar abu,1.8,%,Tanur 550 C,2026-04-05,Yoga,Memenuhi
+1273,BTC-20260403-0231,Bilangan peroksida,1.73,meq O2/kg,Titrasi iodometri,2026-04-05,Yoga,Memenuhi
+1274,BTC-20260403-0231,Angka lempeng total,3.07,log CFU/g,Cawan tuang,2026-04-03,Intan,Memenuhi
+1275,BTC-20260403-0231,Kapang khamir,1.57,log CFU/g,Cawan sebar,2026-04-04,Intan,Memenuhi
+1276,BTC-20260404-0232,Kadar air,87.16,%,Oven 105 C,2026-04-04,Bagas,Memenuhi
+1277,BTC-20260404-0232,Kadar abu,2.11,%,Tanur 550 C,2026-04-04,Yoga,Memenuhi
+1278,BTC-20260404-0232,Bilangan peroksida,1.55,meq O2/kg,Titrasi iodometri,2026-04-04,Sekar,Memenuhi
+1279,BTC-20260404-0232,Angka lempeng total,3.13,log CFU/g,Cawan tuang,2026-04-06,Intan,Memenuhi
+1280,BTC-20260404-0232,Kapang khamir,1.47,log CFU/g,Cawan sebar,2026-04-05,Sekar,Memenuhi
+1281,BTC-20260404-0233,Kadar air,2.09,%,Oven 105 C,2026-04-06,Yoga,Memenuhi
+1282,BTC-20260404-0233,Kadar abu,1.95,%,Tanur 550 C,2026-04-06,Rani,Memenuhi
+1283,BTC-20260404-0233,Bilangan peroksida,0.95,meq O2/kg,Titrasi iodometri,2026-04-05,Yoga,Memenuhi
+1284,BTC-20260404-0233,Angka lempeng total,2.89,log CFU/g,Cawan tuang,2026-04-04,Yoga,Memenuhi
+1285,BTC-20260404-0233,Kapang khamir,2.39,log CFU/g,Cawan sebar,2026-04-04,Rani,Memenuhi
+1286,BTC-20260404-0234,Kadar air,2.54,%,Oven 105 C,2026-04-06,Sekar,Memenuhi
+1287,BTC-20260404-0234,Kadar abu,2.1,%,Tanur 550 C,2026-04-06,Yoga,Memenuhi
+1288,BTC-20260404-0234,Bilangan peroksida,1.27,meq O2/kg,Titrasi iodometri,2026-04-06,Intan,Memenuhi
+1289,BTC-20260404-0234,Angka lempeng total,3.08,log CFU/g,Cawan tuang,2026-04-06,Sekar,Memenuhi
+1290,BTC-20260404-0234,Kapang khamir,1.26,log CFU/g,Cawan sebar,2026-04-06,Bagas,Memenuhi
+1291,BTC-20260406-0235,Kadar air,2.32,%,Oven 105 C,2026-04-08,Intan,Memenuhi
+1292,BTC-20260406-0235,Kadar abu,1.79,%,Tanur 550 C,2026-04-07,Yoga,Memenuhi
+1293,BTC-20260406-0235,Bilangan peroksida,1.95,meq O2/kg,Titrasi iodometri,2026-04-06,Sekar,Memenuhi
+1294,BTC-20260406-0235,Angka lempeng total,2.18,log CFU/g,Cawan tuang,2026-04-06,Intan,Memenuhi
+1295,BTC-20260406-0235,Kapang khamir,1.67,log CFU/g,Cawan sebar,2026-04-08,Sekar,Memenuhi
+1296,BTC-20260406-0235,Berat bersih,99.75,g,Timbang digital,2026-04-08,Intan,Memenuhi
+1297,BTC-20260406-0235,Skor hedonik,5.51,skala 1-7,Uji hedonik 15 panelis,2026-04-08,Yoga,Memenuhi
+1298,BTC-20260406-0236,Kadar air,9.96,%,Oven 105 C,2026-04-08,Sekar,Memenuhi
+1299,BTC-20260406-0236,Kadar abu,1.93,%,Tanur 550 C,2026-04-06,Rani,Memenuhi
+1300,BTC-20260406-0236,Bilangan peroksida,2.17,meq O2/kg,Titrasi iodometri,2026-04-06,Bagas,Memenuhi
+1301,BTC-20260406-0236,Angka lempeng total,3.22,log CFU/g,Cawan tuang,2026-04-08,Rani,Memenuhi
+1302,BTC-20260406-0236,Kapang khamir,1.89,log CFU/g,Cawan sebar,2026-04-07,Intan,Memenuhi
+1303,BTC-20260406-0236,Berat bersih,99.65,g,Timbang digital,2026-04-06,Intan,Memenuhi
+1304,BTC-20260406-0236,Skor hedonik,6.31,skala 1-7,Uji hedonik 15 panelis,2026-04-08,Intan,Memenuhi
+1305,BTC-20260406-0237,Kadar air,1.77,%,Oven 105 C,2026-04-06,Sekar,Memenuhi
+1306,BTC-20260406-0237,Kadar abu,2.0,%,Tanur 550 C,2026-04-06,Intan,Memenuhi
+1307,BTC-20260406-0237,Bilangan peroksida,2.04,meq O2/kg,Titrasi iodometri,2026-04-08,Bagas,Memenuhi
+1308,BTC-20260406-0237,Angka lempeng total,3.9,log CFU/g,Cawan tuang,2026-04-07,Yoga,Memenuhi
+1309,BTC-20260406-0237,Kapang khamir,1.66,log CFU/g,Cawan sebar,2026-04-08,Yoga,Memenuhi
+1310,BTC-20260406-0238,Kadar air,2.17,%,Oven 105 C,2026-04-08,Bagas,Memenuhi
+1311,BTC-20260406-0238,Kadar abu,1.98,%,Tanur 550 C,2026-04-07,Bagas,Memenuhi
+1312,BTC-20260406-0238,Bilangan peroksida,1.81,meq O2/kg,Titrasi iodometri,2026-04-07,Bagas,Memenuhi
+1313,BTC-20260406-0238,Angka lempeng total,2.57,log CFU/g,Cawan tuang,2026-04-07,Yoga,Memenuhi
+1314,BTC-20260406-0238,Kapang khamir,2.11,log CFU/g,Cawan sebar,2026-04-08,Bagas,Memenuhi
+1315,BTC-20260407-0239,Kadar air,2.38,%,Oven 105 C,2026-04-08,Yoga,Memenuhi
+1316,BTC-20260407-0239,Kadar abu,2.14,%,Tanur 550 C,2026-04-08,Sekar,Memenuhi
+1317,BTC-20260407-0239,Bilangan peroksida,-0.03,meq O2/kg,Titrasi iodometri,2026-04-08,Rani,Memenuhi
+1318,BTC-20260407-0239,Angka lempeng total,3.04,log CFU/g,Cawan tuang,2026-04-09,Intan,Memenuhi
+1319,BTC-20260407-0239,Kapang khamir,2.23,log CFU/g,Cawan sebar,2026-04-09,Yoga,Memenuhi
+1320,BTC-20260407-0239,Berat bersih,101.69,g,Timbang digital,2026-04-08,Rani,Memenuhi
+1321,BTC-20260407-0239,Skor hedonik,4.86,skala 1-7,Uji hedonik 15 panelis,2026-04-08,Intan,Memenuhi
+1322,BTC-20260407-0240,Kadar air,11.06,%,Oven 105 C,2026-04-08,Rani,Memenuhi
+1323,BTC-20260407-0240,Kadar abu,2.11,%,Tanur 550 C,2026-04-08,Bagas,Memenuhi
+1324,BTC-20260407-0240,Bilangan peroksida,2.12,meq O2/kg,Titrasi iodometri,2026-04-09,Sekar,Memenuhi
+1325,BTC-20260407-0240,Angka lempeng total,3.04,log CFU/g,Cawan tuang,2026-04-07,Yoga,Memenuhi
+1326,BTC-20260407-0240,Kapang khamir,1.43,log CFU/g,Cawan sebar,2026-04-08,Sekar,Memenuhi
+1327,BTC-20260408-0241,Kadar air,2.36,%,Oven 105 C,2026-04-10,Bagas,Memenuhi
+1328,BTC-20260408-0241,Kadar abu,2.32,%,Tanur 550 C,2026-04-08,Sekar,Memenuhi
+1329,BTC-20260408-0241,Bilangan peroksida,1.84,meq O2/kg,Titrasi iodometri,2026-04-09,Rani,Memenuhi
+1330,BTC-20260408-0241,Angka lempeng total,2.47,log CFU/g,Cawan tuang,2026-04-09,Yoga,Memenuhi
+1331,BTC-20260408-0241,Kapang khamir,1.31,log CFU/g,Cawan sebar,2026-04-10,Intan,Memenuhi
+1332,BTC-20260408-0241,Berat bersih,99.15,g,Timbang digital,2026-04-09,Bagas,Memenuhi
+1333,BTC-20260408-0241,Skor hedonik,6.67,skala 1-7,Uji hedonik 15 panelis,2026-04-10,Intan,Memenuhi
+1334,BTC-20260408-0242,Kadar air,2.08,%,Oven 105 C,2026-04-09,Bagas,Memenuhi
+1335,BTC-20260408-0242,Kadar abu,1.65,%,Tanur 550 C,2026-04-10,Sekar,Memenuhi
+1336,BTC-20260408-0242,Bilangan peroksida,1.34,meq O2/kg,Titrasi iodometri,2026-04-08,Intan,Memenuhi
+1337,BTC-20260408-0242,Angka lempeng total,3.22,log CFU/g,Cawan tuang,2026-04-09,Yoga,Memenuhi
+1338,BTC-20260408-0242,Kapang khamir,1.92,log CFU/g,Cawan sebar,2026-04-08,Sekar,Memenuhi
+1339,BTC-20260408-0243,Kadar air,2.52,%,Oven 105 C,2026-04-10,Bagas,Memenuhi
+1340,BTC-20260408-0243,Kadar abu,2.17,%,Tanur 550 C,2026-04-08,Yoga,Memenuhi
+1341,BTC-20260408-0243,Bilangan peroksida,0.74,meq O2/kg,Titrasi iodometri,2026-04-10,Intan,Memenuhi
+1342,BTC-20260408-0243,Angka lempeng total,3.45,log CFU/g,Cawan tuang,2026-04-08,Sekar,Memenuhi
+1343,BTC-20260408-0243,Kapang khamir,1.48,log CFU/g,Cawan sebar,2026-04-08,Yoga,Memenuhi
+1344,BTC-20260408-0243,Berat bersih,100.63,g,Timbang digital,2026-04-08,Sekar,Memenuhi
+1345,BTC-20260408-0243,Skor hedonik,5.02,skala 1-7,Uji hedonik 15 panelis,2026-04-09,Rani,Memenuhi
+1346,BTC-20260409-0244,Kadar air,2.25,%,Oven 105 C,2026-04-10,Yoga,Memenuhi
+1347,BTC-20260409-0244,Kadar abu,1.91,%,Tanur 550 C,2026-04-09,Rani,Memenuhi
+1348,BTC-20260409-0244,Bilangan peroksida,1.37,meq O2/kg,Titrasi iodometri,2026-04-11,Intan,Memenuhi
+1349,BTC-20260409-0244,Angka lempeng total,3.21,log CFU/g,Cawan tuang,2026-04-11,Rani,Memenuhi
+1350,BTC-20260409-0244,Kapang khamir,1.52,log CFU/g,Cawan sebar,2026-04-11,Sekar,Memenuhi
+1351,BTC-20260409-0245,Kadar air,89.4,%,Oven 105 C,2026-04-09,Sekar,Memenuhi
+1352,BTC-20260409-0245,Kadar abu,1.99,%,Tanur 550 C,2026-04-11,Intan,Memenuhi
+1353,BTC-20260409-0245,Bilangan peroksida,1.64,meq O2/kg,Titrasi iodometri,2026-04-09,Sekar,Memenuhi
+1354,BTC-20260409-0245,Angka lempeng total,4.19,log CFU/g,Cawan tuang,2026-04-10,Yoga,Memenuhi
+1355,BTC-20260409-0245,Kapang khamir,2.08,log CFU/g,Cawan sebar,2026-04-11,Rani,Memenuhi
+1356,BTC-20260409-0246,Kadar air,2.51,%,Oven 105 C,2026-04-10,Yoga,Memenuhi
+1357,BTC-20260409-0246,Kadar abu,2.17,%,Tanur 550 C,2026-04-10,Sekar,Memenuhi
+1358,BTC-20260409-0246,Bilangan peroksida,1.34,meq O2/kg,Titrasi iodometri,2026-04-11,Rani,Memenuhi
+1359,BTC-20260409-0246,Angka lempeng total,2.96,log CFU/g,Cawan tuang,2026-04-10,Intan,Memenuhi
+1360,BTC-20260409-0246,Kapang khamir,1.85,log CFU/g,Cawan sebar,2026-04-11,Sekar,Memenuhi
+1361,BTC-20260409-0246,Berat bersih,99.81,g,Timbang digital,2026-04-09,Intan,Memenuhi
+1362,BTC-20260409-0246,Skor hedonik,5.5,skala 1-7,Uji hedonik 15 panelis,2026-04-10,Sekar,Memenuhi
+1363,BTC-20260409-0247,Kadar air,11.14,%,Oven 105 C,2026-04-11,Rani,Memenuhi
+1364,BTC-20260409-0247,Kadar abu,1.96,%,Tanur 550 C,2026-04-09,Bagas,Memenuhi
+1365,BTC-20260409-0247,Bilangan peroksida,2.1,meq O2/kg,Titrasi iodometri,2026-04-11,Sekar,Memenuhi
+1366,BTC-20260409-0247,Angka lempeng total,3.72,log CFU/g,Cawan tuang,2026-04-10,Intan,Memenuhi
+1367,BTC-20260409-0247,Kapang khamir,1.27,log CFU/g,Cawan sebar,2026-04-10,Yoga,Memenuhi
+1368,BTC-20260410-0248,Kadar air,11.36,%,Oven 105 C,2026-04-10,Rani,Memenuhi
+1369,BTC-20260410-0248,Kadar abu,1.81,%,Tanur 550 C,2026-04-11,Yoga,Memenuhi
+1370,BTC-20260410-0248,Bilangan peroksida,0.86,meq O2/kg,Titrasi iodometri,2026-04-11,Intan,Memenuhi
+1371,BTC-20260410-0248,Angka lempeng total,3.53,log CFU/g,Cawan tuang,2026-04-12,Intan,Memenuhi
+1372,BTC-20260410-0248,Kapang khamir,1.91,log CFU/g,Cawan sebar,2026-04-12,Rani,Memenuhi
+1373,BTC-20260410-0248,Berat bersih,99.85,g,Timbang digital,2026-04-12,Yoga,Memenuhi
+1374,BTC-20260410-0248,Skor hedonik,6.04,skala 1-7,Uji hedonik 15 panelis,2026-04-11,Yoga,Memenuhi
+1375,BTC-20260410-0249,Kadar air,3.24,%,Oven 105 C,2026-04-10,Intan,Tidak memenuhi
+1376,BTC-20260410-0249,Kadar abu,1.62,%,Tanur 550 C,2026-04-11,Intan,Memenuhi
+1377,BTC-20260410-0249,Bilangan peroksida,1.95,meq O2/kg,Titrasi iodometri,2026-04-10,Rani,Memenuhi
+1378,BTC-20260410-0249,Angka lempeng total,3.36,log CFU/g,Cawan tuang,2026-04-12,Sekar,Memenuhi
+1379,BTC-20260410-0249,Kapang khamir,1.41,log CFU/g,Cawan sebar,2026-04-12,Bagas,Memenuhi
+1380,BTC-20260410-0250,Kadar air,2.74,%,Oven 105 C,2026-04-12,Rani,Memenuhi
+1381,BTC-20260410-0250,Kadar abu,1.8,%,Tanur 550 C,2026-04-12,Yoga,Memenuhi
+1382,BTC-20260410-0250,Bilangan peroksida,2.69,meq O2/kg,Titrasi iodometri,2026-04-11,Rani,Memenuhi
+1383,BTC-20260410-0250,Angka lempeng total,3.14,log CFU/g,Cawan tuang,2026-04-10,Rani,Memenuhi
+1384,BTC-20260410-0250,Kapang khamir,2.55,log CFU/g,Cawan sebar,2026-04-11,Bagas,Memenuhi
+1385,BTC-20260411-0251,Kadar air,11.39,%,Oven 105 C,2026-04-12,Sekar,Memenuhi
+1386,BTC-20260411-0251,Kadar abu,2.07,%,Tanur 550 C,2026-04-13,Yoga,Memenuhi
+1387,BTC-20260411-0251,Bilangan peroksida,2.3,meq O2/kg,Titrasi iodometri,2026-04-13,Intan,Memenuhi
+1388,BTC-20260411-0251,Angka lempeng total,3.07,log CFU/g,Cawan tuang,2026-04-13,Yoga,Memenuhi
+1389,BTC-20260411-0251,Kapang khamir,2.41,log CFU/g,Cawan sebar,2026-04-12,Intan,Memenuhi
+1390,BTC-20260411-0252,Kadar air,1.93,%,Oven 105 C,2026-04-13,Intan,Memenuhi
+1391,BTC-20260411-0252,Kadar abu,1.96,%,Tanur 550 C,2026-04-11,Yoga,Memenuhi
+1392,BTC-20260411-0252,Bilangan peroksida,1.52,meq O2/kg,Titrasi iodometri,2026-04-12,Rani,Memenuhi
+1393,BTC-20260411-0252,Angka lempeng total,4.21,log CFU/g,Cawan tuang,2026-04-13,Yoga,Memenuhi
+1394,BTC-20260411-0252,Kapang khamir,1.49,log CFU/g,Cawan sebar,2026-04-11,Yoga,Memenuhi
+1395,BTC-20260413-0253,Kadar air,11.14,%,Oven 105 C,2026-04-15,Rani,Memenuhi
+1396,BTC-20260413-0253,Kadar abu,1.84,%,Tanur 550 C,2026-04-15,Bagas,Memenuhi
+1397,BTC-20260413-0253,Bilangan peroksida,1.47,meq O2/kg,Titrasi iodometri,2026-04-14,Yoga,Memenuhi
+1398,BTC-20260413-0253,Angka lempeng total,2.23,log CFU/g,Cawan tuang,2026-04-13,Bagas,Memenuhi
+1399,BTC-20260413-0253,Kapang khamir,3.01,log CFU/g,Cawan sebar,2026-04-14,Bagas,Tidak memenuhi
+1400,BTC-20260413-0254,Kadar air,2.18,%,Oven 105 C,2026-04-14,Intan,Memenuhi
+1401,BTC-20260413-0254,Kadar abu,1.87,%,Tanur 550 C,2026-04-13,Yoga,Memenuhi
+1402,BTC-20260413-0254,Bilangan peroksida,1.81,meq O2/kg,Titrasi iodometri,2026-04-15,Rani,Memenuhi
+1403,BTC-20260413-0254,Angka lempeng total,3.39,log CFU/g,Cawan tuang,2026-04-13,Intan,Memenuhi
+1404,BTC-20260413-0254,Kapang khamir,1.58,log CFU/g,Cawan sebar,2026-04-13,Intan,Memenuhi
+1405,BTC-20260414-0255,Kadar air,10.08,%,Oven 105 C,2026-04-16,Rani,Memenuhi
+1406,BTC-20260414-0255,Kadar abu,2.57,%,Tanur 550 C,2026-04-14,Yoga,Tidak memenuhi
+1407,BTC-20260414-0255,Bilangan peroksida,1.89,meq O2/kg,Titrasi iodometri,2026-04-14,Sekar,Memenuhi
+1408,BTC-20260414-0255,Angka lempeng total,3.35,log CFU/g,Cawan tuang,2026-04-16,Sekar,Memenuhi
+1409,BTC-20260414-0255,Kapang khamir,1.55,log CFU/g,Cawan sebar,2026-04-16,Sekar,Memenuhi
+1410,BTC-20260414-0256,Kadar air,2.61,%,Oven 105 C,2026-04-16,Sekar,Memenuhi
+1411,BTC-20260414-0256,Kadar abu,1.65,%,Tanur 550 C,2026-04-15,Intan,Memenuhi
+1412,BTC-20260414-0256,Bilangan peroksida,0.76,meq O2/kg,Titrasi iodometri,2026-04-14,Bagas,Memenuhi
+1413,BTC-20260414-0256,Angka lempeng total,3.65,log CFU/g,Cawan tuang,2026-04-16,Sekar,Memenuhi
+1414,BTC-20260414-0256,Kapang khamir,1.68,log CFU/g,Cawan sebar,2026-04-15,Sekar,Memenuhi
+1415,BTC-20260414-0257,Kadar air,2.54,%,Oven 105 C,2026-04-14,Intan,Memenuhi
+1416,BTC-20260414-0257,Kadar abu,1.86,%,Tanur 550 C,2026-04-14,Sekar,Memenuhi
+1417,BTC-20260414-0257,Bilangan peroksida,1.45,meq O2/kg,Titrasi iodometri,2026-04-15,Intan,Memenuhi
+1418,BTC-20260414-0257,Angka lempeng total,3.26,log CFU/g,Cawan tuang,2026-04-15,Sekar,Memenuhi
+1419,BTC-20260414-0257,Kapang khamir,1.84,log CFU/g,Cawan sebar,2026-04-14,Bagas,Memenuhi
+1420,BTC-20260414-0258,Kadar air,2.34,%,Oven 105 C,2026-04-14,Sekar,Memenuhi
+1421,BTC-20260414-0258,Kadar abu,1.61,%,Tanur 550 C,2026-04-15,Sekar,Memenuhi
+1422,BTC-20260414-0258,Bilangan peroksida,0.99,meq O2/kg,Titrasi iodometri,2026-04-16,Bagas,Memenuhi
+1423,BTC-20260414-0258,Angka lempeng total,3.09,log CFU/g,Cawan tuang,2026-04-16,Sekar,Memenuhi
+1424,BTC-20260414-0258,Kapang khamir,1.73,log CFU/g,Cawan sebar,2026-04-16,Intan,Memenuhi
+1425,BTC-20260415-0259,Kadar air,87.22,%,Oven 105 C,2026-04-17,Intan,Memenuhi
+1426,BTC-20260415-0259,Kadar abu,1.35,%,Tanur 550 C,2026-04-15,Rani,Memenuhi
+1427,BTC-20260415-0259,Bilangan peroksida,1.83,meq O2/kg,Titrasi iodometri,2026-04-16,Yoga,Memenuhi
+1428,BTC-20260415-0259,Angka lempeng total,2.47,log CFU/g,Cawan tuang,2026-04-17,Rani,Memenuhi
+1429,BTC-20260415-0259,Kapang khamir,1.91,log CFU/g,Cawan sebar,2026-04-17,Intan,Memenuhi
+1430,BTC-20260415-0259,Berat bersih,101.14,g,Timbang digital,2026-04-15,Rani,Memenuhi
+1431,BTC-20260415-0259,Skor hedonik,5.11,skala 1-7,Uji hedonik 15 panelis,2026-04-15,Yoga,Memenuhi
+1432,BTC-20260415-0260,Kadar air,2.33,%,Oven 105 C,2026-04-17,Sekar,Memenuhi
+1433,BTC-20260415-0260,Kadar abu,1.99,%,Tanur 550 C,2026-04-15,Rani,Memenuhi
+1434,BTC-20260415-0260,Bilangan peroksida,1.73,meq O2/kg,Titrasi iodometri,2026-04-16,Bagas,Memenuhi
+1435,BTC-20260415-0260,Angka lempeng total,4.08,log CFU/g,Cawan tuang,2026-04-16,Rani,Memenuhi
+1436,BTC-20260415-0260,Kapang khamir,2.51,log CFU/g,Cawan sebar,2026-04-17,Rani,Memenuhi
+1437,BTC-20260416-0261,Kadar air,2.37,%,Oven 105 C,2026-04-17,Rani,Memenuhi
+1438,BTC-20260416-0261,Kadar abu,1.67,%,Tanur 550 C,2026-04-17,Yoga,Memenuhi
+1439,BTC-20260416-0261,Bilangan peroksida,1.77,meq O2/kg,Titrasi iodometri,2026-04-18,Intan,Memenuhi
+1440,BTC-20260416-0261,Angka lempeng total,2.83,log CFU/g,Cawan tuang,2026-04-16,Sekar,Memenuhi
+1441,BTC-20260416-0261,Kapang khamir,1.91,log CFU/g,Cawan sebar,2026-04-17,Rani,Memenuhi
+1442,BTC-20260416-0262,Kadar air,2.49,%,Oven 105 C,2026-04-17,Bagas,Memenuhi
+1443,BTC-20260416-0262,Kadar abu,1.89,%,Tanur 550 C,2026-04-16,Bagas,Memenuhi
+1444,BTC-20260416-0262,Bilangan peroksida,1.89,meq O2/kg,Titrasi iodometri,2026-04-17,Intan,Memenuhi
+1445,BTC-20260416-0262,Angka lempeng total,2.4,log CFU/g,Cawan tuang,2026-04-16,Intan,Memenuhi
+1446,BTC-20260416-0262,Kapang khamir,1.34,log CFU/g,Cawan sebar,2026-04-17,Yoga,Memenuhi
+1447,BTC-20260416-0263,Kadar air,2.07,%,Oven 105 C,2026-04-16,Intan,Memenuhi
+1448,BTC-20260416-0263,Kadar abu,1.92,%,Tanur 550 C,2026-04-18,Bagas,Memenuhi
+1449,BTC-20260416-0263,Bilangan peroksida,2.18,meq O2/kg,Titrasi iodometri,2026-04-16,Yoga,Memenuhi
+1450,BTC-20260416-0263,Angka lempeng total,2.85,log CFU/g,Cawan tuang,2026-04-18,Bagas,Memenuhi
+1451,BTC-20260416-0263,Kapang khamir,1.57,log CFU/g,Cawan sebar,2026-04-18,Rani,Memenuhi
+1452,BTC-20260417-0264,Kadar air,3.03,%,Oven 105 C,2026-04-19,Intan,Tidak memenuhi
+1453,BTC-20260417-0264,Kadar abu,2.16,%,Tanur 550 C,2026-04-17,Intan,Memenuhi
+1454,BTC-20260417-0264,Bilangan peroksida,2.24,meq O2/kg,Titrasi iodometri,2026-04-17,Sekar,Memenuhi
+1455,BTC-20260417-0264,Angka lempeng total,3.32,log CFU/g,Cawan tuang,2026-04-17,Bagas,Memenuhi
+1456,BTC-20260417-0264,Kapang khamir,2.26,log CFU/g,Cawan sebar,2026-04-17,Bagas,Memenuhi
+1457,BTC-20260417-0265,Kadar air,10.94,%,Oven 105 C,2026-04-17,Bagas,Memenuhi
+1458,BTC-20260417-0265,Kadar abu,1.87,%,Tanur 550 C,2026-04-19,Yoga,Memenuhi
+1459,BTC-20260417-0265,Bilangan peroksida,1.43,meq O2/kg,Titrasi iodometri,2026-04-17,Bagas,Memenuhi
+1460,BTC-20260417-0265,Angka lempeng total,3.61,log CFU/g,Cawan tuang,2026-04-17,Rani,Memenuhi
+1461,BTC-20260417-0265,Kapang khamir,2.52,log CFU/g,Cawan sebar,2026-04-17,Rani,Memenuhi
+1462,BTC-20260418-0266,Kadar air,87.87,%,Oven 105 C,2026-04-19,Rani,Memenuhi
+1463,BTC-20260418-0266,Kadar abu,1.85,%,Tanur 550 C,2026-04-20,Yoga,Memenuhi
+1464,BTC-20260418-0266,Bilangan peroksida,1.93,meq O2/kg,Titrasi iodometri,2026-04-20,Rani,Memenuhi
+1465,BTC-20260418-0266,Angka lempeng total,3.01,log CFU/g,Cawan tuang,2026-04-18,Rani,Memenuhi
+1466,BTC-20260418-0266,Kapang khamir,2.31,log CFU/g,Cawan sebar,2026-04-19,Bagas,Memenuhi
+1467,BTC-20260418-0267,Kadar air,10.48,%,Oven 105 C,2026-04-19,Rani,Memenuhi
+1468,BTC-20260418-0267,Kadar abu,2.0,%,Tanur 550 C,2026-04-20,Intan,Memenuhi
+1469,BTC-20260418-0267,Bilangan peroksida,1.4,meq O2/kg,Titrasi iodometri,2026-04-19,Rani,Memenuhi
+1470,BTC-20260418-0267,Angka lempeng total,4.05,log CFU/g,Cawan tuang,2026-04-18,Rani,Memenuhi
+1471,BTC-20260418-0267,Kapang khamir,2.71,log CFU/g,Cawan sebar,2026-04-19,Intan,Memenuhi
+1472,BTC-20260418-0268,Kadar air,85.02,%,Oven 105 C,2026-04-20,Rani,Memenuhi
+1473,BTC-20260418-0268,Kadar abu,1.72,%,Tanur 550 C,2026-04-20,Intan,Memenuhi
+1474,BTC-20260418-0268,Bilangan peroksida,2.62,meq O2/kg,Titrasi iodometri,2026-04-19,Yoga,Memenuhi
+1475,BTC-20260418-0268,Angka lempeng total,3.0,log CFU/g,Cawan tuang,2026-04-18,Sekar,Memenuhi
+1476,BTC-20260418-0268,Kapang khamir,1.58,log CFU/g,Cawan sebar,2026-04-18,Bagas,Memenuhi
+1477,BTC-20260418-0269,Kadar air,2.25,%,Oven 105 C,2026-04-18,Yoga,Memenuhi
+1478,BTC-20260418-0269,Kadar abu,1.43,%,Tanur 550 C,2026-04-19,Intan,Memenuhi
+1479,BTC-20260418-0269,Bilangan peroksida,1.13,meq O2/kg,Titrasi iodometri,2026-04-20,Yoga,Memenuhi
+1480,BTC-20260418-0269,Angka lempeng total,3.19,log CFU/g,Cawan tuang,2026-04-19,Rani,Memenuhi
+1481,BTC-20260418-0269,Kapang khamir,2.74,log CFU/g,Cawan sebar,2026-04-20,Rani,Memenuhi
+1482,BTC-20260418-0269,Berat bersih,99.63,g,Timbang digital,2026-04-19,Yoga,Memenuhi
+1483,BTC-20260418-0269,Skor hedonik,4.97,skala 1-7,Uji hedonik 15 panelis,2026-04-19,Intan,Memenuhi
+1484,BTC-20260420-0270,Kadar air,10.84,%,Oven 105 C,2026-04-20,Yoga,Memenuhi
+1485,BTC-20260420-0270,Kadar abu,1.79,%,Tanur 550 C,2026-04-20,Sekar,Memenuhi
+1486,BTC-20260420-0270,Bilangan peroksida,1.25,meq O2/kg,Titrasi iodometri,2026-04-21,Bagas,Memenuhi
+1487,BTC-20260420-0270,Angka lempeng total,2.96,log CFU/g,Cawan tuang,2026-04-22,Bagas,Memenuhi
+1488,BTC-20260420-0270,Kapang khamir,1.18,log CFU/g,Cawan sebar,2026-04-22,Sekar,Memenuhi
+1489,BTC-20260420-0271,Kadar air,2.03,%,Oven 105 C,2026-04-21,Sekar,Memenuhi
+1490,BTC-20260420-0271,Kadar abu,2.15,%,Tanur 550 C,2026-04-21,Bagas,Memenuhi
+1491,BTC-20260420-0271,Bilangan peroksida,1.61,meq O2/kg,Titrasi iodometri,2026-04-20,Yoga,Memenuhi
+1492,BTC-20260420-0271,Angka lempeng total,3.27,log CFU/g,Cawan tuang,2026-04-22,Bagas,Memenuhi
+1493,BTC-20260420-0271,Kapang khamir,1.49,log CFU/g,Cawan sebar,2026-04-21,Sekar,Memenuhi
+1494,BTC-20260420-0272,Kadar air,2.95,%,Oven 105 C,2026-04-20,Bagas,Memenuhi
+1495,BTC-20260420-0272,Kadar abu,2.09,%,Tanur 550 C,2026-04-20,Rani,Memenuhi
+1496,BTC-20260420-0272,Bilangan peroksida,2.17,meq O2/kg,Titrasi iodometri,2026-04-22,Sekar,Memenuhi
+1497,BTC-20260420-0272,Angka lempeng total,2.57,log CFU/g,Cawan tuang,2026-04-21,Bagas,Memenuhi
+1498,BTC-20260420-0272,Kapang khamir,2.5,log CFU/g,Cawan sebar,2026-04-21,Sekar,Memenuhi
+1499,BTC-20260420-0273,Kadar air,2.28,%,Oven 105 C,2026-04-21,Bagas,Memenuhi
+1500,BTC-20260420-0273,Kadar abu,1.54,%,Tanur 550 C,2026-04-22,Sekar,Memenuhi
+1501,BTC-20260420-0273,Bilangan peroksida,1.99,meq O2/kg,Titrasi iodometri,2026-04-22,Sekar,Memenuhi
+1502,BTC-20260420-0273,Angka lempeng total,3.01,log CFU/g,Cawan tuang,2026-04-22,Bagas,Memenuhi
+1503,BTC-20260420-0273,Kapang khamir,1.87,log CFU/g,Cawan sebar,2026-04-21,Sekar,Memenuhi
+1504,BTC-20260420-0273,Berat bersih,102.08,g,Timbang digital,2026-04-20,Bagas,Memenuhi
+1505,BTC-20260420-0273,Skor hedonik,5.36,skala 1-7,Uji hedonik 15 panelis,2026-04-22,Rani,Memenuhi
+1506,BTC-20260421-0274,Kadar air,3.02,%,Oven 105 C,2026-04-22,Rani,Tidak memenuhi
+1507,BTC-20260421-0274,Kadar abu,1.5,%,Tanur 550 C,2026-04-22,Rani,Memenuhi
+1508,BTC-20260421-0274,Bilangan peroksida,1.52,meq O2/kg,Titrasi iodometri,2026-04-21,Rani,Memenuhi
+1509,BTC-20260421-0274,Angka lempeng total,2.79,log CFU/g,Cawan tuang,2026-04-23,Yoga,Memenuhi
+1510,BTC-20260421-0274,Kapang khamir,2.54,log CFU/g,Cawan sebar,2026-04-22,Sekar,Memenuhi
+1511,BTC-20260421-0275,Kadar air,10.19,%,Oven 105 C,2026-04-22,Rani,Memenuhi
+1512,BTC-20260421-0275,Kadar abu,1.99,%,Tanur 550 C,2026-04-22,Rani,Memenuhi
+1513,BTC-20260421-0275,Bilangan peroksida,1.71,meq O2/kg,Titrasi iodometri,2026-04-21,Intan,Memenuhi
+1514,BTC-20260421-0275,Angka lempeng total,3.7,log CFU/g,Cawan tuang,2026-04-22,Intan,Memenuhi
+1515,BTC-20260421-0275,Kapang khamir,1.59,log CFU/g,Cawan sebar,2026-04-23,Sekar,Memenuhi
+1516,BTC-20260421-0276,Kadar air,2.5,%,Oven 105 C,2026-04-21,Bagas,Memenuhi
+1517,BTC-20260421-0276,Kadar abu,2.15,%,Tanur 550 C,2026-04-23,Bagas,Memenuhi
+1518,BTC-20260421-0276,Bilangan peroksida,1.77,meq O2/kg,Titrasi iodometri,2026-04-22,Bagas,Memenuhi
+1519,BTC-20260421-0276,Angka lempeng total,2.51,log CFU/g,Cawan tuang,2026-04-23,Sekar,Memenuhi
+1520,BTC-20260421-0276,Kapang khamir,2.38,log CFU/g,Cawan sebar,2026-04-21,Intan,Memenuhi
+1521,BTC-20260421-0277,Kadar air,87.07,%,Oven 105 C,2026-04-23,Sekar,Memenuhi
+1522,BTC-20260421-0277,Kadar abu,1.92,%,Tanur 550 C,2026-04-23,Sekar,Memenuhi
+1523,BTC-20260421-0277,Bilangan peroksida,1.26,meq O2/kg,Titrasi iodometri,2026-04-23,Intan,Memenuhi
+1524,BTC-20260421-0277,Angka lempeng total,2.33,log CFU/g,Cawan tuang,2026-04-22,Yoga,Memenuhi
+1525,BTC-20260421-0277,Kapang khamir,0.96,log CFU/g,Cawan sebar,2026-04-23,Rani,Memenuhi
+1526,BTC-20260422-0278,Kadar air,10.52,%,Oven 105 C,2026-04-23,Rani,Memenuhi
+1527,BTC-20260422-0278,Kadar abu,1.85,%,Tanur 550 C,2026-04-24,Yoga,Memenuhi
+1528,BTC-20260422-0278,Bilangan peroksida,1.18,meq O2/kg,Titrasi iodometri,2026-04-23,Bagas,Memenuhi
+1529,BTC-20260422-0278,Angka lempeng total,3.31,log CFU/g,Cawan tuang,2026-04-22,Bagas,Memenuhi
+1530,BTC-20260422-0278,Kapang khamir,1.77,log CFU/g,Cawan sebar,2026-04-23,Intan,Memenuhi
+1531,BTC-20260422-0279,Kadar air,12.63,%,Oven 105 C,2026-04-24,Sekar,Memenuhi
+1532,BTC-20260422-0279,Kadar abu,2.04,%,Tanur 550 C,2026-04-24,Bagas,Memenuhi
+1533,BTC-20260422-0279,Bilangan peroksida,2.59,meq O2/kg,Titrasi iodometri,2026-04-22,Intan,Memenuhi
+1534,BTC-20260422-0279,Angka lempeng total,3.15,log CFU/g,Cawan tuang,2026-04-23,Yoga,Memenuhi
+1535,BTC-20260422-0279,Kapang khamir,1.91,log CFU/g,Cawan sebar,2026-04-23,Rani,Memenuhi
+1536,BTC-20260422-0280,Kadar air,2.22,%,Oven 105 C,2026-04-24,Rani,Memenuhi
+1537,BTC-20260422-0280,Kadar abu,1.97,%,Tanur 550 C,2026-04-24,Bagas,Memenuhi
+1538,BTC-20260422-0280,Bilangan peroksida,2.14,meq O2/kg,Titrasi iodometri,2026-04-22,Intan,Memenuhi
+1539,BTC-20260422-0280,Angka lempeng total,2.69,log CFU/g,Cawan tuang,2026-04-24,Sekar,Memenuhi
+1540,BTC-20260422-0280,Kapang khamir,2.19,log CFU/g,Cawan sebar,2026-04-23,Yoga,Memenuhi
+1541,BTC-20260422-0280,Berat bersih,101.55,g,Timbang digital,2026-04-23,Bagas,Memenuhi
+1542,BTC-20260422-0280,Skor hedonik,5.6,skala 1-7,Uji hedonik 15 panelis,2026-04-22,Bagas,Memenuhi
+1543,BTC-20260423-0281,Kadar air,11.13,%,Oven 105 C,2026-04-24,Intan,Memenuhi
+1544,BTC-20260423-0281,Kadar abu,1.85,%,Tanur 550 C,2026-04-23,Rani,Memenuhi
+1545,BTC-20260423-0281,Bilangan peroksida,1.4,meq O2/kg,Titrasi iodometri,2026-04-23,Bagas,Memenuhi
+1546,BTC-20260423-0281,Angka lempeng total,3.18,log CFU/g,Cawan tuang,2026-04-23,Yoga,Memenuhi
+1547,BTC-20260423-0281,Kapang khamir,1.45,log CFU/g,Cawan sebar,2026-04-25,Yoga,Memenuhi
+1548,BTC-20260423-0282,Kadar air,87.34,%,Oven 105 C,2026-04-25,Bagas,Memenuhi
+1549,BTC-20260423-0282,Kadar abu,1.98,%,Tanur 550 C,2026-04-24,Intan,Memenuhi
+1550,BTC-20260423-0282,Bilangan peroksida,2.04,meq O2/kg,Titrasi iodometri,2026-04-25,Yoga,Memenuhi
+1551,BTC-20260423-0282,Angka lempeng total,4.04,log CFU/g,Cawan tuang,2026-04-23,Yoga,Memenuhi
+1552,BTC-20260423-0282,Kapang khamir,2.2,log CFU/g,Cawan sebar,2026-04-23,Intan,Memenuhi
+1553,BTC-20260423-0282,Berat bersih,98.88,g,Timbang digital,2026-04-25,Sekar,Memenuhi
+1554,BTC-20260423-0282,Skor hedonik,5.07,skala 1-7,Uji hedonik 15 panelis,2026-04-23,Bagas,Memenuhi
+1555,BTC-20260423-0283,Kadar air,10.7,%,Oven 105 C,2026-04-24,Sekar,Memenuhi
+1556,BTC-20260423-0283,Kadar abu,1.76,%,Tanur 550 C,2026-04-24,Rani,Memenuhi
+1557,BTC-20260423-0283,Bilangan peroksida,3.21,meq O2/kg,Titrasi iodometri,2026-04-24,Yoga,Memenuhi
+1558,BTC-20260423-0283,Angka lempeng total,3.97,log CFU/g,Cawan tuang,2026-04-25,Intan,Memenuhi
+1559,BTC-20260423-0283,Kapang khamir,1.86,log CFU/g,Cawan sebar,2026-04-24,Yoga,Memenuhi
+1560,BTC-20260423-0283,Berat bersih,99.06,g,Timbang digital,2026-04-25,Yoga,Memenuhi
+1561,BTC-20260423-0283,Skor hedonik,5.57,skala 1-7,Uji hedonik 15 panelis,2026-04-24,Yoga,Memenuhi
+1562,BTC-20260424-0284,Kadar air,2.87,%,Oven 105 C,2026-04-26,Rani,Memenuhi
+1563,BTC-20260424-0284,Kadar abu,1.34,%,Tanur 550 C,2026-04-24,Bagas,Memenuhi
+1564,BTC-20260424-0284,Bilangan peroksida,1.93,meq O2/kg,Titrasi iodometri,2026-04-26,Intan,Memenuhi
+1565,BTC-20260424-0284,Angka lempeng total,3.06,log CFU/g,Cawan tuang,2026-04-24,Intan,Memenuhi
+1566,BTC-20260424-0284,Kapang khamir,1.64,log CFU/g,Cawan sebar,2026-04-26,Rani,Memenuhi
+1567,BTC-20260424-0285,Kadar air,2.43,%,Oven 105 C,2026-04-25,Yoga,Memenuhi
+1568,BTC-20260424-0285,Kadar abu,2.21,%,Tanur 550 C,2026-04-26,Bagas,Memenuhi
+1569,BTC-20260424-0285,Bilangan peroksida,1.6,meq O2/kg,Titrasi iodometri,2026-04-24,Rani,Memenuhi
+1570,BTC-20260424-0285,Angka lempeng total,3.87,log CFU/g,Cawan tuang,2026-04-24,Yoga,Memenuhi
+1571,BTC-20260424-0285,Kapang khamir,1.89,log CFU/g,Cawan sebar,2026-04-26,Yoga,Memenuhi
+1572,BTC-20260424-0286,Kadar air,2.49,%,Oven 105 C,2026-04-24,Bagas,Memenuhi
+1573,BTC-20260424-0286,Kadar abu,1.92,%,Tanur 550 C,2026-04-25,Bagas,Memenuhi
+1574,BTC-20260424-0286,Bilangan peroksida,1.56,meq O2/kg,Titrasi iodometri,2026-04-26,Bagas,Memenuhi
+1575,BTC-20260424-0286,Angka lempeng total,2.96,log CFU/g,Cawan tuang,2026-04-26,Sekar,Memenuhi
+1576,BTC-20260424-0286,Kapang khamir,2.2,log CFU/g,Cawan sebar,2026-04-24,Bagas,Memenuhi
+1577,BTC-20260424-0287,Kadar air,2.37,%,Oven 105 C,2026-04-25,Rani,Memenuhi
+1578,BTC-20260424-0287,Kadar abu,1.52,%,Tanur 550 C,2026-04-26,Bagas,Memenuhi
+1579,BTC-20260424-0287,Bilangan peroksida,1.51,meq O2/kg,Titrasi iodometri,2026-04-26,Yoga,Memenuhi
+1580,BTC-20260424-0287,Angka lempeng total,3.21,log CFU/g,Cawan tuang,2026-04-25,Bagas,Memenuhi
+1581,BTC-20260424-0287,Kapang khamir,2.17,log CFU/g,Cawan sebar,2026-04-25,Yoga,Memenuhi
+1582,BTC-20260425-0288,Kadar air,10.91,%,Oven 105 C,2026-04-27,Bagas,Memenuhi
+1583,BTC-20260425-0288,Kadar abu,2.03,%,Tanur 550 C,2026-04-27,Bagas,Memenuhi
+1584,BTC-20260425-0288,Bilangan peroksida,1.52,meq O2/kg,Titrasi iodometri,2026-04-27,Intan,Memenuhi
+1585,BTC-20260425-0288,Angka lempeng total,2.88,log CFU/g,Cawan tuang,2026-04-25,Sekar,Memenuhi
+1586,BTC-20260425-0288,Kapang khamir,1.2,log CFU/g,Cawan sebar,2026-04-27,Yoga,Memenuhi
+1587,BTC-20260425-0289,Kadar air,84.74,%,Oven 105 C,2026-04-25,Rani,Memenuhi
+1588,BTC-20260425-0289,Kadar abu,1.8,%,Tanur 550 C,2026-04-27,Yoga,Memenuhi
+1589,BTC-20260425-0289,Bilangan peroksida,1.02,meq O2/kg,Titrasi iodometri,2026-04-26,Bagas,Memenuhi
+1590,BTC-20260425-0289,Angka lempeng total,4.18,log CFU/g,Cawan tuang,2026-04-26,Intan,Memenuhi
+1591,BTC-20260425-0289,Kapang khamir,1.98,log CFU/g,Cawan sebar,2026-04-25,Intan,Memenuhi
+1592,BTC-20260425-0290,Kadar air,2.75,%,Oven 105 C,2026-04-27,Bagas,Memenuhi
+1593,BTC-20260425-0290,Kadar abu,1.97,%,Tanur 550 C,2026-04-26,Rani,Memenuhi
+1594,BTC-20260425-0290,Bilangan peroksida,1.85,meq O2/kg,Titrasi iodometri,2026-04-27,Sekar,Memenuhi
+1595,BTC-20260425-0290,Angka lempeng total,2.92,log CFU/g,Cawan tuang,2026-04-26,Bagas,Memenuhi
+1596,BTC-20260425-0290,Kapang khamir,2.41,log CFU/g,Cawan sebar,2026-04-27,Rani,Memenuhi
+1597,BTC-20260425-0290,Berat bersih,99.17,g,Timbang digital,2026-04-25,Bagas,Memenuhi
+1598,BTC-20260425-0290,Skor hedonik,6.12,skala 1-7,Uji hedonik 15 panelis,2026-04-25,Rani,Memenuhi
+1599,BTC-20260425-0291,Kadar air,11.21,%,Oven 105 C,2026-04-25,Yoga,Memenuhi
+1600,BTC-20260425-0291,Kadar abu,1.63,%,Tanur 550 C,2026-04-27,Intan,Memenuhi
+1601,BTC-20260425-0291,Bilangan peroksida,1.65,meq O2/kg,Titrasi iodometri,2026-04-26,Yoga,Memenuhi
+1602,BTC-20260425-0291,Angka lempeng total,3.29,log CFU/g,Cawan tuang,2026-04-27,Intan,Memenuhi
+1603,BTC-20260425-0291,Kapang khamir,2.83,log CFU/g,Cawan sebar,2026-04-27,Rani,Memenuhi
+1604,BTC-20260425-0291,Berat bersih,100.54,g,Timbang digital,2026-04-27,Rani,Memenuhi
+1605,BTC-20260425-0291,Skor hedonik,4.57,skala 1-7,Uji hedonik 15 panelis,2026-04-26,Sekar,Memenuhi
+1606,BTC-20260427-0292,Kadar air,11.09,%,Oven 105 C,2026-04-28,Rani,Memenuhi
+1607,BTC-20260427-0292,Kadar abu,1.81,%,Tanur 550 C,2026-04-27,Bagas,Memenuhi
+1608,BTC-20260427-0292,Bilangan peroksida,1.0,meq O2/kg,Titrasi iodometri,2026-04-27,Sekar,Memenuhi
+1609,BTC-20260427-0292,Angka lempeng total,2.88,log CFU/g,Cawan tuang,2026-04-28,Yoga,Memenuhi
+1610,BTC-20260427-0292,Kapang khamir,2.42,log CFU/g,Cawan sebar,2026-04-27,Bagas,Memenuhi
+1611,BTC-20260427-0293,Kadar air,10.35,%,Oven 105 C,2026-04-28,Rani,Memenuhi
+1612,BTC-20260427-0293,Kadar abu,2.08,%,Tanur 550 C,2026-04-28,Sekar,Memenuhi
+1613,BTC-20260427-0293,Bilangan peroksida,1.32,meq O2/kg,Titrasi iodometri,2026-04-27,Yoga,Memenuhi
+1614,BTC-20260427-0293,Angka lempeng total,3.55,log CFU/g,Cawan tuang,2026-04-27,Sekar,Memenuhi
+1615,BTC-20260427-0293,Kapang khamir,1.61,log CFU/g,Cawan sebar,2026-04-27,Bagas,Memenuhi
+1616,BTC-20260427-0293,Berat bersih,100.39,g,Timbang digital,2026-04-27,Intan,Memenuhi
+1617,BTC-20260427-0293,Skor hedonik,6.63,skala 1-7,Uji hedonik 15 panelis,2026-04-29,Sekar,Memenuhi
+1618,BTC-20260427-0294,Kadar air,2.48,%,Oven 105 C,2026-04-28,Rani,Memenuhi
+1619,BTC-20260427-0294,Kadar abu,2.22,%,Tanur 550 C,2026-04-28,Sekar,Memenuhi
+1620,BTC-20260427-0294,Bilangan peroksida,1.78,meq O2/kg,Titrasi iodometri,2026-04-27,Yoga,Memenuhi
+1621,BTC-20260427-0294,Angka lempeng total,2.05,log CFU/g,Cawan tuang,2026-04-27,Intan,Memenuhi
+1622,BTC-20260427-0294,Kapang khamir,2.61,log CFU/g,Cawan sebar,2026-04-27,Intan,Memenuhi
+1623,BTC-20260427-0294,Berat bersih,98.87,g,Timbang digital,2026-04-28,Bagas,Memenuhi
+1624,BTC-20260427-0294,Skor hedonik,5.93,skala 1-7,Uji hedonik 15 panelis,2026-04-28,Intan,Memenuhi
+1625,BTC-20260427-0295,Kadar air,85.91,%,Oven 105 C,2026-04-29,Intan,Memenuhi
+1626,BTC-20260427-0295,Kadar abu,1.77,%,Tanur 550 C,2026-04-27,Bagas,Memenuhi
+1627,BTC-20260427-0295,Bilangan peroksida,1.4,meq O2/kg,Titrasi iodometri,2026-04-29,Intan,Memenuhi
+1628,BTC-20260427-0295,Angka lempeng total,3.53,log CFU/g,Cawan tuang,2026-04-27,Rani,Memenuhi
+1629,BTC-20260427-0295,Kapang khamir,1.66,log CFU/g,Cawan sebar,2026-04-28,Yoga,Memenuhi
+1630,BTC-20260428-0296,Kadar air,2.55,%,Oven 105 C,2026-04-28,Yoga,Memenuhi
+1631,BTC-20260428-0296,Kadar abu,1.51,%,Tanur 550 C,2026-04-30,Intan,Memenuhi
+1632,BTC-20260428-0296,Bilangan peroksida,1.64,meq O2/kg,Titrasi iodometri,2026-04-28,Sekar,Memenuhi
+1633,BTC-20260428-0296,Angka lempeng total,3.69,log CFU/g,Cawan tuang,2026-04-28,Yoga,Memenuhi
+1634,BTC-20260428-0296,Kapang khamir,2.67,log CFU/g,Cawan sebar,2026-04-28,Intan,Memenuhi
+1635,BTC-20260428-0297,Kadar air,2.43,%,Oven 105 C,2026-04-29,Intan,Memenuhi
+1636,BTC-20260428-0297,Kadar abu,1.72,%,Tanur 550 C,2026-04-30,Bagas,Memenuhi
+1637,BTC-20260428-0297,Bilangan peroksida,1.63,meq O2/kg,Titrasi iodometri,2026-04-28,Sekar,Memenuhi
+1638,BTC-20260428-0297,Angka lempeng total,3.33,log CFU/g,Cawan tuang,2026-04-29,Yoga,Memenuhi
+1639,BTC-20260428-0297,Kapang khamir,1.42,log CFU/g,Cawan sebar,2026-04-28,Bagas,Memenuhi
+1640,BTC-20260428-0298,Kadar air,2.5,%,Oven 105 C,2026-04-30,Yoga,Memenuhi
+1641,BTC-20260428-0298,Kadar abu,1.67,%,Tanur 550 C,2026-04-28,Rani,Memenuhi
+1642,BTC-20260428-0298,Bilangan peroksida,1.24,meq O2/kg,Titrasi iodometri,2026-04-28,Intan,Memenuhi
+1643,BTC-20260428-0298,Angka lempeng total,2.98,log CFU/g,Cawan tuang,2026-04-30,Bagas,Memenuhi
+1644,BTC-20260428-0298,Kapang khamir,3.43,log CFU/g,Cawan sebar,2026-04-28,Yoga,Tidak memenuhi
+1645,BTC-20260428-0299,Kadar air,86.29,%,Oven 105 C,2026-04-29,Yoga,Memenuhi
+1646,BTC-20260428-0299,Kadar abu,1.61,%,Tanur 550 C,2026-04-30,Yoga,Memenuhi
+1647,BTC-20260428-0299,Bilangan peroksida,1.88,meq O2/kg,Titrasi iodometri,2026-04-29,Bagas,Memenuhi
+1648,BTC-20260428-0299,Angka lempeng total,3.87,log CFU/g,Cawan tuang,2026-04-28,Bagas,Memenuhi
+1649,BTC-20260428-0299,Kapang khamir,1.7,log CFU/g,Cawan sebar,2026-04-29,Intan,Memenuhi
+1650,BTC-20260429-0300,Kadar air,10.67,%,Oven 105 C,2026-04-29,Bagas,Memenuhi
+1651,BTC-20260429-0300,Kadar abu,2.04,%,Tanur 550 C,2026-05-01,Bagas,Memenuhi
+1652,BTC-20260429-0300,Bilangan peroksida,0.6,meq O2/kg,Titrasi iodometri,2026-05-01,Bagas,Memenuhi
+1653,BTC-20260429-0300,Angka lempeng total,3.04,log CFU/g,Cawan tuang,2026-04-29,Yoga,Memenuhi
+1654,BTC-20260429-0300,Kapang khamir,1.93,log CFU/g,Cawan sebar,2026-05-01,Sekar,Memenuhi
+1655,BTC-20260429-0301,Kadar air,10.37,%,Oven 105 C,2026-05-01,Sekar,Memenuhi
+1656,BTC-20260429-0301,Kadar abu,1.78,%,Tanur 550 C,2026-05-01,Sekar,Memenuhi
+1657,BTC-20260429-0301,Bilangan peroksida,2.6,meq O2/kg,Titrasi iodometri,2026-04-29,Yoga,Memenuhi
+1658,BTC-20260429-0301,Angka lempeng total,3.01,log CFU/g,Cawan tuang,2026-05-01,Rani,Memenuhi
+1659,BTC-20260429-0301,Kapang khamir,1.16,log CFU/g,Cawan sebar,2026-04-29,Rani,Memenuhi
+1660,BTC-20260429-0302,Kadar air,2.21,%,Oven 105 C,2026-05-01,Rani,Memenuhi
+1661,BTC-20260429-0302,Kadar abu,1.66,%,Tanur 550 C,2026-04-30,Sekar,Memenuhi
+1662,BTC-20260429-0302,Bilangan peroksida,2.32,meq O2/kg,Titrasi iodometri,2026-05-01,Yoga,Memenuhi
+1663,BTC-20260429-0302,Angka lempeng total,3.57,log CFU/g,Cawan tuang,2026-04-30,Bagas,Memenuhi
+1664,BTC-20260429-0302,Kapang khamir,2.18,log CFU/g,Cawan sebar,2026-04-29,Rani,Memenuhi
+1665,BTC-20260429-0303,Kadar air,83.67,%,Oven 105 C,2026-04-30,Yoga,Memenuhi
+1666,BTC-20260429-0303,Kadar abu,1.53,%,Tanur 550 C,2026-04-30,Sekar,Memenuhi
+1667,BTC-20260429-0303,Bilangan peroksida,1.77,meq O2/kg,Titrasi iodometri,2026-04-29,Yoga,Memenuhi
+1668,BTC-20260429-0303,Angka lempeng total,4.58,log CFU/g,Cawan tuang,2026-04-30,Yoga,Memenuhi
+1669,BTC-20260429-0303,Kapang khamir,2.28,log CFU/g,Cawan sebar,2026-04-29,Rani,Memenuhi
+1670,BTC-20260430-0304,Kadar air,9.5,%,Oven 105 C,2026-05-01,Bagas,Memenuhi
+1671,BTC-20260430-0304,Kadar abu,2.37,%,Tanur 550 C,2026-05-01,Rani,Memenuhi
+1672,BTC-20260430-0304,Bilangan peroksida,1.7,meq O2/kg,Titrasi iodometri,2026-04-30,Yoga,Memenuhi
+1673,BTC-20260430-0304,Angka lempeng total,3.1,log CFU/g,Cawan tuang,2026-05-02,Intan,Memenuhi
+1674,BTC-20260430-0304,Kapang khamir,1.46,log CFU/g,Cawan sebar,2026-04-30,Bagas,Memenuhi
+1675,BTC-20260430-0305,Kadar air,87.38,%,Oven 105 C,2026-05-02,Intan,Memenuhi
+1676,BTC-20260430-0305,Kadar abu,2.06,%,Tanur 550 C,2026-04-30,Yoga,Memenuhi
+1677,BTC-20260430-0305,Bilangan peroksida,1.57,meq O2/kg,Titrasi iodometri,2026-05-01,Intan,Memenuhi
+1678,BTC-20260430-0305,Angka lempeng total,2.87,log CFU/g,Cawan tuang,2026-04-30,Intan,Memenuhi
+1679,BTC-20260430-0305,Kapang khamir,2.21,log CFU/g,Cawan sebar,2026-05-02,Yoga,Memenuhi
+1680,BTC-20260430-0306,Kadar air,2.56,%,Oven 105 C,2026-05-02,Yoga,Memenuhi
+1681,BTC-20260430-0306,Kadar abu,1.75,%,Tanur 550 C,2026-05-01,Intan,Memenuhi
+1682,BTC-20260430-0306,Bilangan peroksida,1.51,meq O2/kg,Titrasi iodometri,2026-04-30,Yoga,Memenuhi
+1683,BTC-20260430-0306,Angka lempeng total,3.07,log CFU/g,Cawan tuang,2026-05-02,Sekar,Memenuhi
+1684,BTC-20260430-0306,Kapang khamir,1.59,log CFU/g,Cawan sebar,2026-05-01,Yoga,Memenuhi
+1685,BTC-20260501-0307,Kadar air,2.62,%,Oven 105 C,2026-05-01,Intan,Memenuhi
+1686,BTC-20260501-0307,Kadar abu,1.9,%,Tanur 550 C,2026-05-03,Rani,Memenuhi
+1687,BTC-20260501-0307,Bilangan peroksida,1.91,meq O2/kg,Titrasi iodometri,2026-05-01,Bagas,Memenuhi
+1688,BTC-20260501-0307,Angka lempeng total,3.49,log CFU/g,Cawan tuang,2026-05-01,Rani,Memenuhi
+1689,BTC-20260501-0307,Kapang khamir,2.42,log CFU/g,Cawan sebar,2026-05-02,Sekar,Memenuhi
+1690,BTC-20260501-0308,Kadar air,85.6,%,Oven 105 C,2026-05-02,Rani,Memenuhi
+1691,BTC-20260501-0308,Kadar abu,2.15,%,Tanur 550 C,2026-05-01,Rani,Memenuhi
+1692,BTC-20260501-0308,Bilangan peroksida,1.65,meq O2/kg,Titrasi iodometri,2026-05-02,Intan,Memenuhi
+1693,BTC-20260501-0308,Angka lempeng total,2.88,log CFU/g,Cawan tuang,2026-05-02,Bagas,Memenuhi
+1694,BTC-20260501-0308,Kapang khamir,2.3,log CFU/g,Cawan sebar,2026-05-03,Intan,Memenuhi
+1695,BTC-20260501-0309,Kadar air,87.03,%,Oven 105 C,2026-05-02,Intan,Memenuhi
+1696,BTC-20260501-0309,Kadar abu,2.31,%,Tanur 550 C,2026-05-01,Yoga,Memenuhi
+1697,BTC-20260501-0309,Bilangan peroksida,2.24,meq O2/kg,Titrasi iodometri,2026-05-02,Rani,Memenuhi
+1698,BTC-20260501-0309,Angka lempeng total,3.93,log CFU/g,Cawan tuang,2026-05-02,Yoga,Memenuhi
+1699,BTC-20260501-0309,Kapang khamir,1.35,log CFU/g,Cawan sebar,2026-05-02,Bagas,Memenuhi
+1700,BTC-20260502-0310,Kadar air,11.74,%,Oven 105 C,2026-05-03,Yoga,Memenuhi
+1701,BTC-20260502-0310,Kadar abu,1.93,%,Tanur 550 C,2026-05-04,Yoga,Memenuhi
+1702,BTC-20260502-0310,Bilangan peroksida,1.38,meq O2/kg,Titrasi iodometri,2026-05-03,Intan,Memenuhi
+1703,BTC-20260502-0310,Angka lempeng total,4.17,log CFU/g,Cawan tuang,2026-05-02,Intan,Memenuhi
+1704,BTC-20260502-0310,Kapang khamir,2.29,log CFU/g,Cawan sebar,2026-05-04,Intan,Memenuhi
+1705,BTC-20260502-0311,Kadar air,2.31,%,Oven 105 C,2026-05-03,Rani,Memenuhi
+1706,BTC-20260502-0311,Kadar abu,1.91,%,Tanur 550 C,2026-05-02,Intan,Memenuhi
+1707,BTC-20260502-0311,Bilangan peroksida,1.68,meq O2/kg,Titrasi iodometri,2026-05-02,Rani,Memenuhi
+1708,BTC-20260502-0311,Angka lempeng total,3.68,log CFU/g,Cawan tuang,2026-05-02,Intan,Memenuhi
+1709,BTC-20260502-0311,Kapang khamir,1.54,log CFU/g,Cawan sebar,2026-05-03,Sekar,Memenuhi
+1710,BTC-20260504-0312,Kadar air,1.74,%,Oven 105 C,2026-05-04,Yoga,Memenuhi
+1711,BTC-20260504-0312,Kadar abu,1.67,%,Tanur 550 C,2026-05-05,Rani,Memenuhi
+1712,BTC-20260504-0312,Bilangan peroksida,1.57,meq O2/kg,Titrasi iodometri,2026-05-06,Yoga,Memenuhi
+1713,BTC-20260504-0312,Angka lempeng total,2.83,log CFU/g,Cawan tuang,2026-05-04,Intan,Memenuhi
+1714,BTC-20260504-0312,Kapang khamir,2.15,log CFU/g,Cawan sebar,2026-05-05,Yoga,Memenuhi
+1715,BTC-20260504-0313,Kadar air,11.62,%,Oven 105 C,2026-05-06,Sekar,Memenuhi
+1716,BTC-20260504-0313,Kadar abu,1.72,%,Tanur 550 C,2026-05-04,Sekar,Memenuhi
+1717,BTC-20260504-0313,Bilangan peroksida,1.18,meq O2/kg,Titrasi iodometri,2026-05-04,Intan,Memenuhi
+1718,BTC-20260504-0313,Angka lempeng total,3.75,log CFU/g,Cawan tuang,2026-05-04,Intan,Memenuhi
+1719,BTC-20260504-0313,Kapang khamir,2.27,log CFU/g,Cawan sebar,2026-05-05,Yoga,Memenuhi
+1720,BTC-20260504-0314,Kadar air,11.62,%,Oven 105 C,2026-05-05,Intan,Memenuhi
+1721,BTC-20260504-0314,Kadar abu,1.78,%,Tanur 550 C,2026-05-05,Intan,Memenuhi
+1722,BTC-20260504-0314,Bilangan peroksida,1.72,meq O2/kg,Titrasi iodometri,2026-05-05,Intan,Memenuhi
+1723,BTC-20260504-0314,Angka lempeng total,3.82,log CFU/g,Cawan tuang,2026-05-06,Yoga,Memenuhi
+1724,BTC-20260504-0314,Kapang khamir,1.94,log CFU/g,Cawan sebar,2026-05-05,Yoga,Memenuhi
+1725,BTC-20260504-0314,Berat bersih,100.14,g,Timbang digital,2026-05-06,Yoga,Memenuhi
+1726,BTC-20260504-0314,Skor hedonik,4.84,skala 1-7,Uji hedonik 15 panelis,2026-05-05,Rani,Memenuhi
+1727,BTC-20260504-0315,Kadar air,87.41,%,Oven 105 C,2026-05-04,Intan,Memenuhi
+1728,BTC-20260504-0315,Kadar abu,2.13,%,Tanur 550 C,2026-05-06,Yoga,Memenuhi
+1729,BTC-20260504-0315,Bilangan peroksida,2.12,meq O2/kg,Titrasi iodometri,2026-05-05,Yoga,Memenuhi
+1730,BTC-20260504-0315,Angka lempeng total,4.02,log CFU/g,Cawan tuang,2026-05-06,Yoga,Memenuhi
+1731,BTC-20260504-0315,Kapang khamir,1.55,log CFU/g,Cawan sebar,2026-05-04,Sekar,Memenuhi
+1732,BTC-20260505-0316,Kadar air,2.54,%,Oven 105 C,2026-05-05,Intan,Memenuhi
+1733,BTC-20260505-0316,Kadar abu,1.72,%,Tanur 550 C,2026-05-07,Sekar,Memenuhi
+1734,BTC-20260505-0316,Bilangan peroksida,1.57,meq O2/kg,Titrasi iodometri,2026-05-07,Yoga,Memenuhi
+1735,BTC-20260505-0316,Angka lempeng total,2.69,log CFU/g,Cawan tuang,2026-05-07,Rani,Memenuhi
+1736,BTC-20260505-0316,Kapang khamir,1.31,log CFU/g,Cawan sebar,2026-05-07,Sekar,Memenuhi
+1737,BTC-20260505-0317,Kadar air,85.31,%,Oven 105 C,2026-05-06,Rani,Memenuhi
+1738,BTC-20260505-0317,Kadar abu,1.89,%,Tanur 550 C,2026-05-07,Sekar,Memenuhi
+1739,BTC-20260505-0317,Bilangan peroksida,1.78,meq O2/kg,Titrasi iodometri,2026-05-07,Intan,Memenuhi
+1740,BTC-20260505-0317,Angka lempeng total,3.49,log CFU/g,Cawan tuang,2026-05-05,Sekar,Memenuhi
+1741,BTC-20260505-0317,Kapang khamir,1.83,log CFU/g,Cawan sebar,2026-05-07,Rani,Memenuhi
+1742,BTC-20260505-0317,Berat bersih,98.64,g,Timbang digital,2026-05-07,Yoga,Memenuhi
+1743,BTC-20260505-0317,Skor hedonik,5.32,skala 1-7,Uji hedonik 15 panelis,2026-05-07,Bagas,Memenuhi
+1744,BTC-20260506-0318,Kadar air,2.23,%,Oven 105 C,2026-05-06,Bagas,Memenuhi
+1745,BTC-20260506-0318,Kadar abu,2.03,%,Tanur 550 C,2026-05-08,Rani,Memenuhi
+1746,BTC-20260506-0318,Bilangan peroksida,0.89,meq O2/kg,Titrasi iodometri,2026-05-07,Bagas,Memenuhi
+1747,BTC-20260506-0318,Angka lempeng total,2.7,log CFU/g,Cawan tuang,2026-05-06,Intan,Memenuhi
+1748,BTC-20260506-0318,Kapang khamir,2.26,log CFU/g,Cawan sebar,2026-05-08,Rani,Memenuhi
+1749,BTC-20260506-0319,Kadar air,2.33,%,Oven 105 C,2026-05-07,Intan,Memenuhi
+1750,BTC-20260506-0319,Kadar abu,2.39,%,Tanur 550 C,2026-05-07,Sekar,Memenuhi
+1751,BTC-20260506-0319,Bilangan peroksida,1.13,meq O2/kg,Titrasi iodometri,2026-05-07,Intan,Memenuhi
+1752,BTC-20260506-0319,Angka lempeng total,2.83,log CFU/g,Cawan tuang,2026-05-06,Intan,Memenuhi
+1753,BTC-20260506-0319,Kapang khamir,2.24,log CFU/g,Cawan sebar,2026-05-07,Sekar,Memenuhi
+1754,BTC-20260507-0320,Kadar air,2.32,%,Oven 105 C,2026-05-08,Yoga,Memenuhi
+1755,BTC-20260507-0320,Kadar abu,1.9,%,Tanur 550 C,2026-05-08,Sekar,Memenuhi
+1756,BTC-20260507-0320,Bilangan peroksida,0.23,meq O2/kg,Titrasi iodometri,2026-05-07,Bagas,Memenuhi
+1757,BTC-20260507-0320,Angka lempeng total,3.15,log CFU/g,Cawan tuang,2026-05-09,Intan,Memenuhi
+1758,BTC-20260507-0320,Kapang khamir,2.18,log CFU/g,Cawan sebar,2026-05-09,Rani,Memenuhi
+1759,BTC-20260507-0321,Kadar air,87.46,%,Oven 105 C,2026-05-07,Rani,Memenuhi
+1760,BTC-20260507-0321,Kadar abu,1.62,%,Tanur 550 C,2026-05-07,Intan,Memenuhi
+1761,BTC-20260507-0321,Bilangan peroksida,1.19,meq O2/kg,Titrasi iodometri,2026-05-09,Sekar,Memenuhi
+1762,BTC-20260507-0321,Angka lempeng total,2.7,log CFU/g,Cawan tuang,2026-05-08,Sekar,Memenuhi
+1763,BTC-20260507-0321,Kapang khamir,2.35,log CFU/g,Cawan sebar,2026-05-07,Rani,Memenuhi
+1764,BTC-20260507-0321,Berat bersih,97.96,g,Timbang digital,2026-05-09,Rani,Memenuhi
+1765,BTC-20260507-0321,Skor hedonik,5.09,skala 1-7,Uji hedonik 15 panelis,2026-05-09,Intan,Memenuhi
+1766,BTC-20260507-0322,Kadar air,1.46,%,Oven 105 C,2026-05-09,Sekar,Memenuhi
+1767,BTC-20260507-0322,Kadar abu,1.76,%,Tanur 550 C,2026-05-08,Rani,Memenuhi
+1768,BTC-20260507-0322,Bilangan peroksida,2.04,meq O2/kg,Titrasi iodometri,2026-05-09,Sekar,Memenuhi
+1769,BTC-20260507-0322,Angka lempeng total,3.9,log CFU/g,Cawan tuang,2026-05-08,Rani,Memenuhi
+1770,BTC-20260507-0322,Kapang khamir,2.15,log CFU/g,Cawan sebar,2026-05-07,Bagas,Memenuhi
+1771,BTC-20260507-0322,Berat bersih,100.16,g,Timbang digital,2026-05-08,Bagas,Memenuhi
+1772,BTC-20260507-0322,Skor hedonik,5.71,skala 1-7,Uji hedonik 15 panelis,2026-05-07,Sekar,Memenuhi
+1773,BTC-20260508-0323,Kadar air,2.11,%,Oven 105 C,2026-05-08,Intan,Memenuhi
+1774,BTC-20260508-0323,Kadar abu,1.85,%,Tanur 550 C,2026-05-10,Yoga,Memenuhi
+1775,BTC-20260508-0323,Bilangan peroksida,1.45,meq O2/kg,Titrasi iodometri,2026-05-08,Bagas,Memenuhi
+1776,BTC-20260508-0323,Angka lempeng total,3.32,log CFU/g,Cawan tuang,2026-05-09,Yoga,Memenuhi
+1777,BTC-20260508-0323,Kapang khamir,2.05,log CFU/g,Cawan sebar,2026-05-08,Yoga,Memenuhi
+1778,BTC-20260508-0324,Kadar air,10.86,%,Oven 105 C,2026-05-08,Sekar,Memenuhi
+1779,BTC-20260508-0324,Kadar abu,2.01,%,Tanur 550 C,2026-05-09,Yoga,Memenuhi
+1780,BTC-20260508-0324,Bilangan peroksida,1.14,meq O2/kg,Titrasi iodometri,2026-05-09,Intan,Memenuhi
+1781,BTC-20260508-0324,Angka lempeng total,3.25,log CFU/g,Cawan tuang,2026-05-10,Bagas,Memenuhi
+1782,BTC-20260508-0324,Kapang khamir,1.38,log CFU/g,Cawan sebar,2026-05-09,Rani,Memenuhi
+1783,BTC-20260508-0325,Kadar air,3.33,%,Oven 105 C,2026-05-10,Yoga,Tidak memenuhi
+1784,BTC-20260508-0325,Kadar abu,1.73,%,Tanur 550 C,2026-05-09,Sekar,Memenuhi
+1785,BTC-20260508-0325,Bilangan peroksida,0.89,meq O2/kg,Titrasi iodometri,2026-05-10,Bagas,Memenuhi
+1786,BTC-20260508-0325,Angka lempeng total,2.79,log CFU/g,Cawan tuang,2026-05-08,Yoga,Memenuhi
+1787,BTC-20260508-0325,Kapang khamir,1.73,log CFU/g,Cawan sebar,2026-05-09,Sekar,Memenuhi
+1788,BTC-20260509-0326,Kadar air,85.0,%,Oven 105 C,2026-05-09,Yoga,Memenuhi
+1789,BTC-20260509-0326,Kadar abu,1.65,%,Tanur 550 C,2026-05-09,Bagas,Memenuhi
+1790,BTC-20260509-0326,Bilangan peroksida,1.37,meq O2/kg,Titrasi iodometri,2026-05-10,Intan,Memenuhi
+1791,BTC-20260509-0326,Angka lempeng total,4.57,log CFU/g,Cawan tuang,2026-05-09,Intan,Memenuhi
+1792,BTC-20260509-0326,Kapang khamir,1.85,log CFU/g,Cawan sebar,2026-05-09,Yoga,Memenuhi
+1793,BTC-20260509-0326,Berat bersih,100.23,g,Timbang digital,2026-05-09,Rani,Memenuhi
+1794,BTC-20260509-0326,Skor hedonik,5.65,skala 1-7,Uji hedonik 15 panelis,2026-05-09,Intan,Memenuhi
+1795,BTC-20260509-0327,Kadar air,2.58,%,Oven 105 C,2026-05-09,Yoga,Memenuhi
+1796,BTC-20260509-0327,Kadar abu,2.18,%,Tanur 550 C,2026-05-10,Yoga,Memenuhi
+1797,BTC-20260509-0327,Bilangan peroksida,1.37,meq O2/kg,Titrasi iodometri,2026-05-09,Bagas,Memenuhi
+1798,BTC-20260509-0327,Angka lempeng total,3.17,log CFU/g,Cawan tuang,2026-05-09,Bagas,Memenuhi
+1799,BTC-20260509-0327,Kapang khamir,2.25,log CFU/g,Cawan sebar,2026-05-11,Sekar,Memenuhi
+1800,BTC-20260509-0327,Berat bersih,99.33,g,Timbang digital,2026-05-09,Sekar,Memenuhi
+1801,BTC-20260509-0327,Skor hedonik,4.62,skala 1-7,Uji hedonik 15 panelis,2026-05-11,Yoga,Memenuhi
+1802,BTC-20260509-0328,Kadar air,2.31,%,Oven 105 C,2026-05-11,Sekar,Memenuhi
+1803,BTC-20260509-0328,Kadar abu,1.84,%,Tanur 550 C,2026-05-11,Bagas,Memenuhi
+1804,BTC-20260509-0328,Bilangan peroksida,1.37,meq O2/kg,Titrasi iodometri,2026-05-10,Sekar,Memenuhi
+1805,BTC-20260509-0328,Angka lempeng total,3.84,log CFU/g,Cawan tuang,2026-05-10,Bagas,Memenuhi
+1806,BTC-20260509-0328,Kapang khamir,2.17,log CFU/g,Cawan sebar,2026-05-10,Rani,Memenuhi
+1807,BTC-20260511-0329,Kadar air,10.79,%,Oven 105 C,2026-05-12,Bagas,Memenuhi
+1808,BTC-20260511-0329,Kadar abu,1.77,%,Tanur 550 C,2026-05-13,Yoga,Memenuhi
+1809,BTC-20260511-0329,Bilangan peroksida,2.04,meq O2/kg,Titrasi iodometri,2026-05-13,Yoga,Memenuhi
+1810,BTC-20260511-0329,Angka lempeng total,2.62,log CFU/g,Cawan tuang,2026-05-11,Intan,Memenuhi
+1811,BTC-20260511-0329,Kapang khamir,1.79,log CFU/g,Cawan sebar,2026-05-11,Rani,Memenuhi
+1812,BTC-20260511-0329,Berat bersih,101.03,g,Timbang digital,2026-05-13,Rani,Memenuhi
+1813,BTC-20260511-0329,Skor hedonik,6.49,skala 1-7,Uji hedonik 15 panelis,2026-05-11,Yoga,Memenuhi
+1814,BTC-20260511-0330,Kadar air,2.27,%,Oven 105 C,2026-05-13,Bagas,Memenuhi
+1815,BTC-20260511-0330,Kadar abu,1.79,%,Tanur 550 C,2026-05-11,Intan,Memenuhi
+1816,BTC-20260511-0330,Bilangan peroksida,0.63,meq O2/kg,Titrasi iodometri,2026-05-12,Yoga,Memenuhi
+1817,BTC-20260511-0330,Angka lempeng total,3.22,log CFU/g,Cawan tuang,2026-05-12,Intan,Memenuhi
+1818,BTC-20260511-0330,Kapang khamir,1.74,log CFU/g,Cawan sebar,2026-05-11,Sekar,Memenuhi
+1819,BTC-20260511-0330,Berat bersih,100.21,g,Timbang digital,2026-05-11,Bagas,Memenuhi
+1820,BTC-20260511-0330,Skor hedonik,4.57,skala 1-7,Uji hedonik 15 panelis,2026-05-12,Bagas,Memenuhi
+1821,BTC-20260511-0331,Kadar air,2.35,%,Oven 105 C,2026-05-12,Bagas,Memenuhi
+1822,BTC-20260511-0331,Kadar abu,1.92,%,Tanur 550 C,2026-05-12,Rani,Memenuhi
+1823,BTC-20260511-0331,Bilangan peroksida,1.34,meq O2/kg,Titrasi iodometri,2026-05-11,Sekar,Memenuhi
+1824,BTC-20260511-0331,Angka lempeng total,2.98,log CFU/g,Cawan tuang,2026-05-11,Intan,Memenuhi
+1825,BTC-20260511-0331,Kapang khamir,1.93,log CFU/g,Cawan sebar,2026-05-12,Yoga,Memenuhi
+1826,BTC-20260511-0331,Berat bersih,100.88,g,Timbang digital,2026-05-11,Sekar,Memenuhi
+1827,BTC-20260511-0331,Skor hedonik,6.12,skala 1-7,Uji hedonik 15 panelis,2026-05-13,Intan,Memenuhi
+1828,BTC-20260511-0332,Kadar air,9.99,%,Oven 105 C,2026-05-13,Bagas,Memenuhi
+1829,BTC-20260511-0332,Kadar abu,2.06,%,Tanur 550 C,2026-05-11,Sekar,Memenuhi
+1830,BTC-20260511-0332,Bilangan peroksida,1.55,meq O2/kg,Titrasi iodometri,2026-05-12,Yoga,Memenuhi
+1831,BTC-20260511-0332,Angka lempeng total,4.37,log CFU/g,Cawan tuang,2026-05-11,Yoga,Memenuhi
+1832,BTC-20260511-0332,Kapang khamir,2.22,log CFU/g,Cawan sebar,2026-05-12,Bagas,Memenuhi
+1833,BTC-20260512-0333,Kadar air,85.23,%,Oven 105 C,2026-05-14,Intan,Memenuhi
+1834,BTC-20260512-0333,Kadar abu,1.97,%,Tanur 550 C,2026-05-14,Rani,Memenuhi
+1835,BTC-20260512-0333,Bilangan peroksida,2.18,meq O2/kg,Titrasi iodometri,2026-05-13,Rani,Memenuhi
+1836,BTC-20260512-0333,Angka lempeng total,2.24,log CFU/g,Cawan tuang,2026-05-14,Bagas,Memenuhi
+1837,BTC-20260512-0333,Kapang khamir,1.88,log CFU/g,Cawan sebar,2026-05-12,Intan,Memenuhi
+1838,BTC-20260512-0334,Kadar air,10.3,%,Oven 105 C,2026-05-12,Yoga,Memenuhi
+1839,BTC-20260512-0334,Kadar abu,1.93,%,Tanur 550 C,2026-05-14,Bagas,Memenuhi
+1840,BTC-20260512-0334,Bilangan peroksida,1.84,meq O2/kg,Titrasi iodometri,2026-05-13,Yoga,Memenuhi
+1841,BTC-20260512-0334,Angka lempeng total,3.6,log CFU/g,Cawan tuang,2026-05-13,Yoga,Memenuhi
+1842,BTC-20260512-0334,Kapang khamir,1.83,log CFU/g,Cawan sebar,2026-05-12,Intan,Memenuhi
+1843,BTC-20260512-0335,Kadar air,10.36,%,Oven 105 C,2026-05-13,Sekar,Memenuhi
+1844,BTC-20260512-0335,Kadar abu,1.97,%,Tanur 550 C,2026-05-14,Yoga,Memenuhi
+1845,BTC-20260512-0335,Bilangan peroksida,1.6,meq O2/kg,Titrasi iodometri,2026-05-14,Yoga,Memenuhi
+1846,BTC-20260512-0335,Angka lempeng total,2.52,log CFU/g,Cawan tuang,2026-05-13,Yoga,Memenuhi
+1847,BTC-20260512-0335,Kapang khamir,1.16,log CFU/g,Cawan sebar,2026-05-13,Yoga,Memenuhi
+1848,BTC-20260512-0335,Berat bersih,99.44,g,Timbang digital,2026-05-13,Intan,Memenuhi
+1849,BTC-20260512-0335,Skor hedonik,4.93,skala 1-7,Uji hedonik 15 panelis,2026-05-13,Intan,Memenuhi
+1850,BTC-20260512-0336,Kadar air,1.83,%,Oven 105 C,2026-05-14,Intan,Memenuhi
+1851,BTC-20260512-0336,Kadar abu,2.04,%,Tanur 550 C,2026-05-13,Intan,Memenuhi
+1852,BTC-20260512-0336,Bilangan peroksida,1.87,meq O2/kg,Titrasi iodometri,2026-05-14,Intan,Memenuhi
+1853,BTC-20260512-0336,Angka lempeng total,2.88,log CFU/g,Cawan tuang,2026-05-13,Rani,Memenuhi
+1854,BTC-20260512-0336,Kapang khamir,1.92,log CFU/g,Cawan sebar,2026-05-12,Yoga,Memenuhi
+1855,BTC-20260513-0337,Kadar air,2.33,%,Oven 105 C,2026-05-14,Bagas,Memenuhi
+1856,BTC-20260513-0337,Kadar abu,1.71,%,Tanur 550 C,2026-05-13,Bagas,Memenuhi
+1857,BTC-20260513-0337,Bilangan peroksida,2.21,meq O2/kg,Titrasi iodometri,2026-05-14,Sekar,Memenuhi
+1858,BTC-20260513-0337,Angka lempeng total,4.54,log CFU/g,Cawan tuang,2026-05-13,Sekar,Memenuhi
+1859,BTC-20260513-0337,Kapang khamir,1.96,log CFU/g,Cawan sebar,2026-05-14,Rani,Memenuhi
+1860,BTC-20260513-0338,Kadar air,10.33,%,Oven 105 C,2026-05-15,Sekar,Memenuhi
+1861,BTC-20260513-0338,Kadar abu,1.75,%,Tanur 550 C,2026-05-15,Intan,Memenuhi
+1862,BTC-20260513-0338,Bilangan peroksida,0.94,meq O2/kg,Titrasi iodometri,2026-05-13,Intan,Memenuhi
+1863,BTC-20260513-0338,Angka lempeng total,2.55,log CFU/g,Cawan tuang,2026-05-15,Sekar,Memenuhi
+1864,BTC-20260513-0338,Kapang khamir,2.06,log CFU/g,Cawan sebar,2026-05-13,Rani,Memenuhi
+1865,BTC-20260514-0339,Kadar air,10.67,%,Oven 105 C,2026-05-14,Bagas,Memenuhi
+1866,BTC-20260514-0339,Kadar abu,2.1,%,Tanur 550 C,2026-05-14,Bagas,Memenuhi
+1867,BTC-20260514-0339,Bilangan peroksida,1.32,meq O2/kg,Titrasi iodometri,2026-05-14,Intan,Memenuhi
+1868,BTC-20260514-0339,Angka lempeng total,3.16,log CFU/g,Cawan tuang,2026-05-14,Yoga,Memenuhi
+1869,BTC-20260514-0339,Kapang khamir,2.41,log CFU/g,Cawan sebar,2026-05-14,Rani,Memenuhi
+1870,BTC-20260514-0339,Berat bersih,100.99,g,Timbang digital,2026-05-16,Yoga,Memenuhi
+1871,BTC-20260514-0339,Skor hedonik,5.44,skala 1-7,Uji hedonik 15 panelis,2026-05-16,Sekar,Memenuhi
+1872,BTC-20260514-0340,Kadar air,2.12,%,Oven 105 C,2026-05-14,Intan,Memenuhi
+1873,BTC-20260514-0340,Kadar abu,1.97,%,Tanur 550 C,2026-05-14,Intan,Memenuhi
+1874,BTC-20260514-0340,Bilangan peroksida,2.17,meq O2/kg,Titrasi iodometri,2026-05-14,Yoga,Memenuhi
+1875,BTC-20260514-0340,Angka lempeng total,2.31,log CFU/g,Cawan tuang,2026-05-15,Yoga,Memenuhi
+1876,BTC-20260514-0340,Kapang khamir,0.9,log CFU/g,Cawan sebar,2026-05-14,Rani,Memenuhi
+1877,BTC-20260515-0341,Kadar air,2.49,%,Oven 105 C,2026-05-16,Bagas,Memenuhi
+1878,BTC-20260515-0341,Kadar abu,1.77,%,Tanur 550 C,2026-05-17,Yoga,Memenuhi
+1879,BTC-20260515-0341,Bilangan peroksida,2.0,meq O2/kg,Titrasi iodometri,2026-05-17,Yoga,Memenuhi
+1880,BTC-20260515-0341,Angka lempeng total,3.57,log CFU/g,Cawan tuang,2026-05-17,Sekar,Memenuhi
+1881,BTC-20260515-0341,Kapang khamir,1.96,log CFU/g,Cawan sebar,2026-05-15,Yoga,Memenuhi
+1882,BTC-20260515-0342,Kadar air,84.56,%,Oven 105 C,2026-05-16,Sekar,Memenuhi
+1883,BTC-20260515-0342,Kadar abu,1.9,%,Tanur 550 C,2026-05-15,Sekar,Memenuhi
+1884,BTC-20260515-0342,Bilangan peroksida,1.79,meq O2/kg,Titrasi iodometri,2026-05-16,Sekar,Memenuhi
+1885,BTC-20260515-0342,Angka lempeng total,3.7,log CFU/g,Cawan tuang,2026-05-15,Bagas,Memenuhi
+1886,BTC-20260515-0342,Kapang khamir,0.65,log CFU/g,Cawan sebar,2026-05-16,Yoga,Memenuhi
+1887,BTC-20260515-0343,Kadar air,2.95,%,Oven 105 C,2026-05-15,Rani,Memenuhi
+1888,BTC-20260515-0343,Kadar abu,1.54,%,Tanur 550 C,2026-05-16,Intan,Memenuhi
+1889,BTC-20260515-0343,Bilangan peroksida,1.51,meq O2/kg,Titrasi iodometri,2026-05-16,Sekar,Memenuhi
+1890,BTC-20260515-0343,Angka lempeng total,3.67,log CFU/g,Cawan tuang,2026-05-16,Intan,Memenuhi
+1891,BTC-20260515-0343,Kapang khamir,1.42,log CFU/g,Cawan sebar,2026-05-17,Rani,Memenuhi
+1892,BTC-20260515-0343,Berat bersih,100.43,g,Timbang digital,2026-05-15,Sekar,Memenuhi
+1893,BTC-20260515-0343,Skor hedonik,5.97,skala 1-7,Uji hedonik 15 panelis,2026-05-15,Sekar,Memenuhi
+1894,BTC-20260516-0344,Kadar air,2.34,%,Oven 105 C,2026-05-17,Intan,Memenuhi
+1895,BTC-20260516-0344,Kadar abu,2.09,%,Tanur 550 C,2026-05-17,Bagas,Memenuhi
+1896,BTC-20260516-0344,Bilangan peroksida,1.78,meq O2/kg,Titrasi iodometri,2026-05-17,Intan,Memenuhi
+1897,BTC-20260516-0344,Angka lempeng total,3.1,log CFU/g,Cawan tuang,2026-05-18,Rani,Memenuhi
+1898,BTC-20260516-0344,Kapang khamir,1.55,log CFU/g,Cawan sebar,2026-05-18,Sekar,Memenuhi
+1899,BTC-20260516-0345,Kadar air,85.21,%,Oven 105 C,2026-05-16,Bagas,Memenuhi
+1900,BTC-20260516-0345,Kadar abu,1.66,%,Tanur 550 C,2026-05-16,Yoga,Memenuhi
+1901,BTC-20260516-0345,Bilangan peroksida,1.54,meq O2/kg,Titrasi iodometri,2026-05-18,Rani,Memenuhi
+1902,BTC-20260516-0345,Angka lempeng total,3.1,log CFU/g,Cawan tuang,2026-05-17,Sekar,Memenuhi
+1903,BTC-20260516-0345,Kapang khamir,1.5,log CFU/g,Cawan sebar,2026-05-18,Rani,Memenuhi
+1904,BTC-20260516-0345,Berat bersih,97.84,g,Timbang digital,2026-05-16,Intan,Memenuhi
+1905,BTC-20260516-0345,Skor hedonik,5.49,skala 1-7,Uji hedonik 15 panelis,2026-05-18,Bagas,Memenuhi
+1906,BTC-20260516-0346,Kadar air,2.63,%,Oven 105 C,2026-05-18,Bagas,Memenuhi
+1907,BTC-20260516-0346,Kadar abu,2.28,%,Tanur 550 C,2026-05-18,Intan,Memenuhi
+1908,BTC-20260516-0346,Bilangan peroksida,2.35,meq O2/kg,Titrasi iodometri,2026-05-18,Sekar,Memenuhi
+1909,BTC-20260516-0346,Angka lempeng total,2.08,log CFU/g,Cawan tuang,2026-05-16,Bagas,Memenuhi
+1910,BTC-20260516-0346,Kapang khamir,1.82,log CFU/g,Cawan sebar,2026-05-16,Sekar,Memenuhi
+1911,BTC-20260516-0346,Berat bersih,100.74,g,Timbang digital,2026-05-16,Rani,Memenuhi
+1912,BTC-20260516-0346,Skor hedonik,5.62,skala 1-7,Uji hedonik 15 panelis,2026-05-18,Rani,Memenuhi
+1913,BTC-20260516-0347,Kadar air,2.3,%,Oven 105 C,2026-05-17,Yoga,Memenuhi
+1914,BTC-20260516-0347,Kadar abu,1.91,%,Tanur 550 C,2026-05-16,Rani,Memenuhi
+1915,BTC-20260516-0347,Bilangan peroksida,1.63,meq O2/kg,Titrasi iodometri,2026-05-17,Yoga,Memenuhi
+1916,BTC-20260516-0347,Angka lempeng total,3.76,log CFU/g,Cawan tuang,2026-05-17,Rani,Memenuhi
+1917,BTC-20260516-0347,Kapang khamir,1.33,log CFU/g,Cawan sebar,2026-05-16,Rani,Memenuhi
+1918,BTC-20260518-0348,Kadar air,87.51,%,Oven 105 C,2026-05-20,Yoga,Memenuhi
+1919,BTC-20260518-0348,Kadar abu,1.86,%,Tanur 550 C,2026-05-19,Sekar,Memenuhi
+1920,BTC-20260518-0348,Bilangan peroksida,1.32,meq O2/kg,Titrasi iodometri,2026-05-20,Bagas,Memenuhi
+1921,BTC-20260518-0348,Angka lempeng total,3.54,log CFU/g,Cawan tuang,2026-05-20,Rani,Memenuhi
+1922,BTC-20260518-0348,Kapang khamir,2.14,log CFU/g,Cawan sebar,2026-05-18,Sekar,Memenuhi
+1923,BTC-20260518-0349,Kadar air,2.01,%,Oven 105 C,2026-05-20,Intan,Memenuhi
+1924,BTC-20260518-0349,Kadar abu,1.57,%,Tanur 550 C,2026-05-18,Yoga,Memenuhi
+1925,BTC-20260518-0349,Bilangan peroksida,2.02,meq O2/kg,Titrasi iodometri,2026-05-18,Sekar,Memenuhi
+1926,BTC-20260518-0349,Angka lempeng total,2.84,log CFU/g,Cawan tuang,2026-05-18,Intan,Memenuhi
+1927,BTC-20260518-0349,Kapang khamir,2.21,log CFU/g,Cawan sebar,2026-05-20,Yoga,Memenuhi
+1928,BTC-20260518-0349,Berat bersih,100.6,g,Timbang digital,2026-05-20,Intan,Memenuhi
+1929,BTC-20260518-0349,Skor hedonik,6.33,skala 1-7,Uji hedonik 15 panelis,2026-05-18,Sekar,Memenuhi
+1930,BTC-20260518-0350,Kadar air,2.3,%,Oven 105 C,2026-05-19,Intan,Memenuhi
+1931,BTC-20260518-0350,Kadar abu,2.02,%,Tanur 550 C,2026-05-18,Bagas,Memenuhi
+1932,BTC-20260518-0350,Bilangan peroksida,2.01,meq O2/kg,Titrasi iodometri,2026-05-18,Bagas,Memenuhi
+1933,BTC-20260518-0350,Angka lempeng total,2.82,log CFU/g,Cawan tuang,2026-05-18,Bagas,Memenuhi
+1934,BTC-20260518-0350,Kapang khamir,1.98,log CFU/g,Cawan sebar,2026-05-20,Intan,Memenuhi
+1935,BTC-20260518-0350,Berat bersih,100.26,g,Timbang digital,2026-05-19,Yoga,Memenuhi
+1936,BTC-20260518-0350,Skor hedonik,5.72,skala 1-7,Uji hedonik 15 panelis,2026-05-19,Bagas,Memenuhi
+1937,BTC-20260519-0351,Kadar air,1.83,%,Oven 105 C,2026-05-20,Rani,Memenuhi
+1938,BTC-20260519-0351,Kadar abu,1.57,%,Tanur 550 C,2026-05-19,Yoga,Memenuhi
+1939,BTC-20260519-0351,Bilangan peroksida,2.64,meq O2/kg,Titrasi iodometri,2026-05-20,Bagas,Memenuhi
+1940,BTC-20260519-0351,Angka lempeng total,3.71,log CFU/g,Cawan tuang,2026-05-20,Rani,Memenuhi
+1941,BTC-20260519-0351,Kapang khamir,1.92,log CFU/g,Cawan sebar,2026-05-20,Bagas,Memenuhi
+1942,BTC-20260519-0352,Kadar air,87.02,%,Oven 105 C,2026-05-20,Yoga,Memenuhi
+1943,BTC-20260519-0352,Kadar abu,2.21,%,Tanur 550 C,2026-05-19,Yoga,Memenuhi
+1944,BTC-20260519-0352,Bilangan peroksida,1.54,meq O2/kg,Titrasi iodometri,2026-05-20,Sekar,Memenuhi
+1945,BTC-20260519-0352,Angka lempeng total,2.66,log CFU/g,Cawan tuang,2026-05-19,Bagas,Memenuhi
+1946,BTC-20260519-0352,Kapang khamir,2.24,log CFU/g,Cawan sebar,2026-05-19,Sekar,Memenuhi
+1947,BTC-20260519-0353,Kadar air,2.43,%,Oven 105 C,2026-05-21,Sekar,Memenuhi
+1948,BTC-20260519-0353,Kadar abu,1.87,%,Tanur 550 C,2026-05-19,Rani,Memenuhi
+1949,BTC-20260519-0353,Bilangan peroksida,1.79,meq O2/kg,Titrasi iodometri,2026-05-20,Rani,Memenuhi
+1950,BTC-20260519-0353,Angka lempeng total,3.23,log CFU/g,Cawan tuang,2026-05-19,Intan,Memenuhi
+1951,BTC-20260519-0353,Kapang khamir,2.18,log CFU/g,Cawan sebar,2026-05-19,Yoga,Memenuhi
+1952,BTC-20260520-0354,Kadar air,89.04,%,Oven 105 C,2026-05-22,Yoga,Memenuhi
+1953,BTC-20260520-0354,Kadar abu,1.9,%,Tanur 550 C,2026-05-20,Yoga,Memenuhi
+1954,BTC-20260520-0354,Bilangan peroksida,1.9,meq O2/kg,Titrasi iodometri,2026-05-20,Sekar,Memenuhi
+1955,BTC-20260520-0354,Angka lempeng total,3.61,log CFU/g,Cawan tuang,2026-05-21,Intan,Memenuhi
+1956,BTC-20260520-0354,Kapang khamir,2.02,log CFU/g,Cawan sebar,2026-05-22,Rani,Memenuhi
+1957,BTC-20260520-0355,Kadar air,1.88,%,Oven 105 C,2026-05-22,Bagas,Memenuhi
+1958,BTC-20260520-0355,Kadar abu,1.78,%,Tanur 550 C,2026-05-20,Sekar,Memenuhi
+1959,BTC-20260520-0355,Bilangan peroksida,3.15,meq O2/kg,Titrasi iodometri,2026-05-21,Sekar,Memenuhi
+1960,BTC-20260520-0355,Angka lempeng total,2.27,log CFU/g,Cawan tuang,2026-05-20,Sekar,Memenuhi
+1961,BTC-20260520-0355,Kapang khamir,0.84,log CFU/g,Cawan sebar,2026-05-21,Yoga,Memenuhi
+1962,BTC-20260520-0355,Berat bersih,100.36,g,Timbang digital,2026-05-21,Rani,Memenuhi
+1963,BTC-20260520-0355,Skor hedonik,4.87,skala 1-7,Uji hedonik 15 panelis,2026-05-22,Yoga,Memenuhi
+1964,BTC-20260520-0356,Kadar air,10.95,%,Oven 105 C,2026-05-21,Intan,Memenuhi
+1965,BTC-20260520-0356,Kadar abu,1.9,%,Tanur 550 C,2026-05-22,Yoga,Memenuhi
+1966,BTC-20260520-0356,Bilangan peroksida,1.27,meq O2/kg,Titrasi iodometri,2026-05-21,Sekar,Memenuhi
+1967,BTC-20260520-0356,Angka lempeng total,4.1,log CFU/g,Cawan tuang,2026-05-20,Intan,Memenuhi
+1968,BTC-20260520-0356,Kapang khamir,1.31,log CFU/g,Cawan sebar,2026-05-22,Yoga,Memenuhi
+1969,BTC-20260521-0357,Kadar air,10.32,%,Oven 105 C,2026-05-21,Intan,Memenuhi
+1970,BTC-20260521-0357,Kadar abu,2.07,%,Tanur 550 C,2026-05-22,Bagas,Memenuhi
+1971,BTC-20260521-0357,Bilangan peroksida,1.83,meq O2/kg,Titrasi iodometri,2026-05-21,Yoga,Memenuhi
+1972,BTC-20260521-0357,Angka lempeng total,3.57,log CFU/g,Cawan tuang,2026-05-21,Sekar,Memenuhi
+1973,BTC-20260521-0357,Kapang khamir,2.24,log CFU/g,Cawan sebar,2026-05-21,Sekar,Memenuhi
+1974,BTC-20260521-0358,Kadar air,87.24,%,Oven 105 C,2026-05-23,Rani,Memenuhi
+1975,BTC-20260521-0358,Kadar abu,1.87,%,Tanur 550 C,2026-05-21,Yoga,Memenuhi
+1976,BTC-20260521-0358,Bilangan peroksida,1.78,meq O2/kg,Titrasi iodometri,2026-05-23,Rani,Memenuhi
+1977,BTC-20260521-0358,Angka lempeng total,3.74,log CFU/g,Cawan tuang,2026-05-21,Intan,Memenuhi
+1978,BTC-20260521-0358,Kapang khamir,1.97,log CFU/g,Cawan sebar,2026-05-22,Yoga,Memenuhi
+1979,BTC-20260521-0358,Berat bersih,98.83,g,Timbang digital,2026-05-22,Sekar,Memenuhi
+1980,BTC-20260521-0358,Skor hedonik,5.73,skala 1-7,Uji hedonik 15 panelis,2026-05-22,Bagas,Memenuhi
+1981,BTC-20260522-0359,Kadar air,1.98,%,Oven 105 C,2026-05-24,Bagas,Memenuhi
+1982,BTC-20260522-0359,Kadar abu,1.59,%,Tanur 550 C,2026-05-22,Sekar,Memenuhi
+1983,BTC-20260522-0359,Bilangan peroksida,1.56,meq O2/kg,Titrasi iodometri,2026-05-24,Intan,Memenuhi
+1984,BTC-20260522-0359,Angka lempeng total,2.81,log CFU/g,Cawan tuang,2026-05-23,Sekar,Memenuhi
+1985,BTC-20260522-0359,Kapang khamir,1.63,log CFU/g,Cawan sebar,2026-05-23,Yoga,Memenuhi
+1986,BTC-20260522-0360,Kadar air,2.7,%,Oven 105 C,2026-05-22,Bagas,Memenuhi
+1987,BTC-20260522-0360,Kadar abu,2.06,%,Tanur 550 C,2026-05-23,Sekar,Memenuhi
+1988,BTC-20260522-0360,Bilangan peroksida,1.91,meq O2/kg,Titrasi iodometri,2026-05-24,Sekar,Memenuhi
+1989,BTC-20260522-0360,Angka lempeng total,3.95,log CFU/g,Cawan tuang,2026-05-24,Bagas,Memenuhi
+1990,BTC-20260522-0360,Kapang khamir,1.96,log CFU/g,Cawan sebar,2026-05-23,Rani,Memenuhi
+1991,BTC-20260523-0361,Kadar air,2.79,%,Oven 105 C,2026-05-23,Rani,Memenuhi
+1992,BTC-20260523-0361,Kadar abu,1.47,%,Tanur 550 C,2026-05-23,Yoga,Memenuhi
+1993,BTC-20260523-0361,Bilangan peroksida,1.7,meq O2/kg,Titrasi iodometri,2026-05-25,Yoga,Memenuhi
+1994,BTC-20260523-0361,Angka lempeng total,3.56,log CFU/g,Cawan tuang,2026-05-25,Yoga,Memenuhi
+1995,BTC-20260523-0361,Kapang khamir,2.47,log CFU/g,Cawan sebar,2026-05-24,Yoga,Memenuhi
+1996,BTC-20260523-0362,Kadar air,12.06,%,Oven 105 C,2026-05-24,Bagas,Memenuhi
+1997,BTC-20260523-0362,Kadar abu,1.82,%,Tanur 550 C,2026-05-24,Intan,Memenuhi
+1998,BTC-20260523-0362,Bilangan peroksida,2.35,meq O2/kg,Titrasi iodometri,2026-05-24,Yoga,Memenuhi
+1999,BTC-20260523-0362,Angka lempeng total,4.12,log CFU/g,Cawan tuang,2026-05-24,Bagas,Memenuhi
+2000,BTC-20260523-0362,Kapang khamir,2.43,log CFU/g,Cawan sebar,2026-05-23,Yoga,Memenuhi
+2001,BTC-20260523-0363,Kadar air,2.8,%,Oven 105 C,2026-05-25,Sekar,Memenuhi
+2002,BTC-20260523-0363,Kadar abu,2.08,%,Tanur 550 C,2026-05-24,Sekar,Memenuhi
+2003,BTC-20260523-0363,Bilangan peroksida,1.3,meq O2/kg,Titrasi iodometri,2026-05-23,Rani,Memenuhi
+2004,BTC-20260523-0363,Angka lempeng total,3.59,log CFU/g,Cawan tuang,2026-05-23,Sekar,Memenuhi
+2005,BTC-20260523-0363,Kapang khamir,2.16,log CFU/g,Cawan sebar,2026-05-23,Rani,Memenuhi
+2006,BTC-20260525-0364,Kadar air,86.64,%,Oven 105 C,2026-05-26,Rani,Memenuhi
+2007,BTC-20260525-0364,Kadar abu,1.84,%,Tanur 550 C,2026-05-26,Rani,Memenuhi
+2008,BTC-20260525-0364,Bilangan peroksida,2.16,meq O2/kg,Titrasi iodometri,2026-05-25,Rani,Memenuhi
+2009,BTC-20260525-0364,Angka lempeng total,2.94,log CFU/g,Cawan tuang,2026-05-27,Intan,Memenuhi
+2010,BTC-20260525-0364,Kapang khamir,1.5,log CFU/g,Cawan sebar,2026-05-25,Intan,Memenuhi
+2011,BTC-20260525-0365,Kadar air,2.91,%,Oven 105 C,2026-05-25,Rani,Memenuhi
+2012,BTC-20260525-0365,Kadar abu,1.77,%,Tanur 550 C,2026-05-27,Intan,Memenuhi
+2013,BTC-20260525-0365,Bilangan peroksida,1.0,meq O2/kg,Titrasi iodometri,2026-05-25,Rani,Memenuhi
+2014,BTC-20260525-0365,Angka lempeng total,2.38,log CFU/g,Cawan tuang,2026-05-26,Yoga,Memenuhi
+2015,BTC-20260525-0365,Kapang khamir,1.73,log CFU/g,Cawan sebar,2026-05-26,Rani,Memenuhi
+2016,BTC-20260525-0366,Kadar air,86.61,%,Oven 105 C,2026-05-25,Rani,Memenuhi
+2017,BTC-20260525-0366,Kadar abu,1.79,%,Tanur 550 C,2026-05-25,Intan,Memenuhi
+2018,BTC-20260525-0366,Bilangan peroksida,1.31,meq O2/kg,Titrasi iodometri,2026-05-27,Bagas,Memenuhi
+2019,BTC-20260525-0366,Angka lempeng total,3.42,log CFU/g,Cawan tuang,2026-05-25,Intan,Memenuhi
+2020,BTC-20260525-0366,Kapang khamir,1.65,log CFU/g,Cawan sebar,2026-05-26,Rani,Memenuhi
+2021,BTC-20260525-0366,Berat bersih,101.06,g,Timbang digital,2026-05-25,Intan,Memenuhi
+2022,BTC-20260525-0366,Skor hedonik,5.01,skala 1-7,Uji hedonik 15 panelis,2026-05-26,Rani,Memenuhi
+2023,BTC-20260526-0367,Kadar air,2.52,%,Oven 105 C,2026-05-27,Yoga,Memenuhi
+2024,BTC-20260526-0367,Kadar abu,1.61,%,Tanur 550 C,2026-05-28,Rani,Memenuhi
+2025,BTC-20260526-0367,Bilangan peroksida,1.54,meq O2/kg,Titrasi iodometri,2026-05-26,Rani,Memenuhi
+2026,BTC-20260526-0367,Angka lempeng total,3.76,log CFU/g,Cawan tuang,2026-05-28,Yoga,Memenuhi
+2027,BTC-20260526-0367,Kapang khamir,1.64,log CFU/g,Cawan sebar,2026-05-26,Bagas,Memenuhi
+2028,BTC-20260526-0368,Kadar air,87.14,%,Oven 105 C,2026-05-26,Yoga,Memenuhi
+2029,BTC-20260526-0368,Kadar abu,1.84,%,Tanur 550 C,2026-05-28,Rani,Memenuhi
+2030,BTC-20260526-0368,Bilangan peroksida,2.34,meq O2/kg,Titrasi iodometri,2026-05-26,Sekar,Memenuhi
+2031,BTC-20260526-0368,Angka lempeng total,1.43,log CFU/g,Cawan tuang,2026-05-28,Rani,Memenuhi
+2032,BTC-20260526-0368,Kapang khamir,1.61,log CFU/g,Cawan sebar,2026-05-26,Bagas,Memenuhi
+2033,BTC-20260526-0369,Kadar air,1.99,%,Oven 105 C,2026-05-27,Rani,Memenuhi
+2034,BTC-20260526-0369,Kadar abu,2.25,%,Tanur 550 C,2026-05-26,Rani,Memenuhi
+2035,BTC-20260526-0369,Bilangan peroksida,0.3,meq O2/kg,Titrasi iodometri,2026-05-28,Rani,Memenuhi
+2036,BTC-20260526-0369,Angka lempeng total,2.8,log CFU/g,Cawan tuang,2026-05-26,Sekar,Memenuhi
+2037,BTC-20260526-0369,Kapang khamir,3.01,log CFU/g,Cawan sebar,2026-05-28,Sekar,Tidak memenuhi
+2038,BTC-20260526-0370,Kadar air,12.15,%,Oven 105 C,2026-05-26,Intan,Memenuhi
+2039,BTC-20260526-0370,Kadar abu,1.97,%,Tanur 550 C,2026-05-28,Rani,Memenuhi
+2040,BTC-20260526-0370,Bilangan peroksida,1.14,meq O2/kg,Titrasi iodometri,2026-05-28,Sekar,Memenuhi
+2041,BTC-20260526-0370,Angka lempeng total,2.45,log CFU/g,Cawan tuang,2026-05-26,Intan,Memenuhi
+2042,BTC-20260526-0370,Kapang khamir,1.67,log CFU/g,Cawan sebar,2026-05-26,Intan,Memenuhi
+2043,BTC-20260526-0370,Berat bersih,100.4,g,Timbang digital,2026-05-27,Intan,Memenuhi
+2044,BTC-20260526-0370,Skor hedonik,6.14,skala 1-7,Uji hedonik 15 panelis,2026-05-28,Rani,Memenuhi
+2045,BTC-20260527-0371,Kadar air,2.06,%,Oven 105 C,2026-05-28,Sekar,Memenuhi
+2046,BTC-20260527-0371,Kadar abu,1.82,%,Tanur 550 C,2026-05-28,Intan,Memenuhi
+2047,BTC-20260527-0371,Bilangan peroksida,2.37,meq O2/kg,Titrasi iodometri,2026-05-27,Yoga,Memenuhi
+2048,BTC-20260527-0371,Angka lempeng total,2.54,log CFU/g,Cawan tuang,2026-05-29,Yoga,Memenuhi
+2049,BTC-20260527-0371,Kapang khamir,1.82,log CFU/g,Cawan sebar,2026-05-29,Bagas,Memenuhi
+2050,BTC-20260527-0372,Kadar air,11.13,%,Oven 105 C,2026-05-29,Bagas,Memenuhi
+2051,BTC-20260527-0372,Kadar abu,2.01,%,Tanur 550 C,2026-05-27,Yoga,Memenuhi
+2052,BTC-20260527-0372,Bilangan peroksida,1.78,meq O2/kg,Titrasi iodometri,2026-05-28,Intan,Memenuhi
+2053,BTC-20260527-0372,Angka lempeng total,3.69,log CFU/g,Cawan tuang,2026-05-27,Bagas,Memenuhi
+2054,BTC-20260527-0372,Kapang khamir,2.45,log CFU/g,Cawan sebar,2026-05-27,Bagas,Memenuhi
+2055,BTC-20260527-0373,Kadar air,86.75,%,Oven 105 C,2026-05-29,Rani,Memenuhi
+2056,BTC-20260527-0373,Kadar abu,1.53,%,Tanur 550 C,2026-05-27,Yoga,Memenuhi
+2057,BTC-20260527-0373,Bilangan peroksida,2.09,meq O2/kg,Titrasi iodometri,2026-05-29,Sekar,Memenuhi
+2058,BTC-20260527-0373,Angka lempeng total,2.04,log CFU/g,Cawan tuang,2026-05-29,Rani,Memenuhi
+2059,BTC-20260527-0373,Kapang khamir,2.27,log CFU/g,Cawan sebar,2026-05-28,Rani,Memenuhi
+2060,BTC-20260528-0374,Kadar air,2.76,%,Oven 105 C,2026-05-29,Bagas,Memenuhi
+2061,BTC-20260528-0374,Kadar abu,2.22,%,Tanur 550 C,2026-05-30,Sekar,Memenuhi
+2062,BTC-20260528-0374,Bilangan peroksida,2.31,meq O2/kg,Titrasi iodometri,2026-05-28,Rani,Memenuhi
+2063,BTC-20260528-0374,Angka lempeng total,2.79,log CFU/g,Cawan tuang,2026-05-28,Sekar,Memenuhi
+2064,BTC-20260528-0374,Kapang khamir,2.3,log CFU/g,Cawan sebar,2026-05-30,Rani,Memenuhi
+2065,BTC-20260528-0375,Kadar air,85.08,%,Oven 105 C,2026-05-28,Intan,Memenuhi
+2066,BTC-20260528-0375,Kadar abu,2.08,%,Tanur 550 C,2026-05-28,Intan,Memenuhi
+2067,BTC-20260528-0375,Bilangan peroksida,0.9,meq O2/kg,Titrasi iodometri,2026-05-29,Sekar,Memenuhi
+2068,BTC-20260528-0375,Angka lempeng total,3.33,log CFU/g,Cawan tuang,2026-05-28,Bagas,Memenuhi
+2069,BTC-20260528-0375,Kapang khamir,1.25,log CFU/g,Cawan sebar,2026-05-30,Sekar,Memenuhi
+2070,BTC-20260528-0376,Kadar air,2.61,%,Oven 105 C,2026-05-30,Rani,Memenuhi
+2071,BTC-20260528-0376,Kadar abu,1.94,%,Tanur 550 C,2026-05-28,Sekar,Memenuhi
+2072,BTC-20260528-0376,Bilangan peroksida,2.75,meq O2/kg,Titrasi iodometri,2026-05-29,Yoga,Memenuhi
+2073,BTC-20260528-0376,Angka lempeng total,3.3,log CFU/g,Cawan tuang,2026-05-30,Rani,Memenuhi
+2074,BTC-20260528-0376,Kapang khamir,1.99,log CFU/g,Cawan sebar,2026-05-29,Rani,Memenuhi
+2075,BTC-20260528-0376,Berat bersih,100.6,g,Timbang digital,2026-05-30,Sekar,Memenuhi
+2076,BTC-20260528-0376,Skor hedonik,5.32,skala 1-7,Uji hedonik 15 panelis,2026-05-30,Yoga,Memenuhi
+2077,BTC-20260529-0377,Kadar air,10.24,%,Oven 105 C,2026-05-31,Rani,Memenuhi
+2078,BTC-20260529-0377,Kadar abu,1.46,%,Tanur 550 C,2026-05-29,Intan,Memenuhi
+2079,BTC-20260529-0377,Bilangan peroksida,1.92,meq O2/kg,Titrasi iodometri,2026-05-30,Sekar,Memenuhi
+2080,BTC-20260529-0377,Angka lempeng total,2.72,log CFU/g,Cawan tuang,2026-05-29,Yoga,Memenuhi
+2081,BTC-20260529-0377,Kapang khamir,1.8,log CFU/g,Cawan sebar,2026-05-30,Yoga,Memenuhi
+2082,BTC-20260529-0377,Berat bersih,100.56,g,Timbang digital,2026-05-30,Intan,Memenuhi
+2083,BTC-20260529-0377,Skor hedonik,4.59,skala 1-7,Uji hedonik 15 panelis,2026-05-31,Bagas,Memenuhi
+2084,BTC-20260529-0378,Kadar air,83.58,%,Oven 105 C,2026-05-29,Intan,Memenuhi
+2085,BTC-20260529-0378,Kadar abu,1.88,%,Tanur 550 C,2026-05-30,Rani,Memenuhi
+2086,BTC-20260529-0378,Bilangan peroksida,1.37,meq O2/kg,Titrasi iodometri,2026-05-29,Sekar,Memenuhi
+2087,BTC-20260529-0378,Angka lempeng total,4.05,log CFU/g,Cawan tuang,2026-05-30,Rani,Memenuhi
+2088,BTC-20260529-0378,Kapang khamir,1.93,log CFU/g,Cawan sebar,2026-05-30,Rani,Memenuhi
+2089,BTC-20260529-0379,Kadar air,2.74,%,Oven 105 C,2026-05-30,Rani,Memenuhi
+2090,BTC-20260529-0379,Kadar abu,1.86,%,Tanur 550 C,2026-05-29,Bagas,Memenuhi
+2091,BTC-20260529-0379,Bilangan peroksida,1.46,meq O2/kg,Titrasi iodometri,2026-05-31,Sekar,Memenuhi
+2092,BTC-20260529-0379,Angka lempeng total,2.65,log CFU/g,Cawan tuang,2026-05-31,Sekar,Memenuhi
+2093,BTC-20260529-0379,Kapang khamir,0.97,log CFU/g,Cawan sebar,2026-05-30,Intan,Memenuhi
+2094,BTC-20260529-0380,Kadar air,2.27,%,Oven 105 C,2026-05-29,Intan,Memenuhi
+2095,BTC-20260529-0380,Kadar abu,1.59,%,Tanur 550 C,2026-05-30,Yoga,Memenuhi
+2096,BTC-20260529-0380,Bilangan peroksida,0.56,meq O2/kg,Titrasi iodometri,2026-05-29,Intan,Memenuhi
+2097,BTC-20260529-0380,Angka lempeng total,3.29,log CFU/g,Cawan tuang,2026-05-30,Bagas,Memenuhi
+2098,BTC-20260529-0380,Kapang khamir,1.13,log CFU/g,Cawan sebar,2026-05-29,Bagas,Memenuhi
+2099,BTC-20260530-0381,Kadar air,86.15,%,Oven 105 C,2026-05-31,Rani,Memenuhi
+2100,BTC-20260530-0381,Kadar abu,1.83,%,Tanur 550 C,2026-05-31,Rani,Memenuhi
+2101,BTC-20260530-0381,Bilangan peroksida,2.23,meq O2/kg,Titrasi iodometri,2026-06-01,Rani,Memenuhi
+2102,BTC-20260530-0381,Angka lempeng total,3.27,log CFU/g,Cawan tuang,2026-05-30,Bagas,Memenuhi
+2103,BTC-20260530-0381,Kapang khamir,1.72,log CFU/g,Cawan sebar,2026-05-30,Intan,Memenuhi
+2104,BTC-20260530-0382,Kadar air,10.43,%,Oven 105 C,2026-05-30,Rani,Memenuhi
+2105,BTC-20260530-0382,Kadar abu,2.04,%,Tanur 550 C,2026-05-30,Intan,Memenuhi
+2106,BTC-20260530-0382,Bilangan peroksida,2.36,meq O2/kg,Titrasi iodometri,2026-05-31,Yoga,Memenuhi
+2107,BTC-20260530-0382,Angka lempeng total,2.75,log CFU/g,Cawan tuang,2026-05-31,Sekar,Memenuhi
+2108,BTC-20260530-0382,Kapang khamir,1.36,log CFU/g,Cawan sebar,2026-05-30,Intan,Memenuhi
+2109,BTC-20260601-0383,Kadar air,2.05,%,Oven 105 C,2026-06-02,Bagas,Memenuhi
+2110,BTC-20260601-0383,Kadar abu,2.23,%,Tanur 550 C,2026-06-02,Rani,Memenuhi
+2111,BTC-20260601-0383,Bilangan peroksida,2.57,meq O2/kg,Titrasi iodometri,2026-06-02,Yoga,Memenuhi
+2112,BTC-20260601-0383,Angka lempeng total,3.57,log CFU/g,Cawan tuang,2026-06-03,Yoga,Memenuhi
+2113,BTC-20260601-0383,Kapang khamir,2.01,log CFU/g,Cawan sebar,2026-06-03,Yoga,Memenuhi
+2114,BTC-20260601-0384,Kadar air,2.07,%,Oven 105 C,2026-06-03,Rani,Memenuhi
+2115,BTC-20260601-0384,Kadar abu,2.39,%,Tanur 550 C,2026-06-03,Bagas,Memenuhi
+2116,BTC-20260601-0384,Bilangan peroksida,1.46,meq O2/kg,Titrasi iodometri,2026-06-02,Intan,Memenuhi
+2117,BTC-20260601-0384,Angka lempeng total,2.16,log CFU/g,Cawan tuang,2026-06-01,Sekar,Memenuhi
+2118,BTC-20260601-0384,Kapang khamir,1.39,log CFU/g,Cawan sebar,2026-06-01,Rani,Memenuhi
+2119,BTC-20260602-0385,Kadar air,2.95,%,Oven 105 C,2026-06-03,Bagas,Memenuhi
+2120,BTC-20260602-0385,Kadar abu,1.75,%,Tanur 550 C,2026-06-04,Intan,Memenuhi
+2121,BTC-20260602-0385,Bilangan peroksida,2.7,meq O2/kg,Titrasi iodometri,2026-06-03,Intan,Memenuhi
+2122,BTC-20260602-0385,Angka lempeng total,2.98,log CFU/g,Cawan tuang,2026-06-04,Sekar,Memenuhi
+2123,BTC-20260602-0385,Kapang khamir,1.9,log CFU/g,Cawan sebar,2026-06-02,Bagas,Memenuhi
+2124,BTC-20260602-0385,Berat bersih,99.14,g,Timbang digital,2026-06-02,Intan,Memenuhi
+2125,BTC-20260602-0385,Skor hedonik,6.05,skala 1-7,Uji hedonik 15 panelis,2026-06-04,Yoga,Memenuhi
+2126,BTC-20260602-0386,Kadar air,2.26,%,Oven 105 C,2026-06-03,Sekar,Memenuhi
+2127,BTC-20260602-0386,Kadar abu,1.89,%,Tanur 550 C,2026-06-02,Yoga,Memenuhi
+2128,BTC-20260602-0386,Bilangan peroksida,2.33,meq O2/kg,Titrasi iodometri,2026-06-04,Rani,Memenuhi
+2129,BTC-20260602-0386,Angka lempeng total,3.46,log CFU/g,Cawan tuang,2026-06-04,Sekar,Memenuhi
+2130,BTC-20260602-0386,Kapang khamir,1.83,log CFU/g,Cawan sebar,2026-06-04,Rani,Memenuhi
+2131,BTC-20260602-0387,Kadar air,85.33,%,Oven 105 C,2026-06-02,Rani,Memenuhi
+2132,BTC-20260602-0387,Kadar abu,1.83,%,Tanur 550 C,2026-06-04,Bagas,Memenuhi
+2133,BTC-20260602-0387,Bilangan peroksida,1.7,meq O2/kg,Titrasi iodometri,2026-06-04,Sekar,Memenuhi
+2134,BTC-20260602-0387,Angka lempeng total,2.65,log CFU/g,Cawan tuang,2026-06-02,Intan,Memenuhi
+2135,BTC-20260602-0387,Kapang khamir,2.07,log CFU/g,Cawan sebar,2026-06-04,Bagas,Memenuhi
+2136,BTC-20260602-0387,Berat bersih,100.93,g,Timbang digital,2026-06-03,Intan,Memenuhi
+2137,BTC-20260602-0387,Skor hedonik,6.45,skala 1-7,Uji hedonik 15 panelis,2026-06-03,Intan,Memenuhi
+2138,BTC-20260602-0388,Kadar air,10.73,%,Oven 105 C,2026-06-02,Bagas,Memenuhi
+2139,BTC-20260602-0388,Kadar abu,1.72,%,Tanur 550 C,2026-06-04,Sekar,Memenuhi
+2140,BTC-20260602-0388,Bilangan peroksida,2.8,meq O2/kg,Titrasi iodometri,2026-06-02,Sekar,Memenuhi
+2141,BTC-20260602-0388,Angka lempeng total,3.98,log CFU/g,Cawan tuang,2026-06-02,Yoga,Memenuhi
+2142,BTC-20260602-0388,Kapang khamir,2.42,log CFU/g,Cawan sebar,2026-06-03,Yoga,Memenuhi
+2143,BTC-20260603-0389,Kadar air,88.44,%,Oven 105 C,2026-06-03,Intan,Memenuhi
+2144,BTC-20260603-0389,Kadar abu,1.85,%,Tanur 550 C,2026-06-04,Bagas,Memenuhi
+2145,BTC-20260603-0389,Bilangan peroksida,0.89,meq O2/kg,Titrasi iodometri,2026-06-04,Rani,Memenuhi
+2146,BTC-20260603-0389,Angka lempeng total,3.28,log CFU/g,Cawan tuang,2026-06-03,Yoga,Memenuhi
+2147,BTC-20260603-0389,Kapang khamir,1.44,log CFU/g,Cawan sebar,2026-06-03,Intan,Memenuhi
+2148,BTC-20260603-0390,Kadar air,87.22,%,Oven 105 C,2026-06-04,Bagas,Memenuhi
+2149,BTC-20260603-0390,Kadar abu,1.96,%,Tanur 550 C,2026-06-04,Intan,Memenuhi
+2150,BTC-20260603-0390,Bilangan peroksida,2.54,meq O2/kg,Titrasi iodometri,2026-06-04,Intan,Memenuhi
+2151,BTC-20260603-0390,Angka lempeng total,2.82,log CFU/g,Cawan tuang,2026-06-04,Yoga,Memenuhi
+2152,BTC-20260603-0390,Kapang khamir,1.53,log CFU/g,Cawan sebar,2026-06-03,Sekar,Memenuhi
+2153,BTC-20260603-0390,Berat bersih,100.24,g,Timbang digital,2026-06-05,Bagas,Memenuhi
+2154,BTC-20260603-0390,Skor hedonik,5.42,skala 1-7,Uji hedonik 15 panelis,2026-06-05,Rani,Memenuhi

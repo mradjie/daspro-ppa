@@ -1,0 +1,9 @@
+kode_produk,nama_produk,kategori,bahan_baku_utama,jenis_kemasan,berat_bersih_g,harga_jual_rp,tanggal_luncur
+PRD-01,Keripik Nangka Vakum,Keripik buah,Nangka,pouch,100,28000,2021-03-01
+PRD-02,Keripik Salak Vakum,Keripik buah,Salak Pondoh,pouch,100,26000,2021-03-01
+PRD-03,Keripik Nanas Vakum,Keripik buah,Nanas,pouch,100,25000,2022-08-15
+PRD-04,Tepung Mocaf Premium,Tepung,Singkong,kemasan,500,15000,2020-01-10
+PRD-05,Tepung Sukun,Tepung,Sukun,kemasan,500,18000,2023-02-01
+PRD-06,Sari Buah Markisa,Minuman,Markisa,botol,250,12000,2022-05-20
+PRD-07,Sirup Rosella,Minuman,Rosella,botol,500,32000,2023-09-01
+PRD-08,Bubuk Cabai Kering,Bumbu,Cabai Merah,pouch,50,14000,2021-11-11

@@ -1,0 +1,6 @@
+parameter,metode,satuan
+kadar_air_persen,Oven 105 C (AOAC 925.10),% bb
+kadar_abu_persen,Tanur 550 C (AOAC 923.03),% bb
+kadar_protein_persen,Kjeldahl (AOAC 960.52),% bb
+kadar_lemak_persen,Soxhlet (AOAC 920.39),% bb
+serat_kasar_persen,Gravimetri serat kasar,% bb

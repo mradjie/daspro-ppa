@@ -1,0 +1,7 @@
+kode_formula,mocaf_persen,sukun_persen,gula_persen,lemak_persen,keterangan
+F1,100,0,12.0,8.0,Kontrol mocaf penuh
+F2,80,20,12.0,8.0,Substitusi sukun 20%
+F3,60,40,12.0,8.0,Substitusi sukun 40%
+F4,40,60,12.0,8.0,Substitusi sukun 60%
+F5,20,80,12.0,8.0,Substitusi sukun 80%
+F6,0,100,12.0,8.0,Kontrol sukun penuh

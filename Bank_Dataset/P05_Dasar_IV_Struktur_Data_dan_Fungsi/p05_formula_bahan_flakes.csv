@@ -1,0 +1,43 @@
+nama_bahan,kode_formula,jumlah_per_100kg_adonan,harga_bahan_rp_per_kg,satuan
+Tepung mocaf,F1,100.0,12500,kg
+Tepung sukun,F1,0.0,21000,kg
+Gula halus,F1,12.0,16500,kg
+Minyak nabati,F1,8.0,19500,kg
+Garam,F1,1.2,8000,kg
+Susu bubuk,F1,5.0,68000,kg
+Perisa vanila,F1,0.3,240000,kg
+Tepung mocaf,F2,80.0,12500,kg
+Tepung sukun,F2,20.0,21000,kg
+Gula halus,F2,12.0,16500,kg
+Minyak nabati,F2,8.0,19500,kg
+Garam,F2,1.2,8000,kg
+Susu bubuk,F2,5.0,68000,kg
+Perisa vanila,F2,0.3,240000,kg
+Tepung mocaf,F3,60.0,12500,kg
+Tepung sukun,F3,40.0,21000,kg
+Gula halus,F3,12.0,16500,kg
+Minyak nabati,F3,8.0,19500,kg
+Garam,F3,1.2,8000,kg
+Susu bubuk,F3,5.0,68000,kg
+Perisa vanila,F3,0.3,240000,kg
+Tepung mocaf,F4,40.0,12500,kg
+Tepung sukun,F4,60.0,21000,kg
+Gula halus,F4,12.0,16500,kg
+Minyak nabati,F4,8.0,19500,kg
+Garam,F4,1.2,8000,kg
+Susu bubuk,F4,5.0,68000,kg
+Perisa vanila,F4,0.3,240000,kg
+Tepung mocaf,F5,20.0,12500,kg
+Tepung sukun,F5,80.0,21000,kg
+Gula halus,F5,12.0,16500,kg
+Minyak nabati,F5,8.0,19500,kg
+Garam,F5,1.2,8000,kg
+Susu bubuk,F5,5.0,68000,kg
+Perisa vanila,F5,0.3,240000,kg
+Tepung mocaf,F6,0.0,12500,kg
+Tepung sukun,F6,100.0,21000,kg
+Gula halus,F6,12.0,16500,kg
+Minyak nabati,F6,8.0,19500,kg
+Garam,F6,1.2,8000,kg
+Susu bubuk,F6,5.0,68000,kg
+Perisa vanila,F6,0.3,240000,kg
